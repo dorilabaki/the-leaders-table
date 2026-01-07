@@ -59,7 +59,7 @@ export const articles = [
     excerpt: "Executive presence isn't about having a corner office or a commanding voice. It's a learnable skill that helps new managers earn respect, influence decisions, and lead with confidence from day one.",
     category: "Leadership",
     readTime: "8 min read",
-    publishedAt: "2025-01-15",
+    publishedAt: "2026-01-10",
     content: `
 # How to Build Executive Presence as a New Manager
 
@@ -182,7 +182,7 @@ The goal isn't to become someone else. It's to become the most confident, clear,
     excerpt: "Forget ice baths and 4 AM wake-up calls. The most effective executive morning routines focus on mental preparation, priorities, and sustainable energy—not performative discipline.",
     category: "Strategy",
     readTime: "7 min read",
-    publishedAt: "2025-01-22",
+    publishedAt: "2026-01-17",
     content: `
 # The CEO Morning Routine That Actually Works
 
@@ -351,7 +351,7 @@ Your mornings shape your leadership. Make them count—but make them yours.
     excerpt: "LinkedIn has evolved from a resume site to the premier platform for professional influence. Here's how leaders can build authority, expand reach, and open doors—without becoming full-time content creators.",
     category: "Communication",
     readTime: "9 min read",
-    publishedAt: "2025-01-29",
+    publishedAt: "2026-01-24",
     content: `
 # LinkedIn Authority Building for Leaders in 2025
 
@@ -569,7 +569,7 @@ Start today. Stay consistent. Your future self will thank you.
     excerpt: "As a leader, should you build your personal brand or focus on your company's? The answer is both—but knowing when to emphasize each is crucial for long-term career success and organizational impact.",
     category: "Strategy",
     readTime: "8 min read",
-    publishedAt: "2025-02-05",
+    publishedAt: "2026-01-31",
     content: `
 # Personal vs Company Brand: A Leader's Guide
 
