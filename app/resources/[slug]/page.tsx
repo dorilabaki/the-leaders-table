@@ -108,7 +108,7 @@ export default async function ArticlePage({ params }: Props) {
       {/* Article Content */}
       <AnimatedSection className="section-padding bg-white">
         <div className="container-narrow">
-          <article className="prose prose-lg max-w-none prose-headings:font-heading prose-headings:text-navy-900 prose-h2:text-[1.75rem] prose-h2:mt-12 prose-h2:mb-6 prose-h3:text-[1.375rem] prose-h3:mt-10 prose-h3:mb-4 prose-h4:text-lg prose-h4:mt-8 prose-h4:mb-3 prose-p:text-navy-700 prose-p:leading-[1.8] prose-p:mb-6 prose-a:text-accent-600 prose-a:underline prose-a:underline-offset-2 prose-strong:text-navy-900 prose-strong:font-semibold prose-li:text-navy-700 prose-li:mb-3 prose-li:leading-[1.75] prose-ul:my-8 prose-ul:pl-6 prose-ul:list-disc prose-ol:my-8 prose-ol:pl-6 prose-ol:list-decimal prose-hr:my-12 prose-blockquote:my-8 prose-blockquote:pl-6 prose-blockquote:border-l-4 prose-blockquote:border-accent-500 prose-blockquote:italic prose-blockquote:text-navy-600 prose-code:text-accent-700 prose-code:bg-navy-100 prose-code:px-1.5 prose-code:py-0.5 prose-code:rounded prose-code:text-sm prose-code:before:content-none prose-code:after:content-none prose-pre:bg-navy-900 prose-pre:text-white prose-pre:rounded-xl prose-pre:p-6 prose-pre:my-8">
+          <article className="article-content">
             <div dangerouslySetInnerHTML={{ __html: marked.parse(article.content) as string }} />
           </article>
         </div>
