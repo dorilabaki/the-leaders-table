@@ -1,6 +1,6 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
-import { guides, siteConfig } from '@/lib/content';
+import { getPublishedGuides, siteConfig } from '@/lib/content';
 import AnimatedSection, { AnimatedDiv, StaggerContainer, StaggerItem } from '@/components/AnimatedSection';
 import { BreadcrumbSchema } from '@/components/SchemaOrg';
 
@@ -13,6 +13,7 @@ export const metadata: Metadata = {
 };
 
 export default function GuidesPage() {
+  const guides = getPublishedGuides();
   return (
     <>
       <BreadcrumbSchema

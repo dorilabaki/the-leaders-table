@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { guides, siteConfig } from '@/lib/content';
+import { getPublishedGuides, getGuideBySlug, siteConfig } from '@/lib/content';
 import AnimatedSection, { AnimatedDiv } from '@/components/AnimatedSection';
 import SchemaOrg, { BreadcrumbSchema } from '@/components/SchemaOrg';
 
@@ -10,14 +10,14 @@ interface Props {
 }
 
 export async function generateStaticParams() {
-  return guides.map((guide) => ({
+  return getPublishedGuides().map((guide) => ({
     slug: guide.slug,
   }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
-  const guide = guides.find((g) => g.slug === slug);
+  const guide = getGuideBySlug(slug);
 
   if (!guide) {
     return { title: 'Guide Not Found' };
@@ -41,13 +41,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function GuidePage({ params }: Props) {
   const { slug } = await params;
-  const guide = guides.find((g) => g.slug === slug);
+  const guide = getGuideBySlug(slug);
 
   if (!guide) {
     notFound();
   }
 
-  const otherGuides = guides.filter((g) => g.slug !== slug);
+  const otherGuides = getPublishedGuides().filter((g) => g.slug !== slug);
 
   return (
     <>

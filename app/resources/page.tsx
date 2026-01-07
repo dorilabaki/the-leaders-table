@@ -1,6 +1,6 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
-import { articles, siteConfig } from '@/lib/content';
+import { getPublishedArticles, siteConfig } from '@/lib/content';
 import AnimatedSection, { AnimatedDiv, StaggerContainer, StaggerItem } from '@/components/AnimatedSection';
 import { BreadcrumbSchema } from '@/components/SchemaOrg';
 
@@ -13,6 +13,7 @@ export const metadata: Metadata = {
 };
 
 export default function ResourcesPage() {
+  const articles = getPublishedArticles();
   const categories = [...new Set(articles.map((a) => a.category))];
 
   return (

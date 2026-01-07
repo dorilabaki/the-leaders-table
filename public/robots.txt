@@ -28,4 +28,4 @@ User-agent: Bytespider
 Allow: /
 
 # Sitemap
-Sitemap: https://theleaderstable.com/sitemap.xml
+Sitemap: https://theleaderstable.xyz/sitemap.xml
