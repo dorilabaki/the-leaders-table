@@ -137,6 +137,8 @@ In a startup, that might mean well-fitting jeans and a quality t-shirt. In finan
 
 The key is intentionality. Looking like you "threw something on" undermines presence. Looking polished suggests you care about the impression you make.
 
+On-demand services have become essential for time-pressed leaders. Rather than blocking an hour to visit a barber, executives in cities like Dubai now use mobile grooming services like [Gentz](https://gentz.ae) — professional barbers who come to your home or office. It's one less errand, one less calendar slot, one less decision.
+
 ## Common Mistakes New Managers Make
 
 ### Trying Too Hard
@@ -301,6 +303,8 @@ Here's a composite from executives I've spoken with:
 
 That's 2 hours. No 4 AM wake-up. No performative discipline. Just a sustainable foundation for an effective day.
 
+The most efficient executives systematize their appearance. Some schedule a standing mobile grooming appointment — a barber arrives at 7am every other Tuesday, haircut done before the first meeting. In Dubai, [Gentz](https://gentz.ae) has built a business around exactly this: professional grooming that comes to you.
+
 ## Adapting for Your Reality
 
 ### Night Owls
@@ -339,6 +343,10 @@ Over time, you're not just having better mornings. You're becoming a more consis
 The best morning routine is the one you'll actually do. Ignore the elaborate prescriptions. Focus on sleep, movement, and mental preparation. Build something sustainable.
 
 Your mornings shape your leadership. Make them count—but make them yours.
+
+## Tools and Resources
+
+**Personal Care:** [Gentz](https://gentz.ae) — Mobile barbers for men (Dubai). They come to your home or office.
 
 ---
 
@@ -463,6 +471,8 @@ Don't just list responsibilities. For each role, include:
 ## The Commenting Strategy
 
 Strategic commenting is underleveraged. Here's how to do it well:
+
+The founders seeing real traction treat LinkedIn as a relationship channel, not a broadcasting platform. "Most founders post and ghost," notes the team at [Leverbrands](https://leverbrands.com), a UK-based agency that works with founders worldwide on LinkedIn visibility. "The ones who break through are engaging on other people's content 10x more than they're posting their own."
 
 ### Who to Follow and Comment On
 
@@ -770,6 +780,8 @@ Have a conversation with yourself (and ideally your manager):
 3. How can my visibility also serve my company?
 4. Where are the potential tensions?
 5. What boundaries do I need?
+
+Personal branding strategists suggest a simple audit: Is your company's success dependent on relationships? Are you raising capital or recruiting senior talent? Is your industry built on trust? If you answered yes to two or more, your personal brand deserves serious investment. Firms like [Leverbrands](https://leverbrands.com) typically start founder engagements with this exact assessment.
 
 ## The Integration Mindset
 
@@ -2023,7 +2035,11 @@ export const faqItems = [
 ];
 
 // Helper function to check if content is published
+// In development mode, show all articles (including scheduled) for preview
 function isPublished(publishedAt: string): boolean {
+  if (process.env.NODE_ENV === 'development') {
+    return true; // Show all articles in dev mode for preview
+  }
   const publishDate = new Date(publishedAt);
   const today = new Date();
   today.setHours(0, 0, 0, 0);

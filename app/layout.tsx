@@ -1,9 +1,12 @@
 import type { Metadata } from 'next';
+import Script from 'next/script';
 import { siteConfig } from '@/lib/content';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import SchemaOrg from '@/components/SchemaOrg';
 import './globals.css';
+
+const GA_MEASUREMENT_ID = 'G-BGJ0W3MBFL';
 
 export const metadata: Metadata = {
   title: {
@@ -71,6 +74,19 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        <meta name="google-site-verification" content="XiQBzzTUUM4QEvp8yzQYs9EH167HYoUhvNNkbbkrVhQ" />
+        <Script
+          src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`}
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', '${GA_MEASUREMENT_ID}');
+          `}
+        </Script>
         <SchemaOrg type="Organization" />
       </head>
       <body className="min-h-screen flex flex-col">
