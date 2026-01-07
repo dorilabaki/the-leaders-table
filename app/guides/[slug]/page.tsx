@@ -4,6 +4,7 @@ import { notFound } from 'next/navigation';
 import { getPublishedGuides, getGuideBySlug, siteConfig } from '@/lib/content';
 import AnimatedSection, { AnimatedDiv } from '@/components/AnimatedSection';
 import SchemaOrg, { BreadcrumbSchema } from '@/components/SchemaOrg';
+import { marked } from 'marked';
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -104,8 +105,8 @@ export default async function GuidePage({ params }: Props) {
       {/* Guide Content */}
       <AnimatedSection className="section-padding bg-white">
         <div className="container-narrow">
-          <article className="prose prose-lg max-w-none prose-headings:font-heading prose-headings:text-navy-900 prose-p:text-navy-700 prose-a:text-accent-600 prose-strong:text-navy-900 prose-li:text-navy-700 prose-table:text-sm">
-            <div dangerouslySetInnerHTML={{ __html: formatContent(guide.content) }} />
+          <article className="prose prose-lg max-w-none prose-headings:font-heading prose-headings:text-navy-900 prose-h2:text-2xl prose-h2:mt-8 prose-h2:mb-4 prose-h3:text-xl prose-h3:mt-6 prose-h3:mb-3 prose-p:text-navy-700 prose-p:mb-4 prose-a:text-accent-600 prose-strong:text-navy-900 prose-li:text-navy-700 prose-ul:my-4 prose-ol:my-4 prose-table:text-sm prose-hr:my-8">
+            <div dangerouslySetInnerHTML={{ __html: marked(guide.content) }} />
           </article>
         </div>
       </AnimatedSection>
@@ -159,41 +160,6 @@ export default async function GuidePage({ params }: Props) {
       )}
     </>
   );
-}
-
-function formatContent(content: string): string {
-  return content
-    .replace(/^# (.+)$/gm, '<h1>$1</h1>')
-    .replace(/^## (.+)$/gm, '<h2>$1</h2>')
-    .replace(/^### (.+)$/gm, '<h3>$1</h3>')
-    .replace(/^\*\*(.+?)\*\*$/gm, '<p><strong>$1</strong></p>')
-    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-    .replace(/\*(.+?)\*/g, '<em>$1</em>')
-    .replace(/^- \[ \] (.+)$/gm, '<li class="flex items-start gap-2"><input type="checkbox" disabled class="mt-1.5" /><span>$1</span></li>')
-    .replace(/^- (.+)$/gm, '<li>$1</li>')
-    .replace(/(<li>.*<\/li>\n?)+/g, (match) => {
-      if (match.includes('checkbox')) {
-        return `<ul class="list-none pl-0">${match}</ul>`;
-      }
-      return `<ul>${match}</ul>`;
-    })
-    .replace(/^(\d+)\. (.+)$/gm, '<li>$2</li>')
-    .replace(/\n\n/g, '</p><p>')
-    .replace(/^(?!<[hulo])/gm, '<p>')
-    .replace(/(?<![>])$/gm, '</p>')
-    .replace(/<p><\/p>/g, '')
-    .replace(/<p>(<[hulo])/g, '$1')
-    .replace(/(<\/[hulo][^>]*>)<\/p>/g, '$1')
-    .replace(/---/g, '<hr />')
-    .replace(/\|(.+)\|/g, (match) => {
-      const cells = match.split('|').filter(Boolean).map((cell) => cell.trim());
-      if (cells.every((c) => c.match(/^-+$/))) {
-        return '';
-      }
-      const tag = cells[0].startsWith('**') ? 'th' : 'td';
-      const row = cells.map((c) => `<${tag}>${c.replace(/\*\*/g, '')}</${tag}>`).join('');
-      return `<tr>${row}</tr>`;
-    });
 }
 
 function ArrowLeftIcon({ className }: { className?: string }) {

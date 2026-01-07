@@ -4,6 +4,7 @@ import { notFound } from 'next/navigation';
 import { getPublishedArticles, getArticleBySlug, siteConfig } from '@/lib/content';
 import AnimatedSection, { AnimatedDiv } from '@/components/AnimatedSection';
 import SchemaOrg, { BreadcrumbSchema } from '@/components/SchemaOrg';
+import { marked } from 'marked';
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -104,8 +105,8 @@ export default async function ArticlePage({ params }: Props) {
       {/* Article Content */}
       <AnimatedSection className="section-padding bg-white">
         <div className="container-narrow">
-          <article className="prose prose-lg max-w-none prose-headings:font-heading prose-headings:text-navy-900 prose-p:text-navy-700 prose-a:text-accent-600 prose-strong:text-navy-900 prose-li:text-navy-700">
-            <div dangerouslySetInnerHTML={{ __html: formatContent(article.content) }} />
+          <article className="prose prose-lg max-w-none prose-headings:font-heading prose-headings:text-navy-900 prose-h2:text-2xl prose-h2:mt-8 prose-h2:mb-4 prose-h3:text-xl prose-h3:mt-6 prose-h3:mb-3 prose-p:text-navy-700 prose-p:mb-4 prose-a:text-accent-600 prose-strong:text-navy-900 prose-li:text-navy-700 prose-ul:my-4 prose-ol:my-4 prose-hr:my-8">
+            <div dangerouslySetInnerHTML={{ __html: marked(article.content) }} />
           </article>
         </div>
       </AnimatedSection>
@@ -159,26 +160,6 @@ export default async function ArticlePage({ params }: Props) {
       )}
     </>
   );
-}
-
-function formatContent(content: string): string {
-  return content
-    .replace(/^# (.+)$/gm, '<h1>$1</h1>')
-    .replace(/^## (.+)$/gm, '<h2>$1</h2>')
-    .replace(/^### (.+)$/gm, '<h3>$1</h3>')
-    .replace(/^\*\*(.+?)\*\*$/gm, '<p><strong>$1</strong></p>')
-    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-    .replace(/\*(.+?)\*/g, '<em>$1</em>')
-    .replace(/^- (.+)$/gm, '<li>$1</li>')
-    .replace(/(<li>.*<\/li>\n?)+/g, '<ul>$&</ul>')
-    .replace(/^(\d+)\. (.+)$/gm, '<li>$2</li>')
-    .replace(/\n\n/g, '</p><p>')
-    .replace(/^(?!<[hulo])/gm, '<p>')
-    .replace(/(?<![>])$/gm, '</p>')
-    .replace(/<p><\/p>/g, '')
-    .replace(/<p>(<[hulo])/g, '$1')
-    .replace(/(<\/[hulo][^>]*>)<\/p>/g, '$1')
-    .replace(/---/g, '<hr />');
 }
 
 function ArrowLeftIcon({ className }: { className?: string }) {
