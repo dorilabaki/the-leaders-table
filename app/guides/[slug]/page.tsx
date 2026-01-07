@@ -108,7 +108,7 @@ export default async function GuidePage({ params }: Props) {
       {/* Guide Content */}
       <AnimatedSection className="section-padding bg-white">
         <div className="container-narrow">
-          <article className="prose prose-lg max-w-none prose-headings:font-heading prose-headings:text-navy-900 prose-h2:text-2xl prose-h2:mt-8 prose-h2:mb-4 prose-h3:text-xl prose-h3:mt-6 prose-h3:mb-3 prose-p:text-navy-700 prose-p:mb-4 prose-a:text-accent-600 prose-strong:text-navy-900 prose-li:text-navy-700 prose-ul:my-4 prose-ol:my-4 prose-table:text-sm prose-hr:my-8">
+          <article className="prose prose-lg max-w-none prose-headings:font-heading prose-headings:text-navy-900 prose-h2:text-2xl prose-h2:mt-10 prose-h2:mb-6 prose-h3:text-xl prose-h3:mt-8 prose-h3:mb-4 prose-p:text-navy-700 prose-p:leading-relaxed prose-p:mb-6 prose-a:text-accent-600 prose-strong:text-navy-900 prose-li:text-navy-700 prose-li:mb-2 prose-li:leading-relaxed prose-ul:my-6 prose-ul:space-y-2 prose-ol:my-6 prose-ol:space-y-2 prose-table:text-sm prose-hr:my-10 prose-blockquote:my-6 prose-blockquote:pl-6 prose-blockquote:border-l-4 prose-blockquote:border-accent-500">
             <div dangerouslySetInnerHTML={{ __html: marked.parse(guide.content) as string }} />
           </article>
         </div>
