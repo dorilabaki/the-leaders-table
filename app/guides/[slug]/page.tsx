@@ -6,6 +6,9 @@ import AnimatedSection, { AnimatedDiv } from '@/components/AnimatedSection';
 import SchemaOrg, { BreadcrumbSchema } from '@/components/SchemaOrg';
 import { marked } from 'marked';
 
+// Configure marked for synchronous parsing
+marked.use({ async: false });
+
 interface Props {
   params: Promise<{ slug: string }>;
 }
@@ -106,7 +109,7 @@ export default async function GuidePage({ params }: Props) {
       <AnimatedSection className="section-padding bg-white">
         <div className="container-narrow">
           <article className="prose prose-lg max-w-none prose-headings:font-heading prose-headings:text-navy-900 prose-h2:text-2xl prose-h2:mt-8 prose-h2:mb-4 prose-h3:text-xl prose-h3:mt-6 prose-h3:mb-3 prose-p:text-navy-700 prose-p:mb-4 prose-a:text-accent-600 prose-strong:text-navy-900 prose-li:text-navy-700 prose-ul:my-4 prose-ol:my-4 prose-table:text-sm prose-hr:my-8">
-            <div dangerouslySetInnerHTML={{ __html: marked(guide.content) }} />
+            <div dangerouslySetInnerHTML={{ __html: marked.parse(guide.content) as string }} />
           </article>
         </div>
       </AnimatedSection>
