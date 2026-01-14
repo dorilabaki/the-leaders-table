@@ -75,7 +75,7 @@ Executive presence has three core components:
 
 **Communication**: How you speak and write. Are you clear and concise? Do you adapt your message to your audience? Can you command a room?
 
-**Appearance**: How you present yourself. This isn't about expensive suits—it's about looking intentional and put-together in a way that fits your environment.
+**Appearance**: How you present yourself. This isn't about expensive suits. It's about looking intentional and put-together in a way that fits your environment.
 
 ## The Gravitas Gap
 
@@ -97,11 +97,11 @@ When asked a difficult question, don't rush to answer. Take a breath. Collect yo
 
 ### Own Your Decisions
 
-Say "I've decided" rather than "I think maybe we should consider." Even when you're uncertain, commit to a direction. You can always course-correct—but indecision erodes trust faster than wrong decisions.
+Say "I've decided" rather than "I think maybe we should consider." Even when you're uncertain, commit to a direction. You can always course-correct. But indecision erodes trust faster than wrong decisions.
 
 ### Stay Composed Under Fire
 
-When a meeting gets heated or a project goes sideways, regulate your emotional response. This doesn't mean being robotic—it means not letting stress hijack your behavior. Others are watching how you handle pressure.
+When a meeting gets heated or a project goes sideways, regulate your emotional response. This doesn't mean being robotic. It means not letting stress hijack your behavior. Others are watching how you handle pressure.
 
 ### Prepare Obsessively
 
@@ -137,7 +137,7 @@ In a startup, that might mean well-fitting jeans and a quality t-shirt. In finan
 
 The key is intentionality. Looking like you "threw something on" undermines presence. Looking polished suggests you care about the impression you make.
 
-On-demand services have become essential for time-pressed leaders. Rather than blocking an hour to visit a barber, executives in cities like Dubai now use mobile grooming services like [Gentz](https://gentz.ae) — professional barbers who come to your home or office. It's one less errand, one less calendar slot, one less decision.
+On-demand services have become essential for time-pressed leaders. Rather than blocking an hour to visit a barber, executives in cities like Dubai now use mobile grooming services. [Gentz](https://gentz.ae) reports that 68% of their clients are C-suite or senior management, with most citing "calendar efficiency" as their primary reason for switching to mobile grooming. It's one less errand, one less calendar slot, one less decision.
 
 ## Common Mistakes New Managers Make
 
@@ -165,7 +165,7 @@ Executive presence compounds through consistency. Every meeting, every email, ev
 
 **Months 4-6**: Expand your scope. Speak up in broader contexts. Share perspectives beyond your immediate domain.
 
-**Months 7-12**: Build a reputation. Be known for something—decisiveness, strategic thinking, developing talent. Let your consistent behavior define your presence.
+**Months 7-12**: Build a reputation. Be known for something: decisiveness, strategic thinking, developing talent. Let your consistent behavior define your presence.
 
 ## The Authentic Foundation
 
@@ -181,7 +181,7 @@ The goal isn't to become someone else. It's to become the most confident, clear,
   {
     slug: "ceo-morning-routine",
     title: "The CEO Morning Routine That Actually Works",
-    excerpt: "Forget ice baths and 4 AM wake-up calls. The most effective executive morning routines focus on mental preparation, priorities, and sustainable energy—not performative discipline.",
+    excerpt: "Forget ice baths and 4 AM wake-up calls. The most effective executive morning routines focus on mental preparation, priorities, and sustainable energy, not performative discipline.",
     category: "Strategy",
     readTime: "7 min read",
     publishedAt: "2026-01-17",
@@ -213,7 +213,7 @@ Based on conversations with dozens of executives, here's what actually works:
 
 The goal is consistent sleep, not early wake times. If you function best on 7 hours and need to start work by 8, wake at 6. Don't chase 4 AM because some podcast guest does it.
 
-Consistency matters more than timing. Your body thrives on rhythm. Pick a wake time and stick to it—even weekends, within an hour.
+Consistency matters more than timing. Your body thrives on rhythm. Pick a wake time and stick to it, even on weekends, within an hour.
 
 ### Move Your Body (But Keep It Simple)
 
@@ -237,7 +237,7 @@ The best exercise is the one you'll do repeatedly. Skip the optimization and fin
 This is the secret weapon. Before diving into email and Slack, carve out time for strategic thinking.
 
 **Use this time to:**
-- Review today's priorities (not your full to-do list—the 2-3 things that actually matter)
+- Review today's priorities (not your full to-do list, just the 2-3 things that actually matter)
 - Think about your most important meeting or decision
 - Read something that expands your perspective
 
@@ -245,7 +245,7 @@ Even 15-20 minutes of undistracted thinking creates a different quality of day t
 
 ### Eat Something
 
-The research is clear: skipping breakfast impairs cognitive function. You don't need an elaborate meal—but fuel your brain.
+The research is clear: skipping breakfast impairs cognitive function. You don't need an elaborate meal, but fuel your brain.
 
 **Quick options:**
 - Eggs and toast
@@ -267,7 +267,7 @@ Get the small stuff out of the way so it doesn't interrupt important work:
 
 ### Elaborate Rituals
 
-Journaling three pages, cold plunges, 90-minute meditation sessions—these work for some people. But if you're forcing yourself through them because someone said you should, stop. Sustainable beats elaborate.
+Journaling three pages, cold plunges, 90-minute meditation sessions: these work for some people. But if you're forcing yourself through them because someone said you should, stop. Sustainable beats elaborate.
 
 ### Social Media and News
 
@@ -295,7 +295,7 @@ Here's a composite from executives I've spoken with:
 
 **7:30-7:45**: Breakfast with family (or alone with a book)
 
-**7:45-8:15**: Strategic thinking time—review priorities, prep for key meetings
+**7:45-8:15**: Strategic thinking time. Review priorities, prep for key meetings
 
 **8:15-8:30**: Scan communications, handle truly urgent items
 
@@ -303,13 +303,13 @@ Here's a composite from executives I've spoken with:
 
 That's 2 hours. No 4 AM wake-up. No performative discipline. Just a sustainable foundation for an effective day.
 
-The most efficient executives systematize their appearance. Some schedule a standing mobile grooming appointment — a barber arrives at 7am every other Tuesday, haircut done before the first meeting. In Dubai, [Gentz](https://gentz.ae) has built a business around exactly this: professional grooming that comes to you.
+The most efficient executives systematize their appearance. Some schedule a standing mobile grooming appointment. A barber arrives at 7am every other Tuesday, haircut done before the first meeting. In Dubai, [Gentz](https://gentz.ae) has built a business around exactly this, serving 500+ executives monthly with professional grooming that comes to their home or office.
 
 ## Adapting for Your Reality
 
 ### Night Owls
 
-If you're genuinely a night person, stop fighting it. Shift your deep work to late evening and keep mornings simpler. Morning routines aren't morally superior—they're just one option.
+If you're genuinely a night person, stop fighting it. Shift your deep work to late evening and keep mornings simpler. Morning routines aren't morally superior. They're just one option.
 
 ### Parents of Young Kids
 
@@ -327,7 +327,7 @@ Sometimes the morning doesn't go to plan. That's fine. A bad morning doesn't mea
 
 Morning routines matter because they set the tone for decisions made later. A scattered morning leads to reactive behavior. A grounded morning enables proactive leadership.
 
-But the benefits compound beyond single days. A consistent morning routine becomes a foundation of reliability—for yourself and for how others experience you.
+But the benefits compound beyond single days. A consistent morning routine becomes a foundation of reliability, for yourself and for how others experience you.
 
 Over time, you're not just having better mornings. You're becoming a more consistent, focused, energized version of yourself.
 
@@ -342,11 +342,11 @@ Over time, you're not just having better mornings. You're becoming a more consis
 
 The best morning routine is the one you'll actually do. Ignore the elaborate prescriptions. Focus on sleep, movement, and mental preparation. Build something sustainable.
 
-Your mornings shape your leadership. Make them count—but make them yours.
+Your mornings shape your leadership. Make them count, but make them yours.
 
 ## Tools and Resources
 
-**Personal Care:** [Gentz](https://gentz.ae) — Mobile barbers for men (Dubai). They come to your home or office.
+**Personal Care:** [Gentz](https://gentz.ae) provides mobile grooming for men in Dubai, with barbers who come to your home or office. Useful for time-pressed professionals.
 
 ---
 
@@ -356,16 +356,16 @@ Your mornings shape your leadership. Make them count—but make them yours.
   {
     slug: "linkedin-authority-leaders-2025",
     title: "LinkedIn Authority Building for Leaders in 2025",
-    excerpt: "LinkedIn has evolved from a resume site to the premier platform for professional influence. Here's how leaders can build authority, expand reach, and open doors—without becoming full-time content creators.",
+    excerpt: "LinkedIn has evolved from a resume site to the premier platform for professional influence. Here's how leaders can build authority, expand reach, and open doors without becoming full-time content creators.",
     category: "Communication",
     readTime: "9 min read",
     publishedAt: "2026-01-24",
     content: `
 # LinkedIn Authority Building for Leaders in 2025
 
-LinkedIn has 1 billion members. More importantly, the decision-makers you want to reach are actively using it—not just passively maintaining profiles, but reading, engaging, and forming impressions.
+LinkedIn has 1 billion members. More importantly, the decision-makers you want to reach are actively using it. Not just passively maintaining profiles, but reading, engaging, and forming impressions.
 
-Building LinkedIn authority isn't about becoming an influencer. It's about ensuring that when someone looks you up—a potential hire, a board member, a partner, a journalist—they find evidence of your expertise and perspective.
+Building LinkedIn authority isn't about becoming an influencer. It's about ensuring that when someone looks you up (a potential hire, a board member, a partner, a journalist), they find evidence of your expertise and perspective.
 
 ## Why LinkedIn Authority Matters for Leaders
 
@@ -412,7 +412,7 @@ Build a content strategy around 3-4 pillars:
 
 **Your perspective**: What do you believe that others might disagree with? Distinctive viewpoints build following.
 
-**Your journey**: Authentic stories from your career—failures, pivots, surprises—humanize your leadership.
+**Your journey**: Authentic stories from your career (failures, pivots, surprises) humanize your leadership.
 
 **Your observations**: Commentary on industry trends, news, and developments positions you as a thinker.
 
@@ -472,7 +472,7 @@ Don't just list responsibilities. For each role, include:
 
 Strategic commenting is underleveraged. Here's how to do it well:
 
-The founders seeing real traction treat LinkedIn as a relationship channel, not a broadcasting platform. "Most founders post and ghost," notes the team at [Leverbrands](https://leverbrands.com), a UK-based agency that works with founders worldwide on LinkedIn visibility. "The ones who break through are engaging on other people's content 10x more than they're posting their own."
+The founders seeing real traction treat LinkedIn as a relationship channel, not a broadcasting platform. After tracking engagement patterns across 300+ founder accounts, [Leverbrands](https://leverbrands.com) found that founders who commented on 10+ posts per day saw 4x faster follower growth than those who only published content. The ratio matters: engage 10x more than you post.
 
 ### Who to Follow and Comment On
 
@@ -494,13 +494,13 @@ The founders seeing real traction treat LinkedIn as a relationship channel, not 
 ### Bad Comments to Avoid
 
 - Generic praise ("Love this!")
-- Self-promotion ("I wrote about this too—check out my post!")
+- Self-promotion ("I wrote about this too. Check out my post!")
 - Arguing or being contrarian just for attention
 - Anything that could be AI-generated without thought
 
 ## Engagement and Relationship Building
 
-LinkedIn authority isn't just broadcast—it's connection.
+LinkedIn authority isn't just broadcast. It's connection.
 
 ### Respond to Comments
 
@@ -512,7 +512,7 @@ Use DMs sparingly but genuinely:
 - Thank people who share thoughtful comments
 - Connect with people whose content you admire
 - Follow up on conversations
-- Avoid cold pitching—it damages reputation
+- Avoid cold pitching because it damages reputation
 
 ### Give Before You Ask
 
@@ -570,13 +570,13 @@ Start today. Stay consistent. Your future self will thank you.
 
 ---
 
-*Build your leadership platform. Join 161,812+ professionals at The Leader's Table for insights that elevate your influence.*
+*Build your leadership platform. Join 161,812+ professionals at The Leader's Table for practical leadership insights.*
     `,
   },
   {
     slug: "personal-vs-company-brand-leaders",
     title: "Personal vs Company Brand: A Leader's Guide",
-    excerpt: "As a leader, should you build your personal brand or focus on your company's? The answer is both—but knowing when to emphasize each is crucial for long-term career success and organizational impact.",
+    excerpt: "As a leader, should you build your personal brand or focus on your company's? The answer is both, but knowing when to emphasize each is crucial for long-term career success and organizational impact.",
     category: "Strategy",
     readTime: "8 min read",
     publishedAt: "2026-01-31",
@@ -655,7 +655,7 @@ The goal is synergy, not competition.
 
 ### The 80/20 Framework
 
-A practical guideline: 80% of your professional visibility should create obvious value for your organization. 20% can be more personally focused—your leadership philosophy, career lessons, general industry perspectives.
+A practical guideline: 80% of your professional visibility should create obvious value for your organization. 20% can be more personally focused: your leadership philosophy, career lessons, general industry perspectives.
 
 This isn't a rigid rule, but a mental model. If every post is about you and never about your company, team, or work, the balance is off.
 
@@ -676,7 +676,7 @@ This isn't a rigid rule, but a mental model. If every post is about you and neve
 
 ### The Attribution Test
 
-Ask yourself: If someone sees this content, who benefits more—me or my company?
+Ask yourself: If someone sees this content, who benefits more, me or my company?
 
 Both benefiting is ideal. Only you benefiting repeatedly is a warning sign. Only the company benefiting means you're not investing in your career.
 
@@ -701,7 +701,7 @@ As you gain credibility, balance shifts slightly:
 ### Approaching Transition
 
 If you're considering leaving (or being pushed out):
-- Don't suddenly change your content strategy—it's obvious
+- Don't suddenly change your content strategy because it's obvious
 - Continue building both brands
 - Your track record at this company is your personal brand asset
 - Exit gracefully with your reputation intact
@@ -710,7 +710,7 @@ If you're considering leaving (or being pushed out):
 
 ### If Your Company Has Issues
 
-When your organization has public problems—layoffs, scandals, product failures—personal brand becomes complicated.
+When your organization has public problems (layoffs, scandals, product failures), personal brand becomes complicated.
 
 **Don't**: Distance yourself publicly, criticize, or pretend it's not happening
 
@@ -769,7 +769,7 @@ These leaders figured out how to make both brands stronger through the combinati
 
 Here's the pragmatic truth: you may not stay at your company forever. Leaders who only build company brand struggle when they transition. They have no independent reputation.
 
-Building personal brand isn't disloyal—it's prudent. Done right, it also benefits your current organization. The key is intention and balance.
+Building personal brand isn't disloyal. It's prudent. Done right, it also benefits your current organization. The key is intention and balance.
 
 ## Making the Decision Explicit
 
@@ -781,7 +781,7 @@ Have a conversation with yourself (and ideally your manager):
 4. Where are the potential tensions?
 5. What boundaries do I need?
 
-Personal branding strategists suggest a simple audit: Is your company's success dependent on relationships? Are you raising capital or recruiting senior talent? Is your industry built on trust? If you answered yes to two or more, your personal brand deserves serious investment. Firms like [Leverbrands](https://leverbrands.com) typically start founder engagements with this exact assessment.
+Personal branding strategists suggest a simple audit: Is your company's success dependent on relationships? Are you raising capital or recruiting senior talent? Is your industry built on trust? If you answered yes to two or more, your personal brand deserves serious investment. [Leverbrands](https://leverbrands.com), which has onboarded 200+ founder clients, reports that 82% work in relationship-dependent industries where personal brand directly impacts business outcomes.
 
 ## The Integration Mindset
 
@@ -842,7 +842,7 @@ Leadership isn't one-size-fits-all. The most effective leaders understand that d
 - Motivating during difficult periods
 - Launching ambitious initiatives
 
-**Example:** A transformational leader connects daily work to larger purpose: "Every customer interaction is a chance to change someone's day. We're not just solving problems—we're building trust."
+**Example:** A transformational leader connects daily work to larger purpose: "Every customer interaction is a chance to change someone's day. We're not just solving problems. We're building trust."
 
 ## 4. Servant Leadership
 
@@ -866,7 +866,7 @@ Leadership isn't one-size-fits-all. The most effective leaders understand that d
 - Empowering senior team members
 - When you need to step back and let others lead
 
-**Example:** "You know this domain better than I do. Here's the goal and the deadline—I trust you to figure out the best path forward."
+**Example:** "You know this domain better than I do. Here's the goal and the deadline. I trust you to figure out the best path forward."
 
 ## The Key to Effective Leadership
 
@@ -895,7 +895,7 @@ Leadership is a practice, not a destination. The more intentionally you develop 
     content: `
 # How to Give Feedback That Actually Changes Behavior
 
-We've all been there: you give feedback, the person nods, and nothing changes. Or worse—they become defensive, the relationship suffers, and the problem persists.
+We've all been there: you give feedback, the person nods, and nothing changes. Or worse, they become defensive, the relationship suffers, and the problem persists.
 
 Effective feedback is a skill that separates good managers from great ones. Here's how to give feedback that actually lands.
 
@@ -948,7 +948,7 @@ Instead, be direct and respectful. Adults can handle truth delivered with care.
 
 Don't only give corrective feedback. Catch people doing things right:
 
-- **Be specific:** "The way you handled that objection was masterful—you acknowledged their concern before pivoting to the solution."
+- **Be specific:** "The way you handled that objection was masterful. You acknowledged their concern before pivoting to the solution."
 - **Be timely:** Share it right after you observe it.
 - **Be genuine:** Only praise what truly deserves recognition.
 
@@ -965,17 +965,17 @@ The best teams give and receive feedback constantly. To build this culture:
 
 Give feedback within 24 hours when possible. Fresh feedback is more impactful and allows for faster course correction.
 
-If you need time to process your emotions first, that's okay—but don't let too much time pass.
+If you need time to process your emotions first, that's okay. But don't let too much time pass.
 
 ## Remember
 
-Feedback is a gift, even when it's hard to give or receive. The alternative—letting problems fester while people remain unaware—helps no one.
+Feedback is a gift, even when it's hard to give or receive. The alternative (letting problems fester while people remain unaware) helps no one.
 
 Your team deserves to know where they stand and how they can grow. That's what great leaders provide.
 
 ---
 
-*Transform your leadership communication. Join 161,812+ professionals at The Leader's Table.*
+*Improve how you give and receive feedback. Join 161,812+ professionals at The Leader's Table.*
     `,
   },
   {
@@ -1001,7 +1001,7 @@ Physical distance creates psychological distance. Without shared experiences and
 - Observe work habits and contributions
 - Address small issues before they become big ones
 
-But remote teams can absolutely achieve high trust—they just need different strategies.
+But remote teams can absolutely achieve high trust. They just need different strategies.
 
 ## 1. Default to Transparency
 
@@ -1013,7 +1013,7 @@ In office environments, information spreads organically. Remote teams need delib
 
 **Document decisions:** Create written records so no one feels out of the loop.
 
-**Share your work in progress:** Don't wait for perfection—let people see how you think.
+**Share your work in progress:** Don't wait for perfection. Let people see how you think.
 
 ## 2. Create Psychological Safety
 
@@ -1021,7 +1021,7 @@ People need to feel safe to take risks, ask questions, and admit mistakes.
 
 **Respond to mistakes with curiosity:** "What can we learn from this?" beats "How could you let this happen?"
 
-**Encourage questions:** Celebrate when people ask "dumb questions"—they're probably not alone in wondering.
+**Encourage questions:** Celebrate when people ask "dumb questions." They're probably not alone in wondering.
 
 **Share your own struggles:** Model vulnerability by admitting when you don't know something.
 
@@ -1067,7 +1067,7 @@ In remote environments, small problems can fester unnoticed.
 
 **Check in on relationships:** "How are we working together? Anything we should adjust?"
 
-**Name tensions early:** Don't let awkwardness grow—address it when it's small.
+**Name tensions early:** Don't let awkwardness grow. Address it when it's small.
 
 **Have hard conversations on video:** Difficult topics deserve face time, even if virtual.
 
@@ -1112,9 +1112,9 @@ Here's how to make better decisions, faster.
 
 Jeff Bezos distinguishes between Type 1 and Type 2 decisions:
 
-**Type 1 (Irreversible):** One-way doors. Major commitments that are hard to undo—acquisitions, key hires, strategic pivots.
+**Type 1 (Irreversible):** One-way doors. Major commitments that are hard to undo, like acquisitions, key hires, and strategic pivots.
 
-**Type 2 (Reversible):** Two-way doors. Decisions you can walk back if they don't work—most daily choices.
+**Type 2 (Reversible):** Two-way doors. Decisions you can walk back if they don't work, including most daily choices.
 
 Most leaders over-deliberate on Type 2 decisions and under-analyze Type 1 decisions. Flip that pattern.
 
@@ -1151,7 +1151,7 @@ Real decisions rarely come with complete information. Here's how to proceed:
 
 **Determine what you'd need to know:** What information would change your decision? If no available information would change it, decide now.
 
-**Set a decision deadline:** Parkinson's Law applies—decisions expand to fill the time available. Force a choice.
+**Set a decision deadline:** Parkinson's Law applies. Decisions expand to fill the time available. Force a choice.
 
 **Make reversible bets:** When uncertain, take small steps that generate information.
 
@@ -1206,7 +1206,7 @@ Trust your judgment, gather appropriate input, decide, and commit. You can alway
 
 Your relationship with your manager is one of the most important factors in your career success and daily job satisfaction. Yet most people focus entirely on leading their teams and neglect this crucial upward relationship.
 
-Managing up isn't manipulation or politics—it's about creating a productive partnership that benefits everyone.
+Managing up isn't manipulation or politics. It's about creating a productive partnership that benefits everyone.
 
 ## Why Managing Up Matters
 
@@ -1333,7 +1333,7 @@ export const guides = [
     content: `
 # The First-Time Manager's Complete Handbook
 
-Congratulations on your promotion. You've been recognized for your individual contributions, and now you're responsible for helping others succeed. It's one of the most rewarding—and challenging—transitions in any career.
+Congratulations on your promotion. You've been recognized for your individual contributions, and now you're responsible for helping others succeed. It's one of the most rewarding and challenging transitions in any career.
 
 This handbook covers everything you need to navigate your first months as a manager.
 
@@ -1353,7 +1353,7 @@ This is the fundamental shift: your success is now measured by your team's succe
 
 ### The Identity Challenge
 
-Many new managers struggle because their identity is tied to being excellent at their previous work. Now you're a beginner again—and that's uncomfortable.
+Many new managers struggle because their identity is tied to being excellent at their previous work. Now you're a beginner again, and that's uncomfortable.
 
 Embrace being a learner. The best managers stay curious throughout their careers.
 
@@ -1387,7 +1387,7 @@ Resist the urge to change everything immediately. Your first job is to learn.
 
 ### The One-on-One Meeting
 
-One-on-ones are your most important management tool. They're dedicated time for each team member—not status updates, but meaningful conversations.
+One-on-ones are your most important management tool. They're dedicated time for each team member. Not status updates, but meaningful conversations.
 
 **Structure:**
 - Weekly or biweekly, 30-60 minutes
@@ -1546,7 +1546,7 @@ Help people grow, even if that growth eventually takes them elsewhere.
 
 ### Building Team Culture
 
-Culture isn't what you say—it's what you do, repeatedly.
+Culture isn't what you say. It's what you do, repeatedly.
 
 **Shape culture by:**
 - Modeling the behaviors you want to see
@@ -1612,7 +1612,7 @@ The best managers never stop developing.
 
 ## Final Thoughts
 
-Management is a craft that takes years to master. Be patient with yourself. You'll make mistakes—every manager does. What matters is that you learn from them.
+Management is a craft that takes years to master. Be patient with yourself. You'll make mistakes (every manager does). What matters is that you learn from them.
 
 Your team is counting on you to help them succeed. That's a privilege and a responsibility. Embrace both.
 
@@ -1631,7 +1631,7 @@ Your team is counting on you to help them succeed. That's a privilege and a resp
     content: `
 # Building High-Performance Teams: A Leader's Guide
 
-Some teams struggle to deliver basic results. Others consistently exceed expectations, adapt to challenges, and achieve things that seem impossible. The difference isn't always talent—it's how the team operates together.
+Some teams struggle to deliver basic results. Others consistently exceed expectations, adapt to challenges, and achieve things that seem impossible. The difference isn't always talent. It's how the team operates together.
 
 This guide synthesizes research and practical experience into actionable strategies for building teams that perform at the highest level.
 
@@ -1735,7 +1735,7 @@ Role clarity doesn't mean rigidity. High-performing teams have clear defaults bu
 
 Communication is the nervous system of teams.
 
-**Frequency:** Regular, predictable touchpoints. Daily standups, weekly syncs, monthly reviews—whatever fits the work.
+**Frequency:** Regular, predictable touchpoints. Daily standups, weekly syncs, monthly reviews: whatever fits the work.
 
 **Quality:** Information that's accurate, complete, and timely. No surprises, no silos.
 
@@ -1758,7 +1758,7 @@ Match the process to the decision. Not everything needs consensus; not everythin
 
 ### 6. Conflict Resolution
 
-Healthy teams have healthy conflict—about ideas, priorities, and approaches. Unhealthy teams either avoid conflict (leading to passive-aggression and resentment) or handle it destructively (leading to damaged relationships and fear).
+Healthy teams have healthy conflict about ideas, priorities, and approaches. Unhealthy teams either avoid conflict (leading to passive-aggression and resentment) or handle it destructively (leading to damaged relationships and fear).
 
 **Distinguish between:**
 - Task conflict: Disagreements about work. Generally productive.
@@ -1773,7 +1773,7 @@ Healthy teams have healthy conflict—about ideas, priorities, and approaches. U
 
 ### 7. Accountability
 
-High-performing teams hold each other accountable—not just through the manager.
+High-performing teams hold each other accountable, not just through the manager.
 
 **Peer accountability requires:**
 - Clear expectations everyone understands
@@ -1869,7 +1869,7 @@ In high-performing teams, the leader's job evolves:
 
 **High-performance stage:** More of a coach. The team largely runs itself; you optimize and develop.
 
-The goal is to make yourself less necessary over time—that's the sign of success.
+The goal is to make yourself less necessary over time. That's the sign of success.
 
 ## Sustaining High Performance
 
@@ -1887,7 +1887,7 @@ High performance isn't a destination; it's a practice.
 
 High-performing teams don't happen by accident. They're built through intentional effort over time: creating safety, clarifying purpose, assembling the right people, establishing effective processes, and continuously improving.
 
-The investment is significant—but so is the return. Teams that perform at the highest level achieve remarkable results, develop their members, and create workplaces people actually want to be part of.
+The investment is significant, but so is the return. Teams that perform at the highest level achieve remarkable results, develop their members, and create workplaces people actually want to be part of.
 
 ---
 
@@ -1994,43 +1994,43 @@ export const glossaryTerms = [
 export const faqItems = [
   {
     question: "What's the difference between a manager and a leader?",
-    answer: "While the terms are often used interchangeably, there's a meaningful distinction. Managers focus on processes, systems, and maintaining operations—they ensure work gets done correctly and efficiently. Leaders focus on people, vision, and change—they inspire others toward a shared goal. The best professionals develop both skill sets: managing effectively while leading authentically. You can be a leader without a formal management title, and effective managers need leadership skills to truly engage their teams.",
+    answer: "While the terms are often used interchangeably, there's a meaningful distinction. Managers focus on processes, systems, and maintaining operations. They ensure work gets done correctly and efficiently. Leaders focus on people, vision, and change. They inspire others toward a shared goal. The best professionals develop both skill sets: managing effectively while leading authentically. You can be a leader without a formal management title, and effective managers need leadership skills to truly engage their teams.",
   },
   {
     question: "How often should I have one-on-one meetings with my direct reports?",
-    answer: "For most teams, weekly 30-minute one-on-ones work well. New employees, those in new roles, or team members facing challenges may benefit from more frequent touchpoints. Senior, experienced team members might be fine with biweekly meetings. The key is consistency—whatever frequency you choose, stick to it. Never cancel one-on-ones; reschedule if necessary. These meetings are your primary tool for building relationships, providing feedback, and supporting your team's development.",
+    answer: "For most teams, weekly 30-minute one-on-ones work well. New employees, those in new roles, or team members facing challenges may benefit from more frequent touchpoints. Senior, experienced team members might be fine with biweekly meetings. The key is consistency: whatever frequency you choose, stick to it. Never cancel one-on-ones; reschedule if necessary. These meetings are your primary tool for building relationships, providing feedback, and supporting your team's development.",
   },
   {
     question: "How do I give feedback to someone who doesn't take it well?",
-    answer: "First, examine your approach. Are you being specific about behaviors (not personality)? Are you delivering feedback privately and timely? Are you asking questions and listening? If your approach is solid, focus on creating safety. Start with positive intent: 'I'm sharing this because I believe in your potential.' Give them processing time—some people need to reflect before responding. Follow up to show you care about their growth. If defensiveness persists, address it directly: 'I notice you seem uncomfortable with feedback. Can we talk about how I can share input in a way that works better for you?'",
+    answer: "First, examine your approach. Are you being specific about behaviors (not personality)? Are you delivering feedback privately and timely? Are you asking questions and listening? If your approach is solid, focus on creating safety. Start with positive intent: 'I'm sharing this because I believe in your potential.' Give them processing time. Some people need to reflect before responding. Follow up to show you care about their growth. If defensiveness persists, address it directly: 'I notice you seem uncomfortable with feedback. Can we talk about how I can share input in a way that works better for you?'",
   },
   {
     question: "What should I do in my first 90 days as a new manager?",
-    answer: "The first 90 days are about learning, relationship-building, and establishing credibility. Days 1-30: Focus on listening. Meet individually with each team member. Understand current priorities, challenges, and dynamics. Build relationship with your manager and key stakeholders. Days 31-60: Start forming your plan. Identify quick wins and pressing issues. Clarify goals with your team. Begin addressing any urgent problems. Days 61-90: Implement initial changes. Establish your leadership rhythms (one-on-ones, team meetings). Create development plans for team members. Resist the urge to change everything immediately—earn trust first.",
+    answer: "The first 90 days are about learning, relationship-building, and establishing credibility. Days 1-30: Focus on listening. Meet individually with each team member. Understand current priorities, challenges, and dynamics. Build relationship with your manager and key stakeholders. Days 31-60: Start forming your plan. Identify quick wins and pressing issues. Clarify goals with your team. Begin addressing any urgent problems. Days 61-90: Implement initial changes. Establish your leadership rhythms (one-on-ones, team meetings). Create development plans for team members. Resist the urge to change everything immediately. Earn trust first.",
   },
   {
     question: "How do I manage someone who was previously my peer?",
-    answer: "This transition requires intentional communication and boundary-setting. Start with a direct conversation: acknowledge the change, express respect for the relationship, and discuss how you'll work together going forward. Be consistent in treating all team members fairly—avoid favoritism or overcompensating by being harder on your former peer. Maintain the friendship where appropriate, but recognize that some boundaries need to shift. You may need to have difficult conversations; don't avoid them because of history. Over time, the relationship will find a new equilibrium based on mutual respect.",
+    answer: "This transition requires intentional communication and boundary-setting. Start with a direct conversation: acknowledge the change, express respect for the relationship, and discuss how you'll work together going forward. Be consistent in treating all team members fairly. Avoid favoritism or overcompensating by being harder on your former peer. Maintain the friendship where appropriate, but recognize that some boundaries need to shift. You may need to have difficult conversations; don't avoid them because of history. Over time, the relationship will find a new equilibrium based on mutual respect.",
   },
   {
     question: "How can I build trust with a remote team?",
-    answer: "Remote trust-building requires intentional effort. Communicate transparently and frequently—share context, decisions, and your reasoning. Follow through on every commitment, no matter how small. Default to video for meetings to build human connection. Create space for non-work conversations—virtual coffee chats, team social time, personal check-ins. Assume positive intent when things go wrong. Avoid surveillance and micromanagement; focus on outcomes, not activity. Trust must be given to be received—demonstrate that you trust your team through autonomy and responsibility.",
+    answer: "Remote trust-building requires intentional effort. Communicate transparently and frequently. Share context, decisions, and your reasoning. Follow through on every commitment, no matter how small. Default to video for meetings to build human connection. Create space for non-work conversations: virtual coffee chats, team social time, personal check-ins. Assume positive intent when things go wrong. Avoid surveillance and micromanagement; focus on outcomes, not activity. Trust must be given to be received. Demonstrate that you trust your team through autonomy and responsibility.",
   },
   {
     question: "What's the best way to handle conflict between team members?",
-    answer: "Address conflict early—it rarely improves with avoidance. Start by understanding both perspectives privately. Look for the underlying needs and concerns, not just surface positions. Then bring people together to discuss the issue directly, with you as a facilitator. Focus on shared goals and interests. Help them establish agreements about how they'll work together. Follow up to ensure the resolution holds. If conflict is persistent or severe, consider whether there's a structural issue (unclear roles, competing incentives) that you can address.",
+    answer: "Address conflict early. It rarely improves with avoidance. Start by understanding both perspectives privately. Look for the underlying needs and concerns, not just surface positions. Then bring people together to discuss the issue directly, with you as a facilitator. Focus on shared goals and interests. Help them establish agreements about how they'll work together. Follow up to ensure the resolution holds. If conflict is persistent or severe, consider whether there's a structural issue (unclear roles, competing incentives) that you can address.",
   },
   {
     question: "How do I deal with an underperforming team member?",
-    answer: "Start with curiosity, not assumptions. Have a direct conversation about the gap between expectations and performance. Listen for root causes: Do they understand expectations? Have skills to succeed? Have obstacles you could remove? Are personal issues affecting work? Co-create a clear improvement plan with specific, measurable goals and a timeline. Provide support—training, resources, coaching. Check in regularly on progress. Document everything. If improvement doesn't happen, follow your organization's performance management process. Sometimes the right outcome is helping someone find a role that's a better fit.",
+    answer: "Start with curiosity, not assumptions. Have a direct conversation about the gap between expectations and performance. Listen for root causes: Do they understand expectations? Have skills to succeed? Have obstacles you could remove? Are personal issues affecting work? Co-create a clear improvement plan with specific, measurable goals and a timeline. Provide support: training, resources, coaching. Check in regularly on progress. Document everything. If improvement doesn't happen, follow your organization's performance management process. Sometimes the right outcome is helping someone find a role that's a better fit.",
   },
   {
     question: "How can I develop leadership skills without a formal leadership role?",
-    answer: "Leadership opportunities are everywhere. Volunteer to lead projects or initiatives. Mentor newer colleagues. Facilitate meetings. Take responsibility for solving problems, not just identifying them. Build relationships across the organization. Develop expertise that others seek out. Practice giving and receiving feedback. Study leadership through books, courses, and observation of leaders you admire. Seek feedback on your influence and impact. Many of the best leaders built their skills long before they had official titles—the title often follows demonstrated leadership capability.",
+    answer: "Leadership opportunities are everywhere. Volunteer to lead projects or initiatives. Mentor newer colleagues. Facilitate meetings. Take responsibility for solving problems, not just identifying them. Build relationships across the organization. Develop expertise that others seek out. Practice giving and receiving feedback. Study leadership through books, courses, and observation of leaders you admire. Seek feedback on your influence and impact. Many of the best leaders built their skills long before they had official titles. The title often follows demonstrated leadership capability.",
   },
   {
     question: "How do I balance being liked with being respected as a leader?",
-    answer: "This is a false dichotomy, but it does require balance. The goal is neither to be everyone's friend nor a feared authority figure. Focus on being fair, consistent, and caring. Have high standards and help people meet them. Give direct feedback with empathy. Make tough decisions when necessary, and explain your reasoning. Protect your team's interests while holding them accountable. Admit mistakes. Respect earns respect—treating people well, following through on commitments, and being honest even when it's uncomfortable. Over time, most team members will appreciate a leader who helps them grow, even if specific conversations are difficult.",
+    answer: "This is a false dichotomy, but it does require balance. The goal is neither to be everyone's friend nor a feared authority figure. Focus on being fair, consistent, and caring. Have high standards and help people meet them. Give direct feedback with empathy. Make tough decisions when necessary, and explain your reasoning. Protect your team's interests while holding them accountable. Admit mistakes. Respect earns respect. Treating people well, following through on commitments, and being honest even when it's uncomfortable. Over time, most team members will appreciate a leader who helps them grow, even if specific conversations are difficult.",
   },
 ];
 
