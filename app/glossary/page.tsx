@@ -60,7 +60,8 @@ export default function GlossaryPage() {
         <div className="container-wide">
           <StaggerContainer className="space-y-6">
             {glossaryTerms.map((term) => (
-              <StaggerItem key={term.term} id={term.title[0].toLowerCase()}>
+              // Use 'o' anchor for "1:1 Meetings" (One-on-One) to match the alphabet nav
+              <StaggerItem key={term.term} id={term.title[0] === '1' ? 'o' : term.title[0].toLowerCase()}>
                 <Link
                   href={`/glossary/${term.term}/`}
                   className="group block bg-white rounded-xl p-8 shadow-sm hover:shadow-md transition-all border border-navy-100"

@@ -16,7 +16,7 @@ export default function SchemaOrg({ type, data = {} }: SchemaOrgProps) {
     '@type': 'Organization',
     name: siteConfig.name,
     url: siteConfig.url,
-    logo: `${siteConfig.url}/logo.png`,
+    logo: `${siteConfig.url}/logo.jpeg`,
     description: siteConfig.description,
     sameAs: [siteConfig.linkedIn],
     contactPoint: {

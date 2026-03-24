@@ -1,102 +1,132 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://theleaderstable.com/</loc>
+    <loc>https://theleaderstable.xyz/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://theleaderstable.com/about/</loc>
+    <loc>https://theleaderstable.xyz/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://theleaderstable.com/resources/</loc>
+    <loc>https://theleaderstable.xyz/resources/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://theleaderstable.com/resources/five-leadership-styles/</loc>
+    <loc>https://theleaderstable.xyz/resources/executive-presence-new-manager/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://theleaderstable.com/resources/feedback-that-changes-behavior/</loc>
+    <loc>https://theleaderstable.xyz/resources/ceo-morning-routine/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://theleaderstable.com/resources/building-trust-remote-teams/</loc>
+    <loc>https://theleaderstable.xyz/resources/linkedin-authority-building/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://theleaderstable.com/resources/strategic-decision-making/</loc>
+    <loc>https://theleaderstable.xyz/resources/personal-vs-company-brand/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://theleaderstable.com/resources/managing-up/</loc>
+    <loc>https://theleaderstable.xyz/resources/five-leadership-styles/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://theleaderstable.com/guides/</loc>
+    <loc>https://theleaderstable.xyz/resources/feedback-that-changes-behavior/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://theleaderstable.xyz/resources/building-trust-remote-teams/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://theleaderstable.xyz/resources/strategic-decision-making/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://theleaderstable.xyz/resources/managing-up/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://theleaderstable.xyz/resources/ai-fluency-for-leaders/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://theleaderstable.xyz/guides/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://theleaderstable.com/guides/first-time-manager-handbook/</loc>
+    <loc>https://theleaderstable.xyz/guides/first-time-manager-handbook/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://theleaderstable.com/guides/building-high-performance-teams/</loc>
+    <loc>https://theleaderstable.xyz/guides/building-high-performance-teams/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://theleaderstable.com/glossary/</loc>
+    <loc>https://theleaderstable.xyz/glossary/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://theleaderstable.com/glossary/servant-leadership/</loc>
+    <loc>https://theleaderstable.xyz/glossary/servant-leadership/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://theleaderstable.com/glossary/emotional-intelligence/</loc>
+    <loc>https://theleaderstable.xyz/glossary/emotional-intelligence/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://theleaderstable.com/glossary/delegation/</loc>
+    <loc>https://theleaderstable.xyz/glossary/delegation/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://theleaderstable.com/glossary/one-on-one-meetings/</loc>
+    <loc>https://theleaderstable.xyz/glossary/1-1-meetings/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://theleaderstable.com/glossary/psychological-safety/</loc>
+    <loc>https://theleaderstable.xyz/glossary/psychological-safety/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://theleaderstable.com/faq/</loc>
+    <loc>https://theleaderstable.xyz/playbook/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://theleaderstable.xyz/faq/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://theleaderstable.com/feed/</loc>
+    <loc>https://theleaderstable.xyz/feed/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://theleaderstable.com/contact/</loc>
+    <loc>https://theleaderstable.xyz/contact/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>

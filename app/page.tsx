@@ -1,6 +1,9 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import { siteConfig, pillars, articles, guides } from '@/lib/content';
 import AnimatedSection, { AnimatedDiv, StaggerContainer, StaggerItem } from '@/components/AnimatedSection';
+import LeadMagnetBanner from '@/components/LeadMagnetBanner';
+import NewsletterForm from '@/components/NewsletterForm';
 
 export default function HomePage() {
   return (
@@ -10,10 +13,13 @@ export default function HomePage() {
         <div className="container-wide relative py-24 lg:py-32">
           <AnimatedDiv className="max-w-3xl">
             <div className="mb-8">
-              <img
+              <Image
                 src="/logo.jpeg"
                 alt="The Leader's Table"
-                className="w-20 h-20 rounded-2xl shadow-lg"
+                width={80}
+                height={80}
+                className="rounded-2xl shadow-lg"
+                priority
               />
             </div>
             <p className="text-accent-400 font-medium mb-4 tracking-wide uppercase text-sm">
@@ -182,7 +188,7 @@ export default function HomePage() {
                   <div className="p-6">
                     <div className="flex items-center gap-3 mb-3">
                       <span className="text-accent-500 text-sm font-medium">{article.category}</span>
-                      <span className="text-navy-400 text-sm">{article.readTime}</span>
+                      <span className="text-navy-600 text-sm">{article.readTime}</span>
                     </div>
                     <h3 className="font-heading text-lg font-bold text-navy-900 mb-2 group-hover:text-accent-600 transition-colors">
                       {article.title}
@@ -215,22 +221,17 @@ export default function HomePage() {
             Get weekly leadership insights delivered straight to your inbox.
             Join {siteConfig.followersAggregated} {siteConfig.followersTagline}.
           </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center max-w-md mx-auto">
-            <input
-              type="email"
-              placeholder="Enter your email"
-              className="flex-1 px-4 py-3 rounded-lg bg-white/10 border border-white/20 text-white placeholder-navy-400 focus:outline-none focus:ring-2 focus:ring-accent-500"
-            />
-            <button
-              type="button"
-              className="px-6 py-3 bg-accent-500 text-white font-semibold rounded-lg hover:bg-accent-400 transition-colors"
-            >
-              Subscribe
-            </button>
-          </div>
-          <p className="text-navy-400 text-sm mt-4">
+          <NewsletterForm />
+          <p className="text-navy-500 text-sm mt-4">
             No spam. Unsubscribe anytime.
           </p>
+        </div>
+      </AnimatedSection>
+
+      {/* Lead Magnet Banner */}
+      <AnimatedSection className="section-padding bg-white">
+        <div className="container-wide">
+          <LeadMagnetBanner />
         </div>
       </AnimatedSection>
 

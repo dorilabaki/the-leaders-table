@@ -26,7 +26,7 @@ export interface FeedPost {
 export const feedConfig = {
   pageName: "The Leader's Table",
   linkedInUrl: "https://www.linkedin.com/company/the-leaders-table",
-  followers: "161,000+",
+  followers: "161,812",
   description: "Leadership insights from our LinkedIn community.",
 }
 
@@ -86,6 +86,35 @@ They need better conversations.`,
     comments: 312,
     reposts: 389,
     date: "2024-01-05",
+  },
+  // --- Scraped 2026-03-24 ---
+  {
+    id: "4",
+    linkedInUrl: "https://www.linkedin.com/company/the-leaders-table/posts/",
+    content: `You thought your presentation went well...
+
+So why did you leave without an answer?
+
+Because a great presentation isn't about slides. It's about moving people to a decision.
+
+Next time, end with clarity — not applause.`,
+    likes: 219,
+    comments: 7,
+    date: "2026-03-24",
+  },
+  {
+    id: "5",
+    linkedInUrl: "https://www.linkedin.com/company/the-leaders-table/posts/",
+    content: `Your title doesn't make you a success.
+
+Your impact does.
+
+Leaders who rely on authority lose influence the moment the title is gone.
+
+Leaders who earn trust? That follows them everywhere.`,
+    likes: 0,
+    comments: 0,
+    date: "2026-03-24",
   },
   // Add more posts here...
 ]

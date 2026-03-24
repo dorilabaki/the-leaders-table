@@ -146,7 +146,7 @@ export default function AboutPage() {
               What Leaders Are Saying
             </h2>
             <p className="text-navy-600 text-lg max-w-2xl mx-auto">
-              Real insights from our LinkedIn community of 161,000+ leadership professionals.
+              Real insights from our LinkedIn community of {siteConfig.followers}+ leadership professionals.
             </p>
           </div>
           <StaggerContainer className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">

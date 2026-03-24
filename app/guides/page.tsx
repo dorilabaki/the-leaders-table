@@ -58,7 +58,7 @@ export default function GuidesPage() {
                         {guide.title}
                       </h2>
                       <p className="text-navy-600 text-lg mb-4">{guide.excerpt}</p>
-                      <div className="flex items-center gap-4 text-sm text-navy-500">
+                      <div className="flex items-center gap-4 text-sm text-navy-600">
                         <span>{guide.readTime}</span>
                         <span>•</span>
                         <span>Published {new Date(guide.publishedAt).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}</span>
