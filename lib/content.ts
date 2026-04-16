@@ -1586,6 +1586,124 @@ For more on navigating career transitions and knowing when to push for change, [
 *Join 161,812+ leaders at The Leader's Table for practical, research-backed leadership insights.*
     `,
   },
+  {
+    slug: "span-of-control-2026-how-many-direct-reports",
+    title: "Span of Control in 2026: How Many Direct Reports Is Too Many?",
+    excerpt: "The average manager now oversees 12.1 direct reports, up from 10.9 in 2024. Gallup's research shows engagement peaks at 8 to 9 reports. Here's what that tension means for your org design.",
+    category: "Teams",
+    readTime: "9 min read",
+    publishedAt: "2026-04-16",
+    content: `
+# Span of Control in 2026: How Many Direct Reports Is Too Many?
+
+If your managers feel stretched thin, they probably are. The average number of people reporting to a single manager climbed from 10.9 in 2024 to 12.1 in 2025, a nearly 50% increase from Gallup's first measurement in 2013.
+
+That shift isn't random. It's a consequence of deliberate flattening across corporate structures, and it's creating a new kind of leadership strain that traditional management playbooks don't address.
+
+## What the Data Actually Says
+
+Gallup's 2025 span-of-control research drew on 92,252 teams across 104 organizations, 26 industries, and 46 countries. The findings surface a paradox that most organizations haven't reckoned with.
+
+**Average team size is up, but median is holding steady.** The median manager still leads about 5 to 6 direct reports. A minority of very large teams are pulling the average up while most managers still lead relatively small groups. About two-thirds of managers oversee fewer than 10 people. Only 13% manage teams of 25 or more.
+
+**The growth is happening at the top end.** The jump in average is driven by a 2-percentage-point increase in teams of 25 or more employees. Organizations are downsizing middle management roles and expanding the remaining managers' teams.
+
+**Manager engagement peaks at 8 to 9 reports.** Gallup found engagement declines as span widens beyond that point. The relationship isn't linear. It's a cliff.
+
+**High engagement enables larger teams to function.** A highly engaged manager can effectively lead 12 or more people. A disengaged one struggles with 5. Span of control is less about structural design than leadership capacity.
+
+## Why Spans Are Widening
+
+Three forces are pushing this trend, and none are temporary.
+
+**Cost pressure.** Middle management is one of the most visible line items to cut when margins tighten. Eliminating layers and widening spans reduces headcount without touching frontline delivery.
+
+**AI-driven restructuring.** Gartner projects that through 2026, 20% of organizations will use AI to flatten their structure, eliminating more than half of current middle management positions. When AI absorbs the administrative load, fewer people managers are needed to coordinate and report.
+
+**Flatter-is-better ideology.** A generation of leadership writing has treated hierarchy as inefficient. The assumption: fewer layers mean faster decisions, less politics, and more empowered individual contributors. Some of that is true. But the cost falls on the remaining managers.
+
+## What Happens When Span Gets Too Wide
+
+Every additional direct report adds roughly 2 to 3 hours of management overhead per week: one-on-ones, performance conversations, coaching, conflict resolution, career development. The math compounds fast.
+
+At 8 reports, a manager spends 16 to 24 hours a week on people leadership. That's manageable alongside individual contributor work.
+
+At 15 reports, the same manager needs 30 to 45 hours just for people work, before any individual deliverables. Something has to give.
+
+What gives first, research consistently shows, is the development work. Managers skip one-on-ones. They stop coaching. They default to task management because it's faster. Performance conversations get postponed. Career development goes unaddressed.
+
+The downstream effects are measurable. Teams under overloaded managers show lower engagement, higher turnover, and slower skill development. The organization saves a salary at the top and loses multiple salaries at the bottom.
+
+## The Capability Question
+
+Here's the nuance most org design conversations miss. The right span of control isn't a fixed number. It's a function of what the manager is expected to do and who reports to them.
+
+**Task complexity matters.** A manager of 20 call center agents doing standardized work has a different job than a manager of 6 research scientists doing novel work. The first can operate with minimal customization per person. The second needs deep, individualized engagement.
+
+**Team tenure matters.** A team of 12 experienced senior people can run with less managerial oversight than a team of 5 new hires.
+
+**Geographic dispersion matters.** Remote and hybrid teams require more intentional communication. A 10-person in-office team is easier to manage than an 8-person team split across four time zones.
+
+**Role design matters.** If the manager is also expected to be a player-coach with significant individual contributor responsibilities, the effective capacity for people leadership is cut in half.
+
+Asking "what's the right span of control?" without answering these questions produces generic benchmarks that don't fit your reality.
+
+## A Practical Framework
+
+Instead of a single span-of-control rule, use a tiered approach.
+
+**Tier 1: Coaching-Heavy Teams (6 to 8 reports maximum)**
+For teams where the manager is expected to actively develop people, navigate complex performance conversations, or lead through significant change. First-line managers of early-career employees, managers leading transformation, and managers in knowledge-intensive fields often belong here.
+
+**Tier 2: Standard People Management (9 to 12 reports)**
+For teams of established performers with well-defined work. The manager provides direction, removes obstacles, and conducts regular one-on-ones, but doesn't need deep daily coaching.
+
+**Tier 3: Operational Oversight (15+ reports)**
+For managers of highly standardized work, senior teams that self-manage heavily, or coordination roles where direct-report relationships are lighter. These structures require strong team leads or senior peers to absorb development and daily coordination work.
+
+If you're pushing managers into Tier 3 because you can't afford more management layers, you need to invest in team leads, peer mentorship programs, or expanded self-management capabilities to compensate.
+
+## The Questions to Ask
+
+Before changing span of control in your organization, work through these.
+
+**Do our managers have the capacity for this?** Audit time use. If managers are already spending over 60% of their week on people leadership, adding reports will break something.
+
+**What coaching and development will get cut?** Be explicit about what your managers will stop doing if spans widen. If the answer is "nothing," you're being unrealistic.
+
+**Where are the high-performance teams in our data?** Look at the teams with low turnover, high engagement, and strong output. What's the actual span there? That's your organization's real capacity number.
+
+**Are we giving managers the training that matches the span?** Wider spans require better management skills: delegation, systems thinking, structured accountability. Without the training, wider spans just produce worse management.
+
+**What's our plan when a manager leaves?** Backfilling one manager with another who inherits 15 reports is a bad onboarding experience. Transitions reveal the fragility of wide-span designs.
+
+## For the Managers Reading This
+
+If you're already past your capacity, advocate for structural change. Document where your time goes. Show where development work is getting sacrificed. Name the specific team members who aren't getting what they need.
+
+Don't absorb the problem silently. Gallup's parallel research on manager burnout shows that manager engagement fell from 30% to 27% in 2024, and span of control is a contributing factor. Burned-out managers don't fix wide spans. They quit, and the problem becomes someone else's.
+
+If you're below capacity and doing well, document what's working. Your organization will want to replicate it.
+
+## For the Senior Leaders Reading This
+
+The question isn't how many reports per manager your structure can sustain. It's what kind of management you want to be doing, and designing spans that make that possible.
+
+If you want managers to develop talent, drive change, and build high-performing teams, you can't ask them to do all that while overseeing 18 people. If you want managers to function as coordinators with minimal people development, that's a valid design choice, but own it explicitly and staff the development work elsewhere.
+
+Flatter structures are fine. Flatter structures with managers expected to do coaching work they don't have time for are just hidden dysfunction waiting to surface.
+
+For more on the manager capacity crisis and structural fixes that actually help, see our companion piece on [manager burnout and research-backed solutions](/resources/manager-burnout-research-backed-fixes). And if you're considering whether to stay in a stretched role or pursue a different opportunity, [How To Find A Job](https://howtofindajob.org) covers the research on evaluating career transitions.
+
+---
+
+*Sources: Gallup Span of Control Research 2025, Gallup State of the Global Workplace 2025, Gartner Workforce Trends, Deloitte Future of the Middle Manager 2025.*
+
+---
+
+*Join 161,812+ leaders at The Leader's Table for research-backed insights on building teams that perform.*
+    `,
+  },
 ];
 
 // Comprehensive Guides
