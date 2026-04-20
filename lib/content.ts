@@ -1819,6 +1819,123 @@ Nine points in three years isn't a blip. It's a trend. The question is whether l
 *Join 161,812+ leaders at The Leader's Table for practical, research-backed insights on leading through transformation.*
     `,
   },
+  {
+    slug: "one-on-ones-that-actually-matter",
+    title: "Running 1:1s That Actually Matter: A Practical Framework",
+    excerpt: "Most 1:1s are status meetings in disguise. The managers who get them right treat them as the team member's meeting, not their own, and use them to build the trust that makes the rest of leadership easier.",
+    category: "Leadership",
+    readTime: "10 min read",
+    publishedAt: "2026-04-20",
+    content: `
+# Running 1:1s That Actually Matter: A Practical Framework
+
+Every management book tells you to have 1:1s. Very few explain why the meetings you're probably running aren't working.
+
+The typical 1:1 looks like this: the manager shows up with a mental list of things to check on. The direct report arrives slightly anxious, gives a tidy status update, answers a few questions, and leaves with a vague sense the conversation didn't go deep. Thirty minutes gone, no trust built, no decisions made, and the underlying problems on the team are still invisible.
+
+The fix is not a new template. It's a different mental model of whose meeting this is.
+
+## The Meeting Belongs to Them
+
+The single change that transforms 1:1s is recognising that the meeting is for the team member, not for the manager. You are not there to collect status. You are there to help your team member be more effective, more supported, and more honest with you than they could be anywhere else.
+
+Ben Horowitz made this point in his early writing on management. If you as the manager are doing most of the talking, the meeting has failed its purpose. The questions you ask, the silences you allow, and the topics you let the team member raise are more important than your agenda.
+
+In practice this means the first question of every 1:1 is not "what's the status of X?" It is something like "what's on your mind this week?" or "what do you want to talk about?" The team member picks the topic. You respond.
+
+## The Four Categories Every 1:1 Should Cover Eventually
+
+Not every meeting needs to cover everything, but across a few weeks you should hit four categories with each person:
+
+**Work.** What they're stuck on, what's going well, what context they're missing, what decisions they're waiting on. This is the category that tends to crowd out the others if you let it.
+
+**Growth.** What they're learning, what skills they want to build, what kind of projects they want next, where they feel stretched or stagnant. This conversation is difficult to have on the fly, which is why 1:1s matter. They create a predictable place for it.
+
+**Relationships.** How they're getting on with the rest of the team, whether there's tension with any stakeholder, whether they have the allies and sponsors they need. This is where you catch problems before they become HR escalations.
+
+**Life.** Not in an intrusive way, but in the sense that people are not work units. Are they sleeping well? Are they about to move house? Is something happening at home that's affecting their ability to focus? Managers who never ask are managers who are blindsided.
+
+A useful discipline is to track privately which of these categories you covered with each person over the last few weeks. If you realise you've only talked about work for six sessions in a row, you know where to push the next one.
+
+## Preparation Is Shared, Not One-Sided
+
+The best 1:1s happen when both people arrive with a short list of things they want to talk about. The worst 1:1s happen when only the manager has prepared.
+
+A shared document, a simple Google Doc, Notion page, or Notes file for each team member, is the practical solution. Both parties add topics during the week as they come up. When the meeting starts, the list is there. Topics that don't get covered roll to next time. Decisions and commitments get written down in the same document, which means six weeks later you both remember what you agreed.
+
+This also flips the prep burden in a healthy way. The team member is now responsible for bringing their agenda, not waiting to see what you ask about. Over time, this builds the ownership and initiative you actually want in a report.
+
+## The Protected Slot
+
+1:1s should be sacred. The number of managers who cancel them when they get busy is striking. The signal this sends, "your meeting matters less than my other meetings," is corrosive in a way that takes months to undo.
+
+Reschedule if you must. Do not cancel. Hold the slot in the team member's calendar with weekly recurrence, and treat missing one as a minor emergency that needs an explanation. Some leaders go further and add a standing rule: if the manager cancels, the team member picks a makeup slot within seven days.
+
+When joining a role, honour the pattern from day one. One of the highest-leverage things a new manager does in the first week is schedule a 1:1 with every direct report, at a cadence they commit to and don't break.
+
+## Listening More Than Talking
+
+Strong 1:1s have a distinctive pacing. The team member opens a topic. The manager asks a question. The team member explores. The manager asks another question, not a statement of opinion. Eventually, the manager offers a perspective, often shorter than the team member's, and often in the form of an option, not a directive.
+
+This is hard. Most managers were promoted because they were good at producing answers. 1:1s demand that you produce questions instead.
+
+A useful habit: when the team member finishes speaking, count to two before responding. The silence feels longer than it is, and it almost always produces a more useful follow-up from the team member. The thing they actually wanted to say, under the thing they first said.
+
+Kim Scott's Radical Candor framework is useful here. Challenge directly, but care personally. 1:1s are where both halves happen. The care shows up in the listening. The challenge shows up in the specific, concrete feedback you give about behaviour you've observed.
+
+## Feedback: Specific, Timely, Grounded
+
+If 1:1s are where big feedback gets delivered, two rules will save you grief.
+
+First, feedback should be specific enough that a reasonable person could repeat what happened. "You were unclear in the Tuesday design review" beats "you need to communicate better." The concrete version is actionable. The abstract version is a label.
+
+Second, critical feedback should not wait for the 1:1 if it needs to be fixed immediately. If something was a problem on Monday, Monday afternoon is when the conversation needs to happen, not the following Thursday's 1:1. The 1:1 is the place for patterns, growth areas, and longer conversations, not the place to time-shift feedback into a tidy meeting.
+
+One more useful instinct: if you find yourself avoiding a feedback conversation, the feedback is probably important. The friction you feel is a cue that the conversation matters.
+
+## Career Conversations That Aren't Performative
+
+A specific version of 1:1 that managers tend to botch is the career conversation. The template is usually "here's the ladder, here are the next-level expectations, here's what to work on." This is technically correct and usually unhelpful.
+
+A better version, drawn from Russ Laraway's "Career Conversations" approach, is three meetings over a few weeks: what they want their life to look like in fifteen years; what their dream job looks like in that future; and how this current role fits into getting them there. This frame makes the development conversation about their life, not about your organisation's promotion criteria.
+
+You may not run this every month. But running it once a year with each person will produce more genuine development conversations than a decade of annual performance reviews.
+
+## The Patterns That Break 1:1s
+
+A small set of anti-patterns breaks more 1:1s than any other failure mode.
+
+**Turning the 1:1 into a status meeting.** If you need status, get it another way. A written update, a project tool, a stand-up. Status is cheap to transmit in writing. 1:1 time is expensive to replace.
+
+**Filling silence with your own thoughts.** Silence is where real topics surface. The manager who cannot tolerate five seconds of quiet never hears what's actually on the team member's mind.
+
+**Using the time to vent about the organisation.** You are the first rung of the organisation from their perspective. If you trash the company in a 1:1, you are teaching the team member to trash it too. Have those conversations with your peers, not your reports.
+
+**Only meeting when there's a problem.** If the only 1:1s you hold are ones triggered by something going wrong, you have trained your team member to associate these meetings with trouble. Hold them weekly or biweekly regardless of whether anything is on fire.
+
+**Cancelling when you're busy.** Covered above, worth repeating: the cost of cancelling is higher than the cost of letting the meeting be twenty quiet minutes when nothing is urgent.
+
+## What Good Looks Like After Six Months
+
+Six months of good 1:1s with a direct report look like this. You know what they care about beyond the current role. You have a read on their relationship with each of their peers. You can name the three skills they're trying to build. They feel comfortable telling you when they disagree with you. You catch small problems in the room where they first appear, instead of discovering them months later when they've compounded.
+
+The team members with managers who run 1:1s like this tend to stay longer, grow faster, and reach out earlier when something is wrong. The managers who run 1:1s like this tend to spend less time on emergencies, because the early warning system has been working all along.
+
+## A Minimum Viable 1:1
+
+If you take nothing else from this article, take this as a template to run with your team starting next week:
+
+Weekly or biweekly. Thirty to forty-five minutes. Held in a private space. Shared document with both your lists of topics. You ask an open question first and let the team member set the agenda. You spend more than half the meeting listening. You end with any commitments written down and a quick "is there anything else on your mind?"
+
+That's it. Everything else is refinement.
+
+The 1:1 is the most underrated leadership tool, and one of the very few that gets better the longer you hold to it. For a companion framing on how to build trust with a new team, see our guide to [the first-time manager's complete handbook](/guides/first-time-manager-handbook). And for the broader career context these conversations sit inside, our friends at [How to Find a Job](https://howtofindajob.org) cover the candidate-side of career development in depth.
+
+---
+
+*Join 161,812+ leaders at The Leader's Table for more practical frameworks that make leadership work in the real world.*
+    `,
+  },
 ];
 
 // Comprehensive Guides
