@@ -2328,7 +2328,7 @@ If you have been running one-on-ones on autopilot, the work to redesign them is 
 
 The compounding effect is the entire point.
 
-For the broader practical view of the manager's role, see our [first-time manager's complete handbook](/guides/first-time-manager-handbook). For the cognitive habits that make these conversations more effective, [Growth Mindset](https://growthmindset.gs) covers the daily practices that build the patience and perspective good leadership requires.
+For the broader practical view of the manager's role, see our [first-time manager's complete handbook](/guides/first-time-manager-handbook). For the cognitive habits that make these conversations more effective, [Growth Mindset](https://growthmindset.academy) covers the daily practices that build the patience and perspective good leadership requires.
     `,
   },
   {
