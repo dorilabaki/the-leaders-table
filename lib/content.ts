@@ -3058,6 +3058,85 @@ The foundation of leadership isn't having all the answers. It's creating the con
 *Build teams that speak up. Join 161,812+ professionals at The Leader's Table for practical leadership guidance.*
     `,
   },
+  {
+    slug: "job-hugging-leadership-retention-trap-2026",
+    title: "Job Hugging Isn't Loyalty: What Record-Low Quit Rates Mean for Leaders",
+    excerpt: "Quits just hit their lowest level since August 2020, and it's tempting to read that as engagement. The research says otherwise. Here's why people staying put can be a bigger leadership problem than people leaving, and what to do about it.",
+    category: "Leadership",
+    readTime: "8 min read",
+    publishedAt: "2026-06-11",
+    content: `
+# Job Hugging Isn't Loyalty: What Record-Low Quit Rates Mean for Leaders
+
+Your turnover numbers look great. Nobody on your team has resigned in months. Before you take credit for that, look at what the labor market is actually telling you.
+
+The Bureau of Labor Statistics released its April 2026 JOLTS report on June 2, and quits fell to 3.0 million, a quits rate of 1.9 percent. That's the lowest level of voluntary departures since August 2020, the depths of the pandemic labor market.
+
+People aren't staying because they love their jobs. Many are staying because they're afraid to leave. Korn Ferry calls this "job hugging": holding onto a role for dear life, not out of commitment but out of caution.
+
+For leaders, this changes the meaning of your retention metrics. Low turnover used to be a reasonable proxy for engagement. Right now, it isn't.
+
+## Why People Are Hugging Their Jobs
+
+Three forces are keeping people in place.
+
+**The market feels treacherous.** Eagle Hill Consulting's Employee Retention Index shows worker retention holding near historic highs through Q2 2026, driven in part by employees' perception of outside opportunities falling to the lowest level since the index began in 2023. Whether or not the market is actually that bad, people believe it is, and they act on the belief.
+
+**The job search itself looks brutal.** Candidates report longer processes, more interview rounds, and ghosting at every stage. When the path out looks exhausting, the default is to stay.
+
+**AI uncertainty.** Nobody is sure which roles will look the same in three years. In that fog, a known job beats an unknown one, even when the known job isn't going well.
+
+None of these reasons have anything to do with you or your leadership. That's exactly the problem.
+
+## The Hidden Cost of a Team That Won't Leave
+
+A team full of job huggers carries risks that don't show up in a turnover report.
+
+**Disengagement hides in place.** When unhappy people can't leave, they don't become happy. They become quiet. The frustration that used to show up as a resignation letter now shows up as declining discretionary effort, and that's much harder to detect. We covered the related pattern of [quiet cracking and how leaders should respond](/resources/quiet-cracking-leadership-response-2026) earlier this year; job hugging is the labor-market condition that feeds it.
+
+**You stop getting honest signals.** In a healthy market, your best people leaving tells you something is wrong. In this market, that feedback loop is broken. Problems with workload, growth, or management can compound for years without a single resignation to flag them.
+
+**The exits are deferred, not cancelled.** Korn Ferry's own analysts warn that firms risk becoming comfortable perches workers will jump from the moment conditions improve. The people most likely to jump first are the ones with the most options: your strongest performers. A frozen market doesn't eliminate regretted attrition. It schedules it.
+
+**Mobility stalls for everyone.** When nobody leaves, roles don't open. High-potential team members who would normally grow through promotion or internal moves sit still, which deepens their disengagement further.
+
+## What Leaders Should Do Differently
+
+The instinct in a low-turnover environment is to deprioritize retention work. The right move is the opposite: treat retention effort as engagement effort, because the metric you used to watch has gone quiet.
+
+### Run stay interviews, not just exit interviews
+
+Exit interviews tell you why people left, and right now almost nobody is leaving to tell you. A stay interview is a direct conversation: What keeps you here? What would make you start looking? What's the most frustrating part of your work right now? Ask these twice a year. The answers are your early-warning system now that resignations aren't.
+
+### Create movement without vacancies
+
+If promotions are blocked because nobody above is leaving, manufacture growth laterally. Project leadership, rotations, stretch assignments, and visible ownership of cross-team work all signal investment. Korn Ferry's HR leaders recommend explicit career-progression plans for exactly this reason: development is what separates an employee who stays by choice from one who stays by default.
+
+### Re-recruit your best people
+
+Assume your top performers are being recruited even in a slow market, because they are. Tell them specifically why they matter, what's next for them, and what you're doing to get them there. The cost of that conversation is twenty minutes. The cost of skipping it arrives when the market thaws.
+
+### Watch effort, not exits
+
+Update your dashboard. Voluntary turnover is no longer your leading indicator of team health. Look instead at discretionary signals: who volunteers for hard problems, who speaks up in reviews, whose output is drifting toward the minimum. Those are the numbers that move first now.
+
+## The Conversation Worth Having
+
+There's one more thing worth doing, and it feels counterintuitive: talk openly with your team about careers, including careers beyond your team.
+
+Leaders who make career conversations safe get honesty in return, and honesty is the scarcest resource in a job-hugging market. If someone is staying out of fear, you want to know, because fear-based staying produces the worst of both worlds: a disengaged employee today and a sudden exit tomorrow. For team members weighing their options, the career research and job-search guidance at [How To Find A Job](https://howtofindajob.org) is the kind of resource a confident leader shares rather than hides.
+
+A team that stays because it wants to and a team that stays because it's scared to leave look identical on a turnover report. Only one of them will perform when it matters. Your job is to know which one you're leading.
+
+---
+
+*Sources: U.S. Bureau of Labor Statistics, Job Openings and Labor Turnover Survey, April 2026 (released June 2, 2026); Korn Ferry, "Job Hugging, for Dear Life" and "What to Do with All the Job Huggers" (2025-2026); Eagle Hill Consulting Employee Retention Index, Q2 2026.*
+
+---
+
+*Lead through every market. Join 161,812+ professionals at The Leader's Table for research-backed leadership guidance.*
+    `,
+  },
 ];
 
 // Comprehensive Guides
