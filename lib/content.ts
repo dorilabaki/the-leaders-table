@@ -54,6 +54,81 @@ export const pillars = [
 // Blog Articles
 export const articles = [
   {
+    slug: "five-human-capabilities-ai-leadership-2026",
+    title: "The 5 Human Capabilities That Outlast AI: A Leader's Field Guide for 2026",
+    excerpt: "AI can optimize what already exists, but it can't build trust, weigh ethics, or imagine what doesn't exist yet. DDI's 2025 research points to five durable capabilities that separate leaders who use AI from leaders AI makes redundant.",
+    category: "Leadership",
+    readTime: "9 min read",
+    publishedAt: "2026-06-18",
+    content: `
+# The 5 Human Capabilities That Outlast AI: A Leader's Field Guide for 2026
+
+Every leadership conversation this year eventually circles back to the same anxious question: what's left for a human leader to do once AI drafts the strategy memo, summarizes the meeting, and flags the underperforming region?
+
+The honest answer is: most of the job. AI is changing the mechanics of leadership, not the substance. It can compress the time you spend on analysis and admin. It cannot build trust on your team, make an ethical call when the data is ambiguous, or imagine a product that doesn't exist yet.
+
+DDI's Global Leadership Forecast 2025, the firm's long-running study of leadership practice, lands on a useful frame for this moment. It identifies five capabilities that give leaders an edge in an AI-driven world, and they all happen to be the parts of the job that don't automate. DDI calls them the 5Cs: Connection, Conscience, Creativity, Clarity, and Curiosity. Here's how to actually build each one.
+
+## Why This Matters Now
+
+The backdrop isn't theoretical. Gallup's State of the Global Workplace found global employee engagement fell to 20% in 2025, down from a peak of 23% in 2022. That's the first time Gallup has recorded two consecutive years of decline. Manager engagement specifically has dropped, and DDI's data shows 71% of leaders report increased stress from their roles, with 40% of those stressed leaders considering quitting.
+
+So the environment leaders are operating in is one of falling engagement, rising stress, and a technology shift that's arriving faster than most people can absorb. The leaders who hold teams together through that aren't the ones with the best prompts. They're the ones who get the human part right.
+
+## 1. Connection
+
+Connection is the trust, empathy, and psychological safety that holds a team together. It's the capability AI is least able to replicate, and the one engagement data suggests is most under strain.
+
+What it looks like in practice: knowing what's actually going on in your people's lives and work, not just their ticket throughput. Running one-on-ones that your direct reports would be disappointed to lose. Noticing when someone has gone quiet and following up before it becomes an exit interview.
+
+The practical move: protect recurring one-on-one time the way you'd protect a board meeting. When AI hands you back two hours a week, spend some of it on people, not on producing more decks. Connection is built in the unglamorous, repeated moments.
+
+## 2. Conscience
+
+AI introduces new ethical dilemmas and magnifies old ones. Whose data trained this model? Is it fair to use an AI score to rank candidates? What happens to the person whose role the automation just absorbed?
+
+Conscience is the moral judgment, based on integrity and fairness, that leaders use to set expectations for responsible AI use and to make calls the algorithm can't. AI can tell you what's statistically likely. It can't tell you what's right.
+
+The practical move: when you adopt an AI tool on your team, be explicit about the rules. What's it allowed to decide? What stays a human call? Who's accountable when it's wrong? Writing those answers down before you need them is a conscience exercise, and your team will trust you more for doing it.
+
+## 3. Creativity
+
+AI is brilliant at optimizing what already exists and useless at imagining what doesn't. It interpolates from the past. Leaders have to extrapolate to a future that isn't in the training data.
+
+Creativity here means creative problem-solving and a transformation mindset, the willingness to ask what a process should look like rather than how to make the current one 10% faster. The risk of an AI-saturated workplace is that everyone gets very efficient at doing the wrong thing.
+
+The practical move: use AI to clear the routine work, then deliberately spend the freed-up attention on problems that don't have an obvious answer. Block time for the question "what are we not doing that we should be?" Efficiency is a tailwind only if you're pointed in the right direction.
+
+## 4. Clarity
+
+When change accelerates, people don't need more information. They need someone to tell them what matters. Clarity is the ability to cut through noise, communicate purpose, and give a team a clear line of sight on what they're trying to achieve and why.
+
+This is where decision friction quietly kills momentum. When every choice feels heavy and the priorities keep shifting, teams stall. The leader's job is to remove ambiguity, not add to it.
+
+The practical move: at the end of any period of change or any AI rollout, answer three questions for your team in plain language. What is changing? What is staying the same? What do I need from you? Most disengagement in volatile periods traces back to those three going unanswered.
+
+## 5. Curiosity
+
+Curiosity is the engine that keeps the other four alive as the ground keeps moving. It's the habit of continuous learning, the willingness to try the new tool, sit with discomfort, and update your assumptions as the technology evolves.
+
+There's a readiness divide worth naming here. DDI's research shows frontline leaders are roughly three times more likely than executives to express concern about AI. That gap matters, because frontline managers are where AI adoption actually succeeds or fails. Curiosity, modeled from the top and supported with real training, is how that gap closes.
+
+The practical move: learn one new capability of a tool your team already uses every month, and talk about what you learned in your team meeting. Curiosity is contagious, and so is its absence.
+
+## Putting the 5Cs to Work
+
+Don't try to overhaul all five at once. Pick the one your team needs most this quarter. If engagement is slipping, start with Connection. If an AI rollout is looming, start with Conscience and Clarity. If your team is efficient but stuck, start with Creativity.
+
+The throughline is simple: the more capable AI becomes at the technical parts of leadership, the more the human parts become the differentiator. The leaders who'll matter in 2026 aren't competing with AI. They're doing the work AI can't touch.
+
+If you're a leader thinking about how these capabilities show up when you're hiring or being hired, our sister publication How To Find A Job has a complementary take on how candidates can demonstrate exactly these durable, human skills in interviews. And for the daily practice of Connection specifically, see our guide on [running one-on-ones that actually matter](/resources/one-on-ones-that-actually-matter/).
+
+---
+
+*Sources: DDI Global Leadership Forecast 2025 and DDI's "AI and Leadership: The 5 Capabilities Every Leader Needs Now" (ddi.com); Gallup State of the Global Workplace 2025-2026 (gallup.com).*
+`,
+  },
+  {
     slug: "executive-presence-new-manager",
     title: "How to Build Executive Presence as a New Manager",
     excerpt: "Executive presence isn't about having a corner office or a commanding voice. It's a learnable skill that helps new managers earn respect, influence decisions, and lead with confidence from day one.",
