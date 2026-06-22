@@ -54,6 +54,61 @@ export const pillars = [
 // Blog Articles
 export const articles = [
   {
+    slug: "great-flattening-lead-bigger-team-fewer-layers",
+    title: "The Great Flattening: How to Lead a Bigger Team With Fewer Layers",
+    excerpt: "In 2025, 41% of employees said their company stripped out management layers. If you are a manager now absorbing a wider team and the work your old boss used to do, here is how to lead well without burning out.",
+    category: "Leadership",
+    readTime: "8 min read",
+    publishedAt: "2026-06-22",
+    content: `
+# The Great Flattening: How to Lead a Bigger Team With Fewer Layers
+
+Look at almost any org chart redrawn in the last 18 months and you'll see the same thing: fewer boxes in the middle. Companies are deleting layers of management to move faster and cut cost, a shift now common enough to have a name. The Great Flattening.
+
+The numbers aren't small. In Korn Ferry's 2025 Workforce survey, 41% of employees globally, and 44% in the U.S., said their organization has eliminated management levels. Gartner projects that through 2026, 20% of organizations will use AI to flatten their structure, removing more than half of current middle-management positions in those firms. And the teams that remain are bigger. Gallup found the average number of direct reports per manager rose from 10.9 in 2024 to 12.1 in 2025, part of a nearly 50% increase in team size since 2013.
+
+If you're still a manager after a flattening, you're likely leading more people, with less support, while absorbing work your former boss used to handle. This is a field guide for doing that well.
+
+## The New Math of Your Job
+
+Flattening changes the job, not just the headcount. Korn Ferry found 72% of senior executives feel stressed and stretched beyond their abilities as they absorb the day-to-day work their managers once did. On the employee side, 37% said the loss of managers left them feeling directionless and 43% said their leaders aren't aligned.
+
+That's the real risk of a flat org. Not that work stops, but that direction gets fuzzy and the people doing the work feel unanchored. Your value as a leader in a flat structure is less about reviewing output and more about supplying clarity at scale.
+
+## Protect Clarity Before Anything Else
+
+When you had eight reports, you could afford to communicate priorities informally, one conversation at a time. With 12 or more, ad hoc doesn't scale and ambiguity compounds.
+
+Make priorities explicit and repeat them more than feels necessary. A short weekly note that answers three questions does more for a stretched team than another meeting: what matters most this week, what changed, and what I need from you. Written clarity is the cheapest leverage you have when your calendar is full.
+
+## Lead Through, Not Around
+
+A wider span means you physically cannot be in every decision. The managers who drown after a flattening are the ones who try. The ones who thrive push authority down.
+
+Be explicit about which decisions you own and which your team owns outright. Tell people the boundaries of their autonomy before they ask, so they act instead of waiting. Gallup's own caveat on span of control matters here: manager talent trumps span of control. A few skilled managers can lead large teams well, but only if they delegate real authority rather than hoarding it. Our deeper look at the numbers is in the guide on [span of control and how many direct reports a manager can actually handle](/resources/span-of-control-2026-how-many-direct-reports).
+
+## Use AI for Coordination, Not Connection
+
+Much of the bet behind flattening is that AI can absorb the coordination work managers used to do: summarizing updates, drafting communications, synthesizing information across teams. Use it for exactly that. Let tools handle the meeting recaps and status roll-ups so you reclaim hours.
+
+Then spend those reclaimed hours on the part no tool can do: knowing your people, noticing who's struggling, and making the judgment calls that don't have a clean answer. Flattening frees up time only if you redirect it toward connection rather than toward managing an even longer task list.
+
+## Watch Your Own Capacity
+
+You can become the bottleneck a flat org cannot afford. With more reports and more absorbed work, the failure mode is a manager who is busy, reactive, and quietly burning out while the team waits on them.
+
+Guard a small amount of unscheduled time each week so you can respond to what the larger team throws at you. Cut your own low-value work without apology. And track your own warning signs, because in a flat structure there may be no layer above you watching closely enough to catch them.
+
+## If the Flattening Cut the Other Way
+
+Not every manager keeps a seat. Delayering has eliminated a lot of middle-management roles, and capable leaders have found themselves searching. If that's you, the skills a flattening rewards, clarity, decisiveness, and the ability to run a wide span, are exactly what to foreground in a search. Our sister site [How To Find A Job](https://howtofindajob.org) has a practical playbook for translating leadership experience into a search that lands.
+
+## The Bottom Line
+
+Flat organizations don't need managers who review work. They need leaders who create clarity, distribute authority, and protect the human parts of the job that automation can't touch. The org chart got simpler. The leadership got harder. The managers who understand that difference are the ones who'll come out of this era more valuable, not less.
+    `,
+  },
+  {
     slug: "five-human-capabilities-ai-leadership-2026",
     title: "The 5 Human Capabilities That Outlast AI: A Leader's Field Guide for 2026",
     excerpt: "AI can optimize what already exists, but it can't build trust, weigh ethics, or imagine what doesn't exist yet. DDI's 2025 research points to five durable capabilities that separate leaders who use AI from leaders AI makes redundant.",
