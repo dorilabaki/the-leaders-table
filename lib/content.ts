@@ -54,6 +54,71 @@ export const pillars = [
 // Blog Articles
 export const articles = [
   {
+    slug: "change-fatigue-leaders-reduce-2026",
+    title: "Change Fatigue Is the Tax on Every New Initiative. Here's How Leaders Stop Paying It",
+    excerpt: "Gartner data shows the average employee faced 10 planned changes in 2022, up from two in 2016, while willingness to support change fell from 74% to 43%. Leaders who win treat their team's capacity to absorb change as a finite resource to manage, not an infinite well.",
+    category: "Leadership",
+    readTime: "6 min read",
+    publishedAt: "2026-06-25",
+    content: `
+# Change Fatigue Is the Tax on Every New Initiative. Here's How Leaders Stop Paying It
+
+Every leader has felt the moment. You announce a new tool, a new structure, a new way of working, something you are genuinely excited about, and instead of energy you get a flat stare. Not resistance exactly. Something quieter and more worrying. The team has simply run out of room to care about one more change.
+
+That feeling has a name and a measurement. It is change fatigue, and the data on it should reset how you think about every initiative you launch.
+
+## The Number That Should Stop You
+
+In 2022, the average employee experienced 10 planned enterprise changes. In 2016 that figure was two. The source is Gartner research, reported by Gartner's own Cian O Morain and Peter Aykens in Harvard Business Review. A restructure to find efficiencies, a culture program to unlock new ways of working, a legacy system swapped out, each one counts, and they have multiplied roughly fivefold in six years.
+
+Now the part that matters for results. Over the same period, employees' willingness to support enterprise change collapsed. In 2016, 74% of employees said they were willing to support organizational change. By 2022 that had fallen to 43%. So leaders are asking for five times as much change from a workforce that is roughly half as willing to give it.
+
+This is not a soft engagement problem. It is a hard delivery problem. When willingness to support change drops, your transformation timelines slip, your adoption rates fall, and the financial case you built for the initiative quietly stops being true. Gartner's broader work ties low change support to higher attrition intent and lower performance, which means the cost of ignoring fatigue shows up on the same spreadsheet you used to justify the change.
+
+## Why This Got Worse, And Why 2026 Makes It Worse Still
+
+The pandemic years asked an enormous amount of people, and they delivered. But sprinting has a cost, and a lot of teams have been running on fumes ever since. Layer on top of that the current wave of AI adoption, which arrives at most companies not as one change but as a steady drip of them. New assistant tools. New policies on what you can and cannot put into them. Reworked processes that used to assume a person did each step. Each drip is small. The accumulation is not.
+
+Here is the trap. Most leaders measure change one initiative at a time. You look at your project, judge it reasonable, and conclude the team can absorb it. But your people do not experience your initiative in isolation. They experience it stacked on top of every other change landing on them from every other leader in the building. The fatigue is cumulative even when no single change is unreasonable.
+
+## What Actually Reduces Change Fatigue
+
+The instinct when adoption stalls is to push harder, communicate more, add another all-hands. That usually deepens the fatigue. The interventions that work pull in the opposite direction.
+
+### Subtract before you add
+
+The single most powerful move available to a senior leader is to stop something. Before you launch the next initiative, name what your team gets to put down. If you cannot find anything to remove, that is the actual finding, and it should make you question whether now is the time to add. Change fatigue is a capacity problem, and you cannot fix a capacity problem only by adding load.
+
+### Tell people where to spend their energy
+
+When everything is labeled a priority, employees are left to guess where to invest, and guessing is exhausting. Be explicit about the two or three changes that matter most this quarter and give people open permission to deprioritize the rest. Clarity is not just communication. It is a way of returning energy to a team.
+
+### Build in deliberate rest between pushes
+
+Gartner's researchers point to proactive rest, planned recovery periods between major changes rather than a continuous sprint. This is hard for leaders because a quiet quarter can feel like lost momentum. It is not. It is how you keep the next initiative from landing on empty. Treat recovery as part of the plan, not as the absence of one.
+
+### Involve people in the plan, not just the rollout
+
+Change done to people drains them. Change done with them builds the muscle to absorb the next one. Bringing employees into how a change gets designed, not just informing them once it is decided, consistently raises willingness to support it. It is slower at the start and far faster at adoption, which is the part that actually determines whether the initiative pays off.
+
+### Make the manager the shock absorber, and support them to be it
+
+Your frontline managers are where change fatigue is either contained or amplified. A manager who can help a team make sense of why a change is happening, and shield them from the noise of changes that do not affect them, dramatically reduces the felt load. But a manager running on empty cannot do this for anyone. If you are stacking change on your teams, you have to give your managers the time and backing to absorb it, or the whole system fails at the layer you depend on most.
+
+## A Simple Test Before Your Next Launch
+
+Before you announce the next initiative, ask three questions and answer them honestly. How many active changes is this team already carrying. What am I removing to make room for this one. And have these people had any recovery since the last major push. If you cannot answer the second question, you are not ready to launch. You are about to add to a tax your team is already struggling to pay.
+
+Change fatigue is not a reason to stop changing. The organizations that win will keep adapting, especially through the AI shift now reshaping nearly every role. The difference is that the ones who succeed will treat their team's capacity to absorb change as a real, finite resource to be managed, not an infinite well to be drawn on until it runs dry.
+
+Constant reorganization also has an exit cost worth naming plainly. When change support collapses, some of your best people stop adapting and start looking. If you lead through a period of heavy restructuring, expect some of your team to weigh their options, and understand what that journey looks like from their side. Our colleagues at [How To Find A Job](https://howtofindajob.org/resources/job-search-after-rto-mandate-2026) have written about how employees navigate the job market after a disruptive workplace mandate, and it is a useful mirror for any leader trying to understand why fatigue quietly turns into attrition.
+
+## Sources
+
+This article draws on Gartner research as reported in Cian O Morain and Peter Aykens, "Employees Are Losing Patience with Change Initiatives," Harvard Business Review, May 9, 2023 (https://hbr.org/2023/05/employees-are-losing-patience-with-change-initiatives), the source for the figures of 10 planned enterprise changes per employee in 2022 versus two in 2016, and the decline in willingness to support change from 74% in 2016 to 43% in 2022.
+`,
+  },
+  {
     slug: "great-flattening-lead-bigger-team-fewer-layers",
     title: "The Great Flattening: How to Lead a Bigger Team With Fewer Layers",
     excerpt: "In 2025, 41% of employees said their company stripped out management layers. If you are a manager now absorbing a wider team and the work your old boss used to do, here is how to lead well without burning out.",
