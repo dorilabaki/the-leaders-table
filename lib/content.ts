@@ -54,6 +54,74 @@ export const pillars = [
 // Blog Articles
 export const articles = [
   {
+    slug: "infinite-workday-leadership-problem-2026",
+    title: "The Infinite Workday Is a Leadership Problem, Not a Willpower Problem",
+    excerpt: "Microsoft's 2025 Work Trend Index found knowledge workers are interrupted every two minutes during core hours, 275 times a day, while meetings after 8pm climbed 16% year over year. When the workday has no edges, the fix is not telling people to set better boundaries. It is leaders redesigning how the team works.",
+    category: "Leadership",
+    readTime: "7 min read",
+    publishedAt: "2026-06-29",
+    content: `
+# The Infinite Workday Is a Leadership Problem, Not a Willpower Problem
+
+Ask most leaders what to do about an exhausted, always-on team and you tend to get a version of the same answer. Encourage better boundaries. Remind people to log off. Maybe share an article about digital wellbeing. The trouble is that the always-on workday is not mainly a personal-discipline problem, and treating it like one quietly puts the blame on the very people who are drowning in it.
+
+The data on this is now hard to ignore, and it points the responsibility back where it belongs. At the design of the work itself, which is a leadership job.
+
+## The Anatomy of a Day With No Edges
+
+In June 2025, Microsoft published a special edition of its Work Trend Index called "Breaking down the infinite workday," based on aggregated, de-identified productivity signals plus a survey of 31,000 knowledge workers across 31 markets. The picture it paints is of a workday that has lost its shape.
+
+The single most striking finding is the rhythm of interruption. During core working hours, the average employee is interrupted every two minutes by a meeting, an email, or a chat. That works out to roughly 275 interruptions in a day. It is very difficult to do focused, valuable work in two-minute windows, and most of the work that actually moves an organization forward needs far longer than that.
+
+The volume underneath those interruptions is relentless. Microsoft found workers receiving an average of 117 emails and 153 Teams messages every day. The day also no longer ends when it used to. Chats sent outside standard hours rose 15% year over year, meetings scheduled after 8pm climbed 16% year over year, and roughly one in three employees said they were back in their inbox after 10pm.
+
+The result is a workforce that feels scattered. Nearly half of employees, 48%, and more than half of leaders, 52%, told Microsoft their work feels chaotic and fragmented. Separately, 80% of the global workforce reported they lack the time or energy to do their job. When four in five people say they cannot get to the actual work, that is not a motivation problem in the workforce. It is a structural problem in how the work is organized.
+
+## Why "Set Better Boundaries" Misses the Point
+
+Here is the uncomfortable thing about the boundaries advice. An individual cannot opt out of a system that everyone else is still running inside. If your manager pings at 9pm, if the team norm is to reply to chats within minutes, if meetings routinely stack from morning to night, then the employee who tries to protect their evening pays a visible price for it while everyone else keeps going. You are asking one person to absorb a cost the whole system is generating.
+
+That after-8pm meeting did not schedule itself. Those interruptions are mostly other people, often more senior ones, reaching in. The infinite workday is an emergent property of collective habits, defaults, and expectations, and the people with the most power to change defaults are leaders. Which means the most effective interventions are not personal. They are structural, and they have to be modeled from the top.
+
+## What Leaders Can Actually Change
+
+The good news in the same research is that almost all of these pressures are downstream of choices a team can make differently. Here is where to start.
+
+### Protect blocks of focus time as a team norm, not a personal hack
+
+If the average person is interrupted every two minutes, the scarcest resource on your team is an uninterrupted hour. Treat it as something to defend collectively. Agree on protected focus blocks where meetings are not scheduled and immediate replies are not expected, and hold to them yourself. A focus block only works if it is a shared rule, because one person blocking their calendar means nothing if colleagues book over it anyway.
+
+### Make response-time expectations explicit, and make them generous
+
+A surprising amount of after-hours work comes from an unspoken belief that messages must be answered fast. Most of that urgency is imagined. Say out loud what the real expectation is. Chat is not an emergency channel. A message sent at 9pm does not need an answer until working hours. When the norm is named, people stop monitoring their phones to protect a standard that was never actually required.
+
+### Audit your own off-hours signals
+
+Leaders set the tempo whether they mean to or not. If you send chats late at night, your team reads that as the expected pace, no matter what your wellbeing email said. If you genuinely need to write at odd hours, schedule the send for the morning. The 16% rise in after-8pm meetings and the 15% rise in off-hours chats are made of individual choices, and the choices that matter most are the ones made by the most senior person in the thread.
+
+### Cut the meeting load before you cut anything else
+
+Meetings are both a direct time cost and a primary source of interruption. Kill standing meetings that have outlived their purpose, shorten the rest, and protect the recovered time for actual work rather than letting it fill with more meetings. The aim is not fewer touchpoints for their own sake. It is leaving enough connected time for people to think.
+
+A useful companion to this is fixing the conversations you keep, not just cutting the ones you do not need. Our guide to [running one-on-ones that actually matter](/resources/one-on-ones-that-actually-matter) covers how to make your recurring meetings carry more weight, which is what lets you safely remove the others.
+
+## The Link to Burnout and Retention
+
+This is not only a productivity story. A fragmented, edgeless workday is a direct contributor to the decision fatigue and exhaustion that drives good people out the door. We have written before about how [decision friction quietly burns teams out](/resources/decision-friction-burnout-2026-deloitte-data), and the infinite workday is decision friction at scale: hundreds of small pulls on attention, none individually large, that together leave people depleted.
+
+When the work has no edges, some of your best people will eventually decide the only way to get an edge back is to leave. If you lead through a stretch like this and notice strong performers going quiet, it is worth understanding what that looks like from their side of the desk. Our colleagues at [How To Find A Job](https://howtofindajob.org/resources/job-search-after-rto-mandate-2026) have written about how employees evaluate their options when a workplace stops being sustainable, and it is a useful mirror for any leader trying to keep a team intact.
+
+## The Reframe Worth Keeping
+
+The infinite workday looks like a collection of individual failures to disconnect. The evidence says it is something else. It is a system running on defaults that nobody chose deliberately and that no single employee can override alone. That is exactly the kind of problem leadership exists to solve. You cannot will your team into balance, and you should stop asking them to. You can change the defaults, model the pace you actually want, and give people back the uninterrupted time that lets them do the work they were hired to do.
+
+## Sources
+
+- Microsoft (2025, June). Breaking down the infinite workday. Microsoft WorkLab Work Trend Index Special Report. Based on a survey of 31,000 knowledge workers across 31 markets, February to March 2025. https://www.microsoft.com/en-us/worklab/work-trend-index/breaking-down-infinite-workday
+- Microsoft Work Trend Index figures as reported by CNBC, "American workers are stuck in an 'infinite workday,' according to Microsoft report" (June 20, 2025). https://www.cnbc.com/2025/06/20/workers-are-stuck-in-infinite-workday-according-to-microsoft-report.html
+`,
+  },
+  {
     slug: "change-fatigue-leaders-reduce-2026",
     title: "Change Fatigue Is the Tax on Every New Initiative. Here's How Leaders Stop Paying It",
     excerpt: "Gartner data shows the average employee faced 10 planned changes in 2022, up from two in 2016, while willingness to support change fell from 74% to 43%. Leaders who win treat their team's capacity to absorb change as a finite resource to manage, not an infinite well.",
