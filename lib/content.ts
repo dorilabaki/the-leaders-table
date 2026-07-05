@@ -2359,7 +2359,7 @@ Gallup's data on training is striking. Less than half of global managers have re
 
 ### Role Conflict
 
-Most managers are still player-coaches: expected to maintain individual output while leading a team. The math doesn't work when both sides of the role are full-time. The result is chronic overwork and selective neglect of whichever part of the job is easier to defer — usually coaching and development.
+Most managers are still player-coaches: expected to maintain individual output while leading a team. The math doesn't work when both sides of the role are full-time. The result is chronic overwork and selective neglect of whichever part of the job is easier to defer, usually coaching and development.
 
 ## What the AI Finding Changes
 
@@ -2403,7 +2403,7 @@ This is expensive in time but cheap in dollars compared to manager attrition and
 
 The data doesn't describe a personal failure. It describes systemic underinvestment in the management layer across most organizations, exposed now by AI's arrival.
 
-You can advocate for structural changes. You can build peer networks with managers at your level. You can protect the parts of your job that compound — coaching, development, one-on-ones — even when they feel deferrable. And you can be candid with your own leaders about capacity before you hit the wall.
+You can advocate for structural changes. You can build peer networks with managers at your level. You can protect the parts of your job that compound (coaching, development, one-on-ones) even when they feel deferrable. And you can be candid with your own leaders about capacity before you hit the wall.
 
 For more on avoiding the burnout trap, see our companion analysis on [manager burnout and research-backed fixes](/resources/manager-burnout-research-backed-fixes). For practical guidance on AI fluency in leadership roles, see our [AI fluency for leaders](/resources/ai-fluency-leaders-2026) piece. And if you're evaluating whether your current role is sustainable, [How To Find A Job](https://howtofindajob.org) has research-backed guidance on career transitions.
 
@@ -3238,7 +3238,7 @@ The opposite behaviour, the one to watch for in yourself, is framing every meeti
 
 The second behaviour is whether you reliably hear ideas without first weighting them by who said them. This is harder than it sounds. Almost every leader filters input through a fast, mostly unconscious model of who is reliable. Senior people get listened to. Quieter people get nodded at. New hires get heard but not acted on.
 
-The Project Aristotle data found that the highest-performing teams had what the researchers called "equality in conversational turn-taking" — over the course of a meeting, every member ended up speaking roughly as much as every other. Nobody dominated. The teams that violated this pattern, where one or two people did most of the talking, performed worse, even when those one or two people were the most experienced.
+The Project Aristotle data found that the highest-performing teams had what the researchers called "equality in conversational turn-taking." Over the course of a meeting, every member ended up speaking roughly as much as every other. Nobody dominated. The teams that violated this pattern, where one or two people did most of the talking, performed worse, even when those one or two people were the most experienced.
 
 The behaviour to practise is direct. In a meeting, after the senior voices have spoken, ask the quietest person in the room what they think, by name, about the specific question on the table. Do not ask "any thoughts?" to the room. The quietest person will not volunteer. Ask them. Then listen without interrupting, and visibly take what they said into the next part of the conversation.
 
@@ -3311,7 +3311,7 @@ You're a manager with a team of eight. You make the big decisions. You set direc
 
 This is the traditional model. It's also increasingly outdated.
 
-The most effective organizations in 2026 don't concentrate leadership at the top. They distribute it. They develop leaders at every level—individual contributors who influence decisions, senior team members who mentor juniors, project leads who own scope. The org moves faster because decisions don't bottleneck at your desk.
+The most effective organizations in 2026 don't concentrate leadership at the top. They distribute it. They develop leaders at every level: individual contributors who influence decisions, senior team members who mentor juniors, project leads who own scope. The org moves faster because decisions don't bottleneck at your desk.
 
 Research backs this up. Recent studies across organizations show that distributed leadership has a "modest but significant indirect effect" on performance outcomes. In higher education settings where this has been most heavily researched, distributed leadership correlates with higher job satisfaction and better performance across teams.
 
@@ -3323,7 +3323,7 @@ Distributed leadership means spreading responsibility and decision-making author
 
 This is not the same as delegating tasks. Delegation is "I assign you to do X." Distributed leadership is "You have the authority to make decisions about X, and you're accountable for outcomes."
 
-The research distinguishes between planned distribution and accidental distribution. Planned distribution—where you deliberately structure decision-making so certain people own certain domains—improves performance. Accidental distribution—where leadership just happens to be spread because nobody else is paying attention—often creates confusion and conflict.
+The research distinguishes between planned distribution and accidental distribution. Planned distribution, where you deliberately structure decision-making so certain people own certain domains, improves performance. Accidental distribution, where leadership just happens to be spread because nobody else is paying attention, often creates confusion and conflict.
 
 The difference is enormous. You need a system.
 
@@ -3387,7 +3387,7 @@ Authority without constraints creates chaos. Constraints without authority creat
 
 For each domain, define:
 - **The outcome you care about**: (e.g., "hire someone strong in full-stack development")
-- **The constraints**: (e.g., "must pass technical screen and culture interview," "total comp stays under $X," "we hire or we move on—no extended hiring loops")
+- **The constraints**: (e.g., "must pass technical screen and culture interview," "total comp stays under $X," "we hire or we move on, no extended hiring loops")
 - **Who decides**: (e.g., "the team decides, I have veto if it's clearly outside range")
 
 The tighter your constraints, the more authority you can safely distribute.
@@ -4407,23 +4407,23 @@ This works when the conversation is about a specific problem. It names the inten
 
 ### The Radical Candor Opening
 
-Kim Scott's framing — care personally, challenge directly — maps well onto a difficult conversation opening.
+Kim Scott's framing (care personally, challenge directly) maps well onto a difficult conversation opening.
 
 "You know I think highly of you and your work. I also need to tell you something that's been on my mind, because I think it's important for your growth."
 
-This works for feedback conversations with people you have a strong relationship with. It fails when the "care personally" piece hasn't been established — in that case, it reads as a manipulation.
+This works for feedback conversations with people you have a strong relationship with. It fails when the "care personally" piece hasn't been established. In that case, it reads as a manipulation.
 
 ### The Openings That Don't Work
 
 A few opening patterns reliably make difficult conversations worse:
 
-"I'm not sure if this is a big deal, but..." — signals you're not serious about what follows, inviting them to dismiss it.
+"I'm not sure if this is a big deal, but..." signals you're not serious about what follows, inviting them to dismiss it.
 
-"This isn't a big deal, but..." — if it wasn't a big deal you wouldn't be raising it.
+"This isn't a big deal, but..." undercuts itself. If it wasn't a big deal you wouldn't be raising it.
 
-"Hey, do you have a second?" followed by a fifteen-minute conversation — betrays the implicit agreement about time.
+"Hey, do you have a second?" followed by a fifteen-minute conversation betrays the implicit agreement about time.
 
-"So, I wanted to talk about how you've been... struggling... lately..." — evasive, vague, and invites them to argue about whether "struggling" is the right word rather than engaging with the substance.
+"So, I wanted to talk about how you've been... struggling... lately..." is evasive, vague, and invites them to argue about whether "struggling" is the right word rather than engaging with the substance.
 
 ## Part 4: During the Conversation
 
@@ -4467,7 +4467,7 @@ Defensiveness is the normal human response to being told something uncomfortable
 
 The technique is to acknowledge the emotion without retreating on the substance. "I can see this is hard to hear. I want to come back to what I said about cutting Jamie off, because I think it matters."
 
-If the person goes to a "yes, but" response — agreeing in principle but finding reasons this specific case doesn't count — gently bring them back. "I hear the context. The behaviour still needs to change. How do we get there?"
+If the person goes to a "yes, but" response, agreeing in principle but finding reasons this specific case doesn't count, gently bring them back. "I hear the context. The behaviour still needs to change. How do we get there?"
 
 ### End With a Specific Next Step
 
@@ -4555,9 +4555,9 @@ If you only see change in the specific situation you discussed, the change may b
 
 Difficult conversations are draining. Even well-run ones leave you wound up for a few hours. Do not schedule a second hard conversation immediately after. Do not make big decisions in that window.
 
-A walk, a coffee, twenty minutes of email triage — something that lets the adrenaline drain. Then move on.
+A walk, a coffee, twenty minutes of email triage. Anything that lets the adrenaline drain. Then move on.
 
-Over time, the cumulative weight of these conversations is real. Having a peer or a mentor you can talk to, without naming names, is important for senior managers. The alternative — carrying it all privately — compounds into cynicism or burnout.
+Over time, the cumulative weight of these conversations is real. Having a peer or a mentor you can talk to, without naming names, is important for senior managers. The alternative, carrying it all privately, compounds into cynicism or burnout.
 
 ## Part 7: Building the Capability
 
@@ -4567,17 +4567,17 @@ The managers who are best at difficult conversations are the ones who have the m
 
 A useful commitment: every Friday, spend five minutes reviewing the week and asking "what conversation am I avoiding?" If there's one, schedule it for next week. This five-minute discipline is one of the most high-leverage practices a manager can build.
 
-The conversations you avoid don't go away. They compound, usually quietly, until something forces them into the open — often in a way that makes the eventual conversation much harder.
+The conversations you avoid don't go away. They compound, usually quietly, until something forces them into the open, often in a way that makes the eventual conversation much harder.
 
 The managers who have short, direct, regular conversations when issues are small are the ones who rarely have to have dramatic, career-altering conversations later. That is not a coincidence. It is the consequence of practising a skill that most managers let atrophy.
 
 ## Closing
 
-Difficult conversations are the bedrock of management. Almost everything else in the job — strategy, team-building, culture, performance — is eventually tested by whether the manager is willing and able to have the hard conversations that the situation requires.
+Difficult conversations are the bedrock of management. Almost everything else in the job (strategy, team-building, culture, performance) is eventually tested by whether the manager is willing and able to have the hard conversations that the situation requires.
 
 This guide has walked through the preparation, the opening, the conversation itself, specific conversation types, and the follow-up. None of it is complicated. All of it requires practice.
 
-For companion frameworks, see our [First-Time Manager's Complete Handbook](/guides/first-time-manager-handbook) and our article on [running 1:1s that actually matter](/resources/one-on-ones-that-actually-matter). And if you're working on the career side of management — your own or your team's — [How to Find a Job](https://howtofindajob.org) covers the candidate perspective on the decisions these conversations often shape.
+For companion frameworks, see our [First-Time Manager's Complete Handbook](/guides/first-time-manager-handbook) and our article on [running 1:1s that actually matter](/resources/one-on-ones-that-actually-matter). And if you're working on the career side of management, your own or your team's, [How to Find a Job](https://howtofindajob.org) covers the candidate perspective on the decisions these conversations often shape.
 
 ---
 
