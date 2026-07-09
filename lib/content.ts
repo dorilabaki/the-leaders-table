@@ -54,6 +54,61 @@ export const pillars = [
 // Blog Articles
 export const articles = [
   {
+    slug: "job-hugging-what-it-means-for-leaders-2026",
+    title: "Your Best People Are Job Hugging. Don't Mistake It for Loyalty.",
+    excerpt: "Turnover is down, but that low attrition number may be hiding a problem. A 2025 Monster report found 75% of employees plan to stay in their current jobs through 2027, and 48% say they are staying out of fear rather than commitment. Here is why quiet retention is a leadership signal, not a win, and what to do about it.",
+    category: "Teams",
+    readTime: "7 min read",
+    publishedAt: "2026-07-09",
+    content: `
+# Your Best People Are Job Hugging. Don't Mistake It for Loyalty.
+
+If your team's turnover has dropped over the past year, it is tempting to read that as a compliment. People are staying. Retention is up. Something must be working. Before you take the win, it is worth asking a harder question: are your people staying because they want to, or because they are afraid to leave?
+
+The difference matters enormously, and a growing body of 2025 data suggests that for a lot of teams, the answer is the second one.
+
+## What Job Hugging Actually Is
+
+"Job hugging" is the term that emerged in 2025 to describe employees who cling to their current roles out of necessity rather than desire. The consulting firm Korn Ferry helped popularize it, framing it as workers who sit tight because they are worried that if they left, they would not find something better. As one Korn Ferry consultant put it, people are "waiting and sitting in seats and hoping that they have more stability."
+
+It is the mirror image of the Great Resignation. Where 2021 and 2022 saw workers quit in record numbers, the mood in 2025 and 2026 flipped to caution. A stagnant labor market, slower hiring, and anxiety about how AI will reshape jobs have combined to make staying put feel like the safe choice.
+
+## The Numbers Behind the Trend
+
+This is not a handful of anecdotes. Monster's 2025 Job Hugging Report found that 75% of employees plan to stay in their current jobs through 2027, and that nearly half, 48%, said they are staying out of fear and economic uncertainty rather than genuine satisfaction.
+
+The pattern shows up on the hiring side too. LinkedIn data reported by Personnel Today found that 71% of recruiters have seen a rise in job hugging over the past year, and that 81% of candidates now want greater assurance about job security before they will even consider a move. More than half of recruiters, 57%, said they are spending more time than before simply persuading people to change roles.
+
+Put those figures together and a clear picture forms. Low turnover in 2026 is, for many organizations, not a sign of a magnetic culture. It is a sign of a frozen market. People are holding on because the alternative feels risky, not because they are thriving where they are.
+
+## Why Low Turnover Might Be Hiding a Problem
+
+Here is the trap. When attrition falls, the pressure to invest in your people falls with it. Retention budgets get redirected. Career conversations slip down the priority list. Why spend energy re-engaging someone who is not going anywhere?
+
+Because the person who is staying out of fear is not the same as the person who is staying out of commitment, even though they show up in the same headcount report. The job hugger is often disengaged, quietly resentful, and mentally halfway out the door. Fortune reported in August 2025 on exactly this risk: workers holding on through a stagnant market, but with growing resentment that could send them bolting the moment conditions improve. Your low turnover is a coiled spring, not a foundation.
+
+There is a performance cost in the meantime, too. A team full of people who are present but checked out does not innovate, does not raise hard problems, and does not go the extra mile. You get compliance, not contribution.
+
+## What Good Leaders Do Differently
+
+The leaders who handle this well treat quiet retention as a signal to lean in, not to coast. Three moves make the biggest difference.
+
+**Have the stay conversation before it becomes an exit conversation.** Most managers only ask why someone is staying after that person has already resigned. Flip it. Sit down with the people you assume are settled and ask directly what would make them want to be here in two years, and what is currently missing. You are not fishing for reassurance. You are looking for the quiet dissatisfaction that a low turnover number is hiding.
+
+**Rebuild internal mobility.** One reason people hug their jobs is that they cannot see a path forward inside the company any more than outside it. If external moves feel risky, internal moves become the pressure valve. Make lateral moves, stretch projects, and skill-building visible and available. A person who can grow without leaving has far less reason to resent staying.
+
+**Re-recruit the people you assume are safe.** The candidates you would fight hardest to hire are often the ones you take most for granted once they are on the team. In a market where 81% of people want reassurance before moving, your competitors are working to provide exactly that. Give your best people concrete reasons to choose you again, through meaningful work, recognition, and a clear sense that their contribution is seen.
+
+If you lead people who are quietly weighing their options, it helps to understand what the job search actually looks like from their side of the table. Our sister publication [How To Find A Job](https://howtofindajob.org) covers the candidate experience in depth, and reading it is a fast way to see your own team the way the market sees them.
+
+## The Bottom Line
+
+A falling turnover rate in 2026 deserves a second look, not a celebration. When 75% of workers plan to stay put and half of them are doing it out of fear, retention has become a lagging indicator of a nervous market rather than a healthy one. The leaders who will come out ahead are the ones who treat a stable team as an opportunity to re-earn loyalty now, while the market is quiet, instead of discovering how fragile that stability was the moment it thaws.
+
+Your people are hugging their jobs. The question is whether they are holding on to you, or just holding on.
+`,
+  },
+  {
     slug: "infinite-workday-leadership-problem-2026",
     title: "The Infinite Workday Is a Leadership Problem, Not a Willpower Problem",
     excerpt: "Microsoft's 2025 Work Trend Index found knowledge workers are interrupted every two minutes during core hours, 275 times a day, while meetings after 8pm climbed 16% year over year. When the workday has no edges, the fix is not telling people to set better boundaries. It is leaders redesigning how the team works.",
