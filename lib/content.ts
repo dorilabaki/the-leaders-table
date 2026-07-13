@@ -54,6 +54,65 @@ export const pillars = [
 // Blog Articles
 export const articles = [
   {
+    slug: "multigenerational-teams-leadership-myth-and-reality-2026",
+    title: "The Generational Conflict on Your Team Is Real. Generational Differences Mostly Aren't.",
+    excerpt: "SHRM's 2026 CHRO research found 47% of HR chiefs expect managing multigenerational workforces to get harder this year. Yet meta-analyses covering nearly 20,000 workers find generational differences in work attitudes are close to zero. Both things are true, and the gap between them is where leaders go wrong.",
+    category: "Teams",
+    readTime: "8 min read",
+    publishedAt: "2026-07-13",
+    content: `
+# The Generational Conflict on Your Team Is Real. Generational Differences Mostly Aren't.
+
+Ask a room of managers about leading across generations and you'll get confident answers. Boomers want stability. Gen X wants autonomy. Millennials want purpose. Gen Z wants feedback every twenty minutes. The labels are tidy, the advice writes itself, and an entire consulting industry runs on it.
+
+Here's the uncomfortable part: the research behind those labels is remarkably weak. And yet the tension managers feel between older and younger employees is not imaginary. SHRM's 2026 CHRO Priorities and Perspectives research found that 47% of CHROs expect the challenges and opportunities of managing multigenerational workforces to become more prevalent this year, and generational friction consistently ranks among the top reported causes of workplace conflict.
+
+So which is it? Both. The conflict is real. The explanation is wrong. That distinction changes what you should actually do about it.
+
+## What the Evidence Says About Generational Differences
+
+The most cited study on this question is a 2012 meta-analysis by David Costanza and colleagues in the Journal of Business and Psychology. It pooled 20 studies covering 19,961 workers across four generations and looked at three outcomes that matter to any leader: job satisfaction, organizational commitment, and intent to quit.
+
+The result: differences between generations were small to nonexistent. Corrected mean differences for job satisfaction ranged from .02 to .25, effect sizes that in plain terms mean the variation within any generation dwarfs the variation between them. The authors concluded that meaningful generational differences on work attitudes probably do not exist.
+
+That wasn't a one-off. A 2024 meta-analysis and qualitative investigation by Ravid and colleagues in the Journal of Organizational Behavior revisited the question with newer data, including Gen Z, and reached the same broad conclusion. Age effects exist. Life-stage effects exist. Career-stage effects exist. But "generation" as a category adds almost no predictive power once you account for those.
+
+Think about what that means practically. A 27-year-old with two kids and a mortgage often has more in common with a 45-year-old in the same situation than with a 24-year-old backpacking between contracts. The birth-year label tells you far less than the life circumstances do.
+
+## Why the Conflict Is Still Real
+
+If the differences are mostly myth, why do 47% of CHROs see this as a growing challenge? Because three real things are happening at once, and generational labels are the story people reach for to explain them.
+
+**Age diversity itself has increased.** Up to five generations now share workplaces, which means wider spreads in tenure, life stage, physical needs, and technology history on a single team. That's genuine diversity to manage, even if "generation" is the wrong lens for it.
+
+**Stereotypes create the conflict the data can't find.** This is the most important finding in the newer research. People act on what they believe about other generations, not on actual differences. A senior engineer who assumes the new graduate is entitled will interpret a normal question about promotion timelines as proof. A younger employee who assumes the older colleague fears technology will read routine caution as obstruction. The stereotype does the damage that the underlying difference never could. Researchers call these metastereotypes, and they predict workplace tension far better than actual attitude gaps do.
+
+**Structural change is being misread as generational change.** Flatter organizations, hybrid work, and AI adoption hit people differently depending on career stage. A 24-year-old and a 58-year-old experience the loss of office mentoring very differently, not because of their generational character, but because one of them still needs to build a network and the other already has one. Label it generational and you'll solve the wrong problem.
+
+## What This Means for How You Lead
+
+The practical shift is simple to state: manage life stages and individuals, not birth cohorts. Four moves follow from the evidence.
+
+**Ask, don't assume.** The entire stereotype problem dissolves under direct questions. What does this person want from the next two years? How do they prefer to get feedback? What does flexibility mean for them specifically? These questions cost you one conversation each, and they replace a label that the research says carries almost no information. If your one-on-ones are working, you already have the venue; our guide to [one-on-ones that actually matter](/resources/one-on-ones-that-actually-matter/) covers how to make room for exactly this.
+
+**Name stereotypes as the risk, not age.** When generational friction surfaces on a team, the effective intervention is not a seminar on "understanding Gen Z." It is making the team aware that assumed differences are doing the damage. Costanza's follow-up work suggests interventions targeting stereotypes outperform ones targeting supposed differences, for the simple reason that the stereotypes are what's real.
+
+**Build mixed-age collaboration deliberately.** Contact is the oldest and best-supported cure for stereotyping. Pair people across age gaps on real work with shared goals. Two-way mentoring, where the senior person trades institutional knowledge for fluency in newer tools, works not because generations have magic gifts to exchange, but because working together replaces the label with the person.
+
+**Design policies around needs, not cohorts.** Flexibility, development budgets, and benefits packages framed as "what Gen Z wants" alienate everyone else and misfire even for their target. The same offering framed as a menu that any employee can draw from based on their circumstances serves the actual diversity on your team, which is a diversity of situations, not of birth years.
+
+## The Bigger Pattern
+
+There's a leadership lesson here that goes beyond generations. Managers reach for group labels because labels promise a shortcut: learn the category, skip the conversation. The evidence keeps showing the shortcut doesn't work. Engagement research points the same direction; Gallup has found that around 70% of the variance in team engagement comes down to the manager, not to any demographic property of the team. The manager who knows what each person actually wants will beat the manager with the best generational framework every time.
+
+Career-stage tension also looks different from the other side of the table. Younger employees navigating their first roles are often reacting to a job market that has treated them harshly, not expressing a generational personality. Our sister publication [How To Find A Job](https://howtofindajob.org) covers what early-career candidates are facing right now, and it's useful reading for any leader who wants to understand the pressures their newest hires walked in with.
+
+## The Bottom Line
+
+Nearly half of CHROs are bracing for multigenerational friction in 2026, and they're right that the friction is coming. But two decades of meta-analytic evidence says the friction doesn't come from real differences between generations. It comes from believing in them. Retire the labels, ask better questions, and put mixed-age pairs on real work together. The generational problem on your team is almost certainly a stereotype problem, and stereotype problems are ones a leader can actually fix.
+`,
+  },
+  {
     slug: "job-hugging-what-it-means-for-leaders-2026",
     title: "Your Best People Are Job Hugging. Don't Mistake It for Loyalty.",
     excerpt: "Turnover is down, but that low attrition number may be hiding a problem. A 2025 Monster report found 75% of employees plan to stay in their current jobs through 2027, and 48% say they are staying out of fear rather than commitment. Here is why quiet retention is a leadership signal, not a win, and what to do about it.",
