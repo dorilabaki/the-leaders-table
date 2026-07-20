@@ -54,6 +54,78 @@ export const pillars = [
 // Blog Articles
 export const articles = [
   {
+    slug: "manager-as-coach-2026-gallup-data",
+    title: "Stop Managing, Start Coaching: The 2026 Data on Why Coaches Beat Bosses",
+    excerpt: "Gallup finds managers drive about 70 percent of the variance in team engagement, and the managers who get the best results coach rather than monitor. Google's Project Oxygen ranked being a good coach as the top behavior of its best managers. Here is what coaching actually means and the training data showing it lifts performance 20 to 28 percent.",
+    category: "Leadership",
+    readTime: "9 min read",
+    publishedAt: "2026-07-20",
+    content: `
+# Stop Managing, Start Coaching: The 2026 Data on Why Coaches Beat Bosses
+
+Most managers were handed a job description written for a world that no longer exists. Assign the work, check the work, report on the work, repeat. That model made sense when a manager's main job was to supervise repetitive output. It makes far less sense now, when the people you lead often know their piece of the work better than you do, and when the thing that actually moves performance is whether they keep growing.
+
+The research has caught up with that shift, and the 2026 data is blunt about it. The managers who get the best results are not the ones who monitor hardest. They are the ones who coach. Here is what the numbers say, what coaching actually means in practice, and how to make the switch without adding hours you do not have.
+
+## You Are 70 Percent of the Story
+
+Start with the single statistic every leader should know. Gallup's long-running analysis finds that managers account for about 70 percent of the variance in team engagement. Not company perks, not the mission statement, not the compensation band. The manager. When a team is thriving or quietly falling apart, the largest measurable factor sits in one chair.
+
+That finding raises the stakes on what you do with your management time. If you are the biggest lever on whether your people are engaged, then spending most of your day relaying status updates and policing deadlines is a poor use of the most important variable in the building. The teams that pull ahead tend to have a manager who spends that leverage on development instead of surveillance.
+
+## Google Ran the Experiment. Coaching Won.
+
+If this sounds like soft advice, it is worth remembering that one of the most data-driven companies on earth tested it. Google's Project Oxygen studied what separated its best managers from its worst, expecting technical skill to top the list. It did not. The single most important behavior of Google's highest-rated managers was being a good coach. Deep technical expertise ranked last among the behaviors that mattered.
+
+The lesson generalizes. Being a good coach did not mean knowing every answer. It meant asking good questions, giving specific and timely feedback, and helping people solve problems rather than solving every problem for them. That is a repeatable skill set, not a personality type, which is exactly why it can be trained.
+
+## What Coaching Actually Means
+
+Coaching is one of those words that has been worn smooth, so it helps to be concrete about the difference.
+
+A boss tells. A coach asks. When a report brings you a problem, the reflex of a traditional manager is to supply the answer, because it is faster and it feels like being useful. The coaching move is to ask what they have already considered and what they would do if it were entirely their call. You will be slower for a week and faster for a year, because the person leaves the conversation more capable instead of more dependent.
+
+A boss monitors. A coach develops. Status checks answer the question, is this on track. Coaching answers a bigger one, is this person getting better. Those are not the same conversation, and if every interaction you have is the first kind, your people will feel managed but not grown.
+
+A boss evaluates once a year. A coach gives feedback in the moment. The annual review is a poor coaching tool because the feedback arrives long after the behavior. Coaches close that gap to days or hours, when the work is still fresh enough to change.
+
+None of this means abandoning standards or going easy. Good coaches hold a higher bar than average bosses, because they expect people to grow into it and they invest in helping them get there.
+
+## The Training Payoff Is Not Subtle
+
+Here is where the case stops being philosophical. Gallup's research on manager development shows that teaching managers to coach produces returns that are hard to ignore.
+
+Basic management training alone cuts active disengagement roughly in half. Untrained managers are about twice as likely to be actively disengaged as their trained peers, which matters because a checked-out manager spreads that state to the team. When managers went through structured coaching development, Gallup found engagement among those managers rose by up to 22 percent, engagement on their teams rose by up to 18 percent, and manager performance metrics improved between 20 and 28 percent. Notably, those gains persisted nine to eighteen months after the training, so this is not a temporary lift from a motivational workshop.
+
+There is a wellbeing dividend too. Training on its own raised the share of managers who were thriving from 28 percent to 34 percent. When managers also had someone at work who actively encouraged their development, thriving jumped to 50 percent. Coaching, it turns out, works best when it runs in both directions, down to the team and up to the manager.
+
+And yet fewer than half of the world's managers say they have received any management training at all. That gap is the opportunity. In most organizations, the highest-return move available is not a new tool or a reorg. It is teaching the people who own 70 percent of engagement how to coach.
+
+## How To Shift This Week
+
+You do not need a budget or a program to start. You need to change a few defaults.
+
+In your next one-on-one, cut your talking time in half and replace it with two questions: what is getting in your way, and what would you try if it were fully your decision. Then sit with the silence long enough for a real answer.
+
+Catch one piece of good work within a day of seeing it and name specifically what made it good. Specific and fast beats glowing and delayed.
+
+Pick one problem this week that you would normally solve yourself, and instead coach the person through solving it. It will cost you fifteen extra minutes now and save you the same conversation ten times later.
+
+Protect these habits by protecting the meeting where they live. If your one-on-ones keep getting cancelled or hijacked by status updates, the coaching never happens. For the mechanics of running those conversations well, see our guide to [one-on-ones that actually matter](/resources/one-on-ones-that-actually-matter). And because coaching is also the most durable defense against the exhaustion crushing managers right now, pair it with the [research-backed fixes for manager burnout](/resources/manager-burnout-research-backed-fixes).
+
+## The Bottom Line
+
+The boss model was built to control output. The work most teams do now runs on judgment, initiative, and growth, and those respond to coaching, not surveillance. The data agrees from every angle: managers drive the majority of engagement, the best-studied managers on the planet win by coaching, and teaching managers to coach delivers double-digit gains that stick. The title on your door still says manager. The job, in 2026, is to be a coach.
+
+If you lead people who are early in their careers or thinking about their next move, coaching them well is also career development in the truest sense. Our sister site How To Find A Job covers the other side of that conversation at howtofindajob.org.
+
+## Sources
+
+- Gallup, State of the Global Workplace 2026 and Gallup's ongoing manager and management research. Key figures: managers account for about 70 percent of the variance in team engagement; basic management training roughly halves active disengagement; structured manager development raised manager engagement by up to 22 percent, team engagement by up to 18 percent, and manager performance metrics by 20 to 28 percent, with effects persisting nine to eighteen months; training raised manager thriving from 28 to 34 percent, rising to 50 percent when managers also had someone encouraging their development; fewer than half of managers worldwide report receiving any management training.
+- Google re:Work, Project Oxygen. Google's analysis of manager effectiveness found that the top behavior of its best-rated managers was being a good coach, while technical expertise ranked last among the behaviors studied.
+`,
+  },
+  {
     slug: "leadership-loneliness-emotional-cost-2026",
     title: "The Loneliness Tax of Leadership: What the 2026 Data Says About the Emotional Cost of Being in Charge",
     excerpt: "Gallup's 2026 report finds leaders report more daily loneliness, anger, sadness, and stress than the people they manage. Half of CEOs say they feel lonely in the role, and 61% believe it hurts their performance. Here is why the cost is real, what it does to your judgment, and seven habits that lower it.",
