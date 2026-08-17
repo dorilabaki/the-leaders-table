@@ -54,6 +54,91 @@ export const pillars = [
 // Blog Articles
 export const articles = [
   {
+    slug: "workslop-ai-standards-leadership-2026",
+    title: "Your Team Is Sending Each Other AI Slop. That's a Standards Failure, Not a Tool Failure",
+    excerpt: "BetterUp Labs and Stanford surveyed 1,004 US desk workers and found 40% had been sent AI-generated work that looked finished but wasn't. Each instance took an average of 1 hour 51 minutes to untangle. Managers are hit hardest, with 54% reporting it. And 16% of it flows downhill from leaders. A March 2026 survey of 1,000 employees explains why: 21% are now required to use AI, but only 32% have any standard for what good AI use looks like.",
+    category: "Leadership",
+    readTime: "9 min read",
+    publishedAt: "2026-08-17",
+    content: `
+# Your Team Is Sending Each Other AI Slop. That's a Standards Failure, Not a Tool Failure
+
+You have probably received one of these. A document that reads well, hits the right length, has confident headings, and turns out on the second read to say almost nothing you can act on. Or a deck that answers a question nobody asked. Or a summary that is fluent and subtly wrong.
+
+Researchers at BetterUp Labs and the Stanford Social Media Lab gave this a name in late 2025: workslop. Their definition is AI-generated content that looks polished and complete but is unhelpful, low quality, or off the mark. The naming matters because it separates two things leaders keep conflating. The problem is not that your team is using AI. The problem is that they are shipping unfinished thinking with a professional finish on it, and the cost lands on the person downstream.
+
+## What It Actually Costs
+
+The BetterUp and Stanford survey of 1,004 full-time US desk workers, fielded in September 2025, put numbers on it.
+
+Forty percent of employees said they had received workslop in the previous month. On average, workers estimated that 15.4% of everything they receive qualifies. Employees reported spending an average of 1 hour and 51 minutes dealing with each instance, roughly 20 minutes longer than if the sender had simply done the work themselves. Translated through respondents' own salaries, the researchers estimated an invisible tax of about $186 per month per employee. At 10,000 employees that is over $9 million a year.
+
+Note what that first figure means for you specifically. Managers reported receiving workslop at 54%, against 38.5% of individual contributors. If you lead people, you are the collection point.
+
+## The Cost You Cannot Put in a Spreadsheet
+
+The time is the smaller problem. The reputational damage is the bigger one.
+
+When employees in the study received workslop, they reported feeling annoyed (54%), frustrated (46%), confused (38%), and in 22% of cases offended. Around half said they now viewed the sender as less creative, less capable, and less reliable. Forty-two percent viewed them as less trustworthy. Over a third saw them as less intelligent. Nearly one in three said they would be less likely to want to work with that person again.
+
+Sit with that last number as a leader. A member of your team, trying to move faster with a tool you told them to use, is quietly burning credibility with peers they will need for the next three projects. They almost certainly do not know it is happening. Nobody says "this felt like slop." They just start routing around you.
+
+This is a feedback problem before it is an AI problem. If your team has no mechanism for someone to say "this wasn't ready" without it becoming a conflict, the signal never travels and the behaviour never changes. The mechanics of doing that well are in [feedback that changes behaviour](/resources/feedback-that-changes-behavior).
+
+## Why It Is Happening: A Standards Vacuum
+
+Here is where the diagnosis gets uncomfortable for leadership, because the cause is not laziness.
+
+Study.com surveyed 1,000 employees across industries in March 2026. Nine in ten now use AI at work at least sometimes. Twenty-one percent are formally required to use it for core responsibilities, and another 45% are encouraged or expected to.
+
+Now the other half of the data. Thirty-five percent of employees have received no AI training of any kind. Among those who did get training, only 18% say it prepared them to work independently. Only 32% report having a clear standard for what good AI use looks like in their role. Thirty-five percent have a rough idea with no benchmarks, 19% do not know at all, and 14% are unsure. Only 27% say their company's AI rules are fully clear to them.
+
+Read those two sets of numbers together and the outcome is not surprising, it is arithmetic. Two thirds of the workforce is under instruction to use a tool, and two thirds of the workforce has no definition of what using it well means. Workslop is what a standards vacuum looks like when it reaches your inbox.
+
+The same survey found a gap that should end any reliance on self-assessment here: 34% of employees feel very confident using AI for everyday tasks, 24% report no difficulty using it, and only 18% consistently produce high-quality output with little or no editing. Confidence runs sixteen points ahead of quality. Asking your team whether they are good at AI will not tell you whether they are.
+
+## The Manager Squeeze
+
+There is a timing problem stacked on top of this.
+
+Gallup's State of the Global Workplace reporting for 2026 shows manager engagement falling from 27% to 22% between 2024 and 2025, a five-point drop in a single year and the steepest on record in their data. Global employee engagement sat at 20%. Managers are the people you would normally ask to set quality standards, review output, and coach on judgment. They are also the group with the least capacity to absorb new work right now, and the group most likely to be handed workslop in the first place.
+
+Which means the fix cannot be "managers should review everything more carefully." That is more inspection layered onto people who are already depleted. The leverage is upstream, in standards and norms that prevent the output rather than catch it. If your managers are already stretched thin, the context is in [manager burnout and what actually fixes it](/resources/manager-burnout-research-backed-fixes) and [the AI-driven collapse in manager engagement](/resources/manager-ai-engagement-collapse-2026).
+
+## Five Things That Actually Change the Output
+
+**Define what good looks like, in writing, for real tasks.** Not a policy document about responsible AI. A one-page standard per common deliverable: what a good client update contains, what a good analysis must show its working on, what has to be verified before it leaves your team. Only 32% of employees have this. It is the single largest gap in the data and the cheapest to close.
+
+**Make the ask explicit: send me your thinking, not your output.** Workslop is usually a document produced to satisfy a request rather than answer a question. If your team knows you will ask "what do you think and why," fluent filler stops being a viable strategy. This is a posture shift more than a process one, and it sits close to [managing like a coach rather than an inspector](/resources/manager-as-coach-2026-gallup-data).
+
+**Require disclosure of uncertainty, not disclosure of AI use.** Asking people to flag whether they used AI produces defensiveness and tells you nothing useful. Asking them to mark what they have not verified tells you exactly where to look. Make "I have not checked these three figures" a normal, safe sentence in your team. That requires the kind of environment described in [psychological safety and the leader behaviours that build it](/resources/psychological-safety-leader-behaviours-2026).
+
+**Protect two hours a week for skill building.** The Study.com data is unusually actionable here. Forty-one percent of employees cite lack of time as the top barrier to improving their AI skills, and 67% say they need only two hours or fewer per week to meaningfully improve. Fifty-four percent already want to get better. The motivation exists; the calendar space does not. That is your decision to make, not theirs.
+
+**Audit your own output first.** Sixteen percent of workslop flows downhill from managers and executives, and 19% flows up. Fifty-three percent of all respondents admitted that at least some of what they send may qualify. If you have been shipping AI-drafted strategy notes and all-hands updates without close editing, you have already set the standard, and it is the one your team is now following. For the leadership fluency side of this, see [AI fluency for leaders](/resources/ai-fluency-leaders-2026) and [the frontline leader AI gap](/resources/frontline-leader-ai-gap-2026-ddi-forecast).
+
+## The Reframe
+
+The instinct when this lands is to restrict the tool. That is the wrong lever, and the data suggests it backfires: employees who reported feeling well prepared to use AI were far more likely to report real weekly time savings, while those with only basic skills spent their savings fixing output. The gains are real. They are just concentrated in the people who know what good looks like.
+
+So the job is not to slow AI adoption. It is to attach a quality bar to it, which is ordinary management work that got skipped in the rush. Your team is being asked to work faster with a tool that makes unfinished thinking look finished. Without a standard, speed and polish are the only things they can optimise for. With one, they can optimise for being right.
+
+For the individual-skills side of this, our sister site How Do I Use AI covers how to prompt for verifiable output rather than confident prose at [howdoiuse.ai](https://howdoiuse.ai), and Growth Mindset covers why the confidence-to-competence gap shows up in almost every skill people try to learn at speed at [growthmindset.academy](https://growthmindset.academy).
+
+## The Bottom Line
+
+Workslop is expensive twice: 1 hour 51 minutes of somebody else's day per instance, and a measurable hit to how colleagues rate the sender's reliability. It is reaching managers more than anyone else, and a sixth of it comes from leadership itself.
+
+It is not a tool problem. Twenty-one percent of employees are required to use AI and only 32% know what good use looks like. Close that gap with written standards for real deliverables, a norm of flagging unverified work, and two protected hours a week, and most of this disappears. Leave it open and you are paying an invisible tax while your best people quietly stop trusting each other's work.
+
+## Sources
+
+- BetterUp Labs and Stanford Social Media Lab, survey of 1,004 full-time US desk workers, fielded September 2025, reported in "AI-Generated Workslop Is Destroying Productivity," Harvard Business Review (September 2025) and in BetterUp's accompanying analysis. Source of the 40% receipt rate, the 15.4% share of received work, the 54% manager versus 38.5% individual contributor split, the 1 hour 51 minute average handling time, the $186 per month per employee estimate, the directional flow figures (40% sideways, 19% up, 16% down), the 53% who admit sending it, and the emotional and perception findings.
+- Study.com, "State of AI Jobs and Skills Report 2026." Primary workforce study of 1,000 employees fielded via Pollfish on 16 March 2026, with a secondary AI Career Confidence Survey of approximately 1,000 respondents fielded 5 December 2025. Source of the 21% required and 45% encouraged figures, the 35% with no training, the 18% whose training prepared them to work independently, the 32% with a clear standard, the 27% for whom AI rules are fully clear, the 34% / 24% / 18% confidence-to-quality progression, the 41% citing lack of time, and the 67% who need two hours or fewer per week.
+- Gallup, "State of the Global Workplace" (2026 report). Source of the fall in manager engagement from 27% to 22% between 2024 and 2025 and the 20% global employee engagement figure.
+`,
+  },
+  {
     slug: "annual-review-rethink-continuous-performance-2026",
     title: "Annual Reviews Are Quietly Disappearing. Here's What Should Replace Them, According to the Data",
     excerpt: "Gallup finds only 14% of employees strongly agree their performance reviews inspire them to improve. Deloitte counted 2 million hours a year spent on its old review process before scrapping it. More organizations are moving to continuous performance conversations in 2026, but the companies that dropped reviews carelessly paid for it. Here is what the evidence supports keeping, killing, and building instead.",
@@ -5166,7 +5251,7 @@ The work is mostly small. Write things down. Distribute information evenly. Reco
 
 None of these are dramatic. All of them, applied consistently across years, produce the kind of team most managers say they want and few actually build.
 
-For the broader frame on how managers think about their role, see our [first-time manager's complete handbook](/guides/first-time-manager-handbook). For the underlying conversation skills that hybrid leadership relies on, our guide to [running better one-on-ones](/resources/running-better-one-on-ones-2026) covers the meeting that does most of the work, and our handbook on [difficult conversations](/guides/difficult-conversations-handbook) covers the conversations that hybrid often makes harder.
+For the broader frame on how managers think about their role, see our [first-time manager's complete handbook](/guides/first-time-manager-handbook). For the underlying conversation skills that hybrid leadership relies on, our guide to [running better one-on-ones](/resources/running-better-one-on-ones-2026) covers the meeting that does most of the work, and our handbook on [difficult conversations](/guides/difficult-conversations-complete-guide) covers the conversations that hybrid often makes harder.
 
 The discipline is in the consistency. The reward is a team that works.
     `,
