@@ -54,6 +54,97 @@ export const pillars = [
 // Blog Articles
 export const articles = [
   {
+    slug: "peter-principle-promotion-best-performer-2026",
+    title: "Promoting Your Best Performer Is a Measurable Mistake. Here Is the Number.",
+    excerpt: "Economists at Minnesota, MIT and Yale tracked almost 40,000 sales workers across 131 firms. Selling twice as much as a colleague made someone about 15% more likely to be promoted in a given month. It also predicted a 7.5% decline in how much they improved their future team. The same data identified a trait that does predict good managers, and firms were ignoring it.",
+    category: "Leadership",
+    readTime: "9 min read",
+    publishedAt: "2026-08-24",
+    content: `
+# Promoting Your Best Performer Is a Measurable Mistake. Here Is the Number.
+
+There is a promotion decision most leaders make on autopilot. A role opens up. You look at the team, identify who is producing the most, and give it to them. It feels fair, it is easy to defend, and everyone else on the team can see the logic.
+
+It is also, on the available evidence, the wrong call more often than not.
+
+Alan Benson at the Carlson School, Danielle Li at MIT Sloan and Kelly Shue at Yale published the cleanest test of this in the Quarterly Journal of Economics in 2019. They used worker-level and manager-level performance data covering almost 40,000 sales workers across 131 firms. Sales is a useful setting for this question precisely because you can measure both things: what someone produced as an individual, and what happened to their team's output after they started leading it.
+
+## What They Found
+
+Two findings, and the gap between them is the whole story.
+
+First, the promotion pattern. A worker who sells twice as much as a colleague is about 15% more likely to be promoted in that month. No surprise there. That is roughly what every leader would predict, and it is roughly what every leader does.
+
+Second, the outcome. Among workers who were promoted, pre-promotion sales performance was negatively correlated with managerial quality. In the authors' own words, a doubling of a manager's pre-promotion sales corresponds to a 7.5% decline in manager value added. Put concretely: workers assigned to the star seller will see their sales increase 7.5% less than workers assigned to a manager who was the weaker salesperson.
+
+So the signal firms weight most heavily in promotion decisions is not merely uninformative about managerial ability. It points the wrong way.
+
+## Why This Happens Inside Your Organisation
+
+The researchers offer a mechanism that is more uncomfortable than simple ignorance. Firms hold high and low performing workers to different standards when deciding who to promote.
+
+If you will only promote a low-performer when they show exceptional leadership potential, then the low-performers who do get promoted are genuinely excellent managers, because they had to clear a high bar. If you will promote a top performer almost regardless of leadership signal, then the top performers who get promoted include plenty of people who should never have been given a team. The authors' framing is that firms appear to be discriminating in favour of top performers, whether they know it or not.
+
+Sit with that for a moment, because it is a description of a process, not of individual bad judgment. Nobody in the room decides to lower the standard. It happens because the case for promoting the top biller writes itself and the case for promoting someone mid-table requires you to argue for it.
+
+Gallup's separate research on manager selection lands in the same place from a different angle: it finds that companies fail to choose the candidate with the right talent for the job 82% of the time, and that most companies promote people into management on the basis of tenure or past performance rather than managerial talent.
+
+## The Signal Firms Were Ignoring
+
+This is the part of the study that is actually actionable, and it gets less attention than the headline finding.
+
+The researchers looked for observable worker characteristics that did predict good managers, and found one: teamwork experience. They could measure it because sales credit for a single deal often gets shared. A worker who generates a lead and hands it to a colleague, or who maintains contracts someone else opened, shows up in the data as collaborating.
+
+Workers with more collaboration history made better managers once promoted. And firms were not more likely to promote them. The signal was sitting in the same dataset the whole time, and nobody was using it.
+
+The working paper version puts a size on it. Across all their specifications, doubling a worker's pre-promotion collaboration experience predicted a 12.3% to 16.9% increase in subordinate performance after they were promoted. Compare that to the 7.5% decline predicted by doubling their individual sales. The two signals available to you point in opposite directions, and most promotion processes read only the wrong one.
+
+The working paper adds a second detail worth flagging. Workers who never collaborate with anyone, which the authors call lone wolves, fare particularly poorly when promoted into managerial roles. If your top performer is top precisely because they hoard their pipeline and work alone, that is not a neutral fact about their style. It is the closest thing to a red flag the data offers.
+
+## What To Do With This
+
+Four changes follow from the evidence, and none of them require you to stop rewarding high performance.
+
+**Separate the reward from the role.** The reason promotion gets used as a prize is that it is often the only prize available. Benson, Li and Shue found that firms relying more on incentive pay, meaning commissions and bonuses, rely less on current performance when making promotion decisions. If your only lever for recognising an exceptional individual contributor is to stop them being an individual contributor, you will keep making this mistake. The authors point to split career ladders at technical organisations such as Microsoft and IBM, which let engineers advance as individual contributors or as managers, as the structural fix.
+
+**Score collaboration explicitly in promotion cases.** Not as a soft comment in a calibration meeting, but as a named criterion with evidence attached. Who have they developed. Who asks them for help and comes back. What have they handed off rather than held. If your promotion template has a revenue or delivery field and no collaboration field, the template is telling your leaders what matters.
+
+**Raise the bar highest where the team is largest.** The same study found firms already do a version of this: they place less weight on individual sales performance when the managerial role involves leading larger teams. That instinct is correct and worth making explicit. The cost of a mismatch scales with headcount. For the sizing question underneath this, see [span of control and how many direct reports is too many](/resources/span-of-control-2026-how-many-direct-reports).
+
+**Trial the role before you award it.** A project lead assignment, a temporary team, an interim cover. The data problem here is that you have years of evidence about someone's individual output and none about their managerial output. Manufacture some before you commit.
+
+## The Honest Caveat
+
+Two limits on how far to push this.
+
+The study is on salespeople. The authors chose that setting deliberately, because the confidence and persistence that make a good salesperson are visibly different from the skills required to run a sales team. In roles where individual excellence depends more on judgment, teaching and coordination, the gap between the two jobs is narrower and the effect may be smaller.
+
+And the authors do not conclude that firms are behaving irrationally. Promotions serve two purposes at once: assigning the right person to the role, and motivating everyone watching. If you promoted purely on managerial potential, you would weaken the incentive for people to excel where they are. Their estimate is that firms appear willing to forgo a substantial improvement in subordinate performance in order to keep those incentive effects. That is a trade, not an error. The question for you is whether you are making that trade deliberately or by default.
+
+## What This Means for the Person Being Promoted
+
+There is a second failure mode buried in this research that leaders tend to miss.
+
+Your best performer often does not want the job. They want the recognition, the money, and the status that your organisation has bundled into the job. When management turns out to be a different occupation than the one they were good at, they lose the thing they were excellent at and gain a role they were never assessed for. That is a reliable route into disengagement, and it is worth reading alongside [what the research says about manager burnout](/resources/manager-burnout-research-backed-fixes) and [the shift from managing to coaching](/resources/manager-as-coach-2026-gallup-data).
+
+Ask the question directly before you offer the role, and make it genuinely safe to decline. If declining a management track quietly ends someone's career progression at your company, you have not asked a question. You have made an offer with a hidden penalty.
+
+For anyone weighing that decision from the other side of the table, our sister site How To Find A Job covers evaluating a management move against an individual contributor track at [howtofindajob.org](https://howtofindajob.org). And on the underlying question of whether managerial skill is trainable rather than innate, Growth Mindset covers the evidence at [growthmindset.academy](https://growthmindset.academy).
+
+## The Takeaway
+
+The evidence does not say that great performers make bad managers. It says that current performance is a poor predictor of managerial quality, that most organisations weight it heavily anyway, and that a better predictor was available in the same data and being ignored.
+
+Before your next promotion decision, ask one question: what evidence do we have about this person's ability to make other people better? If the answer is that they are very good at the job themselves, you have not answered the question.
+
+## Sources
+
+- Alan Benson, Danielle Li and Kelly Shue, "Promotions and the Peter Principle," The Quarterly Journal of Economics, Volume 134, Number 4 (November 2019), pages 2085 to 2134, doi:10.1093/qje/qjz022. Figures cited above are from the authors' own summary of the paper published on VoxEU, CEPR, 24 April 2019: data on almost 40,000 sales workers across 131 firms, a worker selling twice as much as a colleague being about 15% more likely to be promoted in that month, and a doubling of a manager's pre-promotion sales corresponding to a 7.5% decline in manager value added.
+- Alan Benson, Danielle Li and Kelly Shue, "Promotions and the Peter Principle," NBER Working Paper No. 24343 (February 2018). Source of the finding that workers who never collaborate, described by the authors as lone wolves, fare particularly poorly when promoted into managerial roles, and of the finding that doubling pre-promotion collaboration experience predicts a 12.3% to 16.9% increase in subordinate performance. Sample figures in the working paper version differ from the published version.
+- Gallup, "Why Great Managers Are So Rare," on the finding that companies fail to choose the candidate with the right talent for the job 82% of the time, that about one in ten people possess high talent to manage, and that managers account for at least 70% of the variance in employee engagement scores across business units.
+`,
+  },
+  {
     slug: "workslop-ai-standards-leadership-2026",
     title: "Your Team Is Sending Each Other AI Slop. That's a Standards Failure, Not a Tool Failure",
     excerpt: "BetterUp Labs and Stanford surveyed 1,004 US desk workers and found 40% had been sent AI-generated work that looked finished but wasn't. Each instance took an average of 1 hour 51 minutes to untangle. Managers are hit hardest, with 54% reporting it. And 16% of it flows downhill from leaders. A March 2026 survey of 1,000 employees explains why: 21% are now required to use AI, but only 32% have any standard for what good AI use looks like.",
