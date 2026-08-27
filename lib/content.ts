@@ -54,6 +54,133 @@ export const pillars = [
 // Blog Articles
 export const articles = [
   {
+    slug: "junior-pipeline-entry-level-hiring-ai-2026",
+    title: "Everyone Says Entry-Level Hiring Fell 80%. The Paper Says 9%. Both Numbers Should Worry You.",
+    excerpt: "The 80% figure everyone is quoting is a press derivation, not a finding. The Harvard working paper it comes from reports a 9% relative decline in junior employment at generative-AI-adopting firms, robust across three methods, driven by requisitions that quietly never open rather than by layoffs. Stanford puts the gap for 22 to 25 year olds in AI-exposed roles at 19%. Revelio's data shows roles AI cannot touch fell almost as far. Here is what the evidence actually supports, and the four questions to ask before you freeze the graduate requisition.",
+    category: "Leadership",
+    readTime: "10 min read",
+    publishedAt: "2026-08-27",
+    content: `
+# Everyone Says Entry-Level Hiring Fell 80%. The Paper Says 9%. Both Numbers Should Worry You.
+
+If you sit in workforce planning meetings, you have heard the number. Entry-level hiring is down 80% at companies that adopted generative AI. It has been in Forbes, in newsletters, in slide decks arguing for a hiring freeze on graduates.
+
+I went and read the paper. The number is not in it.
+
+That matters, and not because the underlying trend is fake. The trend is real, it is measurable, and it has consequences for anyone responsible for who runs their organisation in 2032. It matters because a leader who freezes a graduate programme on the strength of a figure that dissolves under inspection has made a decade-long decision on a bad input.
+
+Here is what the evidence actually supports, and what it means for the bench you are building.
+
+## Where the 80% Came From
+
+The source is a working paper by Seyed Mahdi Hosseini Maasoum and Guy Lichtinger, both at Harvard, titled "Generative AI as Seniority-Biased Technological Change: Evidence from U.S. Résumé and Job Posting Data." It was posted in September 2025 and last revised in June 2026.
+
+It is a serious piece of work. It covers résumé data on 65 million workers at more than 280,000 firms, identifies which of those firms adopted generative AI, and compares what happened to their junior headcount against firms that did not.
+
+The strings "80 percent" and "80%" do not appear anywhere in it.
+
+What the paper reports is a coefficient. Relative to non-adopters, firms that adopted generative AI hired on average 5.0 fewer junior workers per quarter after the first quarter of 2023. Elsewhere in the paper, the sample average is roughly 6.9 new hires per quarter, of which about 67% are junior. Divide one by the other and you get a figure north of 80%. That division is where the headline came from, and it is not a calculation the authors perform, because it produces a ratio larger than the base it is drawn from.
+
+So the 80% is a press derivation, not a finding.
+
+## What the Paper Actually Found
+
+The authors' own headline results are smaller and, in my view, more useful because they are defensible.
+
+Junior employment at adopting firms fell by about 9% relative to control firms in the six quarters following the start of 2023. A triple-difference specification puts it at roughly 10%. A staggered event study using the Callaway and Sant'Anna estimator lands on 8%.
+
+Three methods, three numbers, all clustered around 9%. That is what a robust finding looks like.
+
+The mechanism is the part leaders should read twice. The decline is driven primarily by slower hiring rather than increased separations. Firms did not fire their juniors. They stopped replacing them.
+
+That distinction changes the leadership problem entirely. A layoff is visible, it is debated, it has a memo attached to it. A quiet decision not to open the requisition is invisible, requires no announcement, and compounds silently for years. Nobody has to defend it in a town hall. It just shows up in 2031 as an empty rung.
+
+## The Number That Should Worry You More
+
+The Harvard paper measures firms. Two other datasets measure people, and they are less comfortable reading.
+
+Erik Brynjolfsson, Bharat Chandar and Ruyu Chen at the Stanford Digital Economy Lab have been tracking this with ADP administrative payroll records. In their revised August 2026 version of "Canaries in the Coal Mine?", employment of workers aged 22 to 25 in AI-exposed occupations sits 19% below where it would be had it kept pace with their less-exposed peers. Experienced workers show no comparable gap.
+
+That gap is widening. The original August 2025 version of the same paper put it at 13%.
+
+The authors are careful about what this is, and so should we be. They describe these as early, descriptive indicators rather than causal estimates. They are not claiming AI caused it. They are claiming the pattern is there and it is concentrated at the bottom of the seniority ladder.
+
+Meanwhile the Federal Reserve Bank of New York's tracking of the labour market for recent college graduates found that in the second quarter of 2026, unemployment for graduates aged 22 to 27 stayed elevated at about 5.6%, and underemployment, meaning working in a job that typically does not require a degree, edged up to 42%.
+
+Two out of every five recent graduates are in a job their degree did not qualify them for.
+
+## The Part Almost Nobody Quotes
+
+Here is the finding that should make you slow down before attributing all of this to AI.
+
+Revelio Labs' chief economist Lisa K. Simon published an analysis in August 2025 showing entry-level job openings running more than 35% below their January 2023 level, roughly 100,000 fewer new monthly postings. That number gets quoted constantly.
+
+The next sentence rarely does. Entry-level roles with high AI exposure had declined by over 40%. Entry-level roles with low AI exposure had declined by 33%.
+
+Sit with that gap. It is seven points. If AI were the whole story, roles it cannot touch should have held up. They did not. They fell almost as far.
+
+The honest reading is that there are two forces here. There is a genuine AI effect, visible in the seven-point spread and in the Harvard and Stanford work. And there is a broader contraction in junior hiring that has nothing to do with AI, and that AI is being used to explain, and in some rooms to justify.
+
+If your organisation has cut graduate intake and filed it under "AI transformation," it is worth asking honestly which of the two you are actually responding to. One is a strategic adaptation. The other is a hiring freeze wearing a better suit.
+
+## What Gartner Found When It Asked Directly
+
+Gartner surveyed 110 heads of HR in the fourth quarter of 2025 and published the results in July 2026. Twenty-two percent of CHROs reported that at least one business leader in their organisation had stopped hiring for entry-level roles because of AI automation.
+
+Note the precise shape of that finding, because it is usually rendered as "22% of firms have cut entry-level hiring," which is a stronger claim than the data supports. It is 22% of HR leaders saying at least one leader somewhere in the business has done this. On a sample of 110.
+
+But read it as what it is and it is arguably more revealing. This is not happening through a board-level strategy decision. It is happening one manager at a time, below the level where anyone is tracking the aggregate. Which is precisely how a talent pipeline disappears without a single meeting being held about it.
+
+## The Counter-Bet
+
+In February 2026, IBM's chief human resources officer Nickle LaMoreaux told Charter's Leading With AI Summit that the company planned to triple entry-level hiring that year, including for software developers. Axios reported it. She called the move "pretty provocative," which it is.
+
+Her reasoning is the part worth stealing. On the work itself: "The entry level jobs that you had two to three years ago, AI can do most of them. You have to rewrite every job."
+
+Not eliminate. Rewrite.
+
+And on the economics: forgoing entry-level hiring means you buy mid-level talent instead, at what she put at roughly a 30% premium.
+
+Two caveats so you are quoting this accurately. IBM disclosed no baseline, so "tripling" has no absolute number attached to it, and this was a reported statement at a conference rather than a press release. IBM also cut about 1% of its roughly 270,000-person workforce in 2025, so this is a reallocation, not an expansion. And IBM's definition of entry-level covers recent graduates, people returning to the workforce, and career changers.
+
+Still, the strategic logic holds independently of whether IBM executes it well. If AI has absorbed the routine components of junior work, the choice is not between hiring juniors and not hiring them. It is between redesigning the junior role and buying the output later at a premium from someone else who did.
+
+## Four Questions Before You Freeze the Requisition
+
+If you are the person who decides whether the graduate role opens this year, these are the questions I would want answered first.
+
+**What specifically did AI absorb, and what is left?** If the answer is "the whole job," that is almost certainly wrong and worth pushing on. Routine drafting, first-pass analysis and boilerplate have genuinely moved. Judgment about whether the output is right has not. LaMoreaux's rewrite framing points at the actual work: less time producing the first draft, more time interpreting requirements and validating what the model produced.
+
+**Who is going to be able to check the AI's work in five years?** Validation is a skill built by doing the task badly first, then better. If nobody in your organisation ever does the junior version of the work, you are cultivating a generation of reviewers who cannot tell a good output from a fluent one. That failure mode is already visible in how teams handle AI-generated work, which we covered in [why AI slop is a standards failure rather than a tool failure](/resources/workslop-ai-standards-leadership-2026).
+
+**What is the premium you are agreeing to pay?** Not hiring juniors is not free. It is a decision to buy mid-level talent on the open market at a markup, in a market where every competitor made the same decision. Price that explicitly rather than treating the saved salary as pure margin.
+
+**Who is going to develop them if you do hire?** This is where the two problems collide. Junior development happens through managers, and managers are already stretched thin by [the flattening of organisational layers](/resources/great-flattening-lead-bigger-team-fewer-layers) and by [spans of control that have quietly grown past what one person can hold](/resources/span-of-control-2026-how-many-direct-reports). Hiring graduates into an organisation with nobody left to teach them produces the worst of both outcomes: the cost of the hire without the development. If you are going to reopen the pipeline, [building leadership capacity below the management layer](/resources/distributed-leadership-developing-leaders-everywhere) is the prerequisite, not the follow-up.
+
+For anyone on the other side of this, navigating an entry-level market that has genuinely tightened, our sister site How To Find A Job covers positioning and search strategy at [howtofindajob.org](https://howtofindajob.org). On the underlying question of whether the capabilities AI has not absorbed are trainable rather than fixed, Growth Mindset covers the evidence at [growthmindset.academy](https://growthmindset.academy). And if you want to understand what the tools can and cannot actually do before you redesign a role around them, How Do I Use AI is a good starting point at [howdoiuse.ai](https://howdoiuse.ai).
+
+## The Takeaway
+
+The 80% figure is wrong, and you should stop repeating it.
+
+The 9% figure is right, it is robust across three methods, and it describes something more dangerous than a dramatic collapse. It describes a slow leak driven by requisitions that quietly never open, made by individual managers, aggregating into a structural problem nobody chose.
+
+The Stanford and New York Fed numbers tell you the human cost is real and growing. The Revelio split tells you AI is part of the cause but not all of it. The Gartner survey tells you the decisions are being made below the level where anyone is counting.
+
+None of that adds up to "keep hiring graduates the way you did in 2022." The work has changed and the role needs rewriting. It adds up to something narrower and harder: make the decision deliberately, with the right number in front of you, and know what you are agreeing to pay later.
+
+## Sources
+
+- Seyed Mahdi Hosseini Maasoum and Guy Lichtinger, "Generative AI as Seniority-Biased Technological Change: Evidence from U.S. Résumé and Job Posting Data," SSRN Working Paper 5425555, written 31 August 2025, last revised 6 June 2026, doi:10.2139/ssrn.5425555. Source of the 9% relative decline in junior employment six quarters after 2023Q1, the roughly 10% triple-difference estimate, the 8% staggered event-study estimate, the coefficient of 5.0 fewer junior hires per quarter at adopting firms, the sample of 65 million workers at more than 280,000 firms, and the finding that the decline is driven primarily by slower hiring rather than increased separations.
+- Caroline Castrillon, "Why Entry-Level Hiring Is Down 80% At Companies Adopting AI," Forbes, 29 May 2026. Cited as the origin of the widely repeated 80% figure, which is a derivation from the paper's coefficient and not a result reported by its authors.
+- Erik Brynjolfsson, Bharat Chandar and Ruyu Chen, "Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of Artificial Intelligence," Stanford Digital Economy Lab, revised version dated 12 August 2026, using ADP administrative payroll data through June 2026. Source of the finding that employment of workers aged 22 to 25 in AI-exposed occupations stands 19% below where it would be had it kept pace with less-exposed peers, and of the 13% figure in the original August 2025 version. The authors describe these as early, descriptive indicators rather than causal estimates.
+- Federal Reserve Bank of New York, "The Labor Market for Recent College Graduates," 2026:Q2 quarterly highlights, prepared by Jaison R. Abel and Richard Deitz. Source of the 5.6% unemployment rate and 42% underemployment rate for graduates aged 22 to 27. The Bank notes these data do not represent official estimates of the Federal Reserve Bank of New York.
+- Lisa K. Simon, "Is AI responsible for the rise in entry-level unemployment?", Revelio Labs, 4 August 2025, produced in collaboration with Bloomberg. Source of the finding that entry-level job openings were more than 35% below January 2023 levels, equalling over 100,000 fewer new monthly postings, and of the split showing highly AI-exposed entry-level roles down over 40% against 33% for roles with low AI exposure.
+- Gartner, "Gartner Survey Finds AI Automation Is Reducing Some Entry Level Hiring at Nearly One-Quarter of Organizations," press release, 27 July 2026, based on a 4Q25 survey of 110 heads of HR. Source of the finding that 22% of CHROs report at least one business leader in their organisation has stopped hiring for entry-level roles due to AI automation.
+- Emily Peck, "IBM plans to triple entry-level hiring this year because of AI," Axios, 13 February 2026. Source of the statements by IBM chief human resources officer Nickle LaMoreaux at Charter's Leading With AI Summit, including the plan to triple entry-level hiring, the quoted remark on rewriting every job, the roughly 30% premium on mid-level hires, IBM's definition of entry-level, and the approximately 1% workforce reduction in 2025.
+`,
+  },
+  {
     slug: "peter-principle-promotion-best-performer-2026",
     title: "Promoting Your Best Performer Is a Measurable Mistake. Here Is the Number.",
     excerpt: "Economists at Minnesota, MIT and Yale tracked almost 40,000 sales workers across 131 firms. Selling twice as much as a colleague made someone about 15% more likely to be promoted in a given month. It also predicted a 7.5% decline in how much they improved their future team. The same data identified a trait that does predict good managers, and firms were ignoring it.",
