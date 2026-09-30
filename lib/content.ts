@@ -54,6 +54,62 @@ export const pillars = [
 // Blog Articles
 export const articles = [
   {
+    slug: "stretched-thin-managers-what-teams-lose-first-2026",
+    title: "Your Manager Is Doing Two Jobs Now. Survey Data Shows What Their Team Loses First.",
+    excerpt: "McKinsey's data shows managers already spent less than a third of their time on people management before any team got bigger. Firstup's survey of 1,000 employees shows what they depend on most when that time shrinks: task guidance (82%), recognition (75%), and translation of company news (86%). Here's the triage order the data supports, and where it runs short.",
+    category: "Leadership",
+    readTime: "9 min read",
+    publishedAt: "2026-09-30",
+    content: `
+# Your Manager Is Doing Two Jobs Now. Survey Data Shows What Their Team Loses First.
+
+Flattening has a well-documented structural story by now: fewer layers, bigger teams, managers absorbing work that used to belong to the person above them. What gets less attention is the second-order question. When a manager's time gets cut in half, what do the people reporting to them actually lose first, and in what order?
+
+Two recent studies, one on the manager's side and one on the employee's, answer that question with real numbers instead of guesswork.
+
+## Managers Were Already Short on People-Management Time
+
+Start with the manager. McKinsey surveyed 706 middle managers (out of 984 total respondents) in the spring of 2022, publishing the results in March 2023. The finding that still holds up: managers spent less than a third of their time on talent and people management even before any of the current round of delayering. Nearly half their week went to individual-contributor work and administrative tasks, including roughly a full day on admin alone.
+
+The more telling number is about support, not time. Only 20% of managers strongly agreed that their organization helps them succeed as people managers. Another 42% either disagreed or weren't sure. Most managers, in other words, were already doing the people-facing part of the job on their own initiative, with little structural backing, before their team size or scope changed at all.
+
+That's the starting position. Flattening doesn't introduce the time squeeze. It intensifies one that was already there.
+
+## What Employees Notice Missing First
+
+Firstup's Manager Impact Survey, fielded in July 2025 through Pollfish and published August 27, 2025, asked a more specific question: among 1,000 U.S. full-time non-managerial employees whose companies had layoffs in the prior 12 months, what actually changed once management layers thinned out, and what do employees rely on managers for most.
+
+The dependency data is the useful part. Task and process guidance topped the list at 82%, the highest of anything measured. Recognition and appreciation followed at 75%. Sixty-three percent depend on their manager to help navigate work challenges, and 86% rely on their manager to translate company-wide updates into what those updates actually mean for their own job. Fifty-two percent name their direct manager as their single most trusted source of information, ahead of any other channel.
+
+Against that backdrop, 38% of respondents said their manager had already become less accessible since the layoffs. Looking ahead, 30% expect to feel unsupported through further change, 22% worry about unclear direction, and 21% anticipate feeling unrecognized. Only 56% said they'd be even "somewhat confident" about getting job-critical information when they needed it.
+
+Line those two data sets up and the pattern is specific, not vague. The functions employees depend on most, day-to-day task guidance and translating what's happening above them, are exactly the functions a time-starved manager is most likely to let slip, because they're the ones with no calendar invite and no deadline attached. Nobody schedules a meeting to make sure Tuesday's task guidance still happens.
+
+## Where a Stretched Manager's Time Actually Belongs
+
+If you're managing more people with less time than you had a year ago, this data points to a specific triage order rather than a general call to "communicate more."
+
+Protect task and process guidance first, even in a smaller format. An 82% dependency rate means this isn't a nice-to-have. It doesn't require a standing meeting. A two-line async update on what "good" looks like for this week's priority beats a well-produced monthly memo that arrives too late to change anyone's work.
+
+Keep translating, briefly. The 86% figure on translating company updates is the one most managers underrate, because it feels like the least urgent item on the list. It's also the one with no other source. Nobody else's job is to tell your specific team what a company-wide announcement means for them.
+
+Ration recognition deliberately rather than letting it lapse. At 75% dependency, recognition is close behind task guidance, and it's cheap in manager-hours relative to its weight. A specific one-line acknowledgment costs under a minute and doesn't require a program.
+
+This isn't a claim that flattening is fine as long as managers triage well. Korn Ferry's Workforce 2025 research, surveying more than 15,000 professionals, found 72% of U.S. employees feel stretched beyond their capabilities, compared with 47% of their global peers, and Gartner has forecast that by 2026, one in five organizations will use AI to flatten their structure, eliminating more than half of current middle-management roles in those companies. The structural pressure is real and it's discussed in more detail in [The Great Flattening](/resources/great-flattening-lead-bigger-team-fewer-layers). What the Firstup and McKinsey data add is a way to decide what to protect when there genuinely isn't enough time left to do everything well.
+
+## Where This Data Runs Short
+
+Firstup's sample is specifically employees at companies that had layoffs in the past 12 months, not a general workforce sample, and a portion of its findings are about what employees expect to lose rather than what they've already experienced. Read those forward-looking numbers as anticipated risk, not confirmed outcome. Firstup also sells internal communications software, so it has a commercial interest in the topic, which is one more reason to treat the survey as a signal rather than a verdict. McKinsey's underlying survey is now several years old, fielded in 2022, though it remains the most detailed public data on how middle managers actually allocate their time and it's consistent with what more recent, less granular surveys report. Neither study proves causation between fewer management layers and worse employee outcomes; they describe what employees say they depend on and what they say has already changed. If you're carrying a heavier team and want to address your own capacity rather than just your team's, [Research-Backed Fixes for Manager Burnout](/resources/manager-burnout-research-backed-fixes) covers that side directly.
+
+## Sources
+
+- McKinsey & Company, "Stop wasting your most precious resource: Middle managers," March 10, 2023 (survey of 706 middle managers, fielded March 29 to April 8, 2022)
+- Firstup, "Shrinking Middle Management Layer Puts Pressure on Workplace Communication and Engagement," press release, August 27, 2025 (Manager Impact Survey, fielded July 2025 via Pollfish, 1,000 U.S. full-time non-managerial employees)
+- Korn Ferry, "Korn Ferry Reveals Workforce 2025 Research," press release (survey of more than 15,000 professionals across 15 markets)
+- Gartner, cited via Inc., "Gartner Predicts AI Will Eliminate 50 Percent of These Management Roles by 2026," June 15, 2026
+`,
+  },
+  {
     slug: "junior-pipeline-entry-level-hiring-ai-2026",
     title: "Everyone Says Entry-Level Hiring Fell 80%. The Paper Says 9%. Both Numbers Should Worry You.",
     excerpt: "The 80% figure everyone is quoting is a press derivation, not a finding. The Harvard working paper it comes from reports a 9% relative decline in junior employment at generative-AI-adopting firms, robust across three methods, driven by requisitions that quietly never open rather than by layoffs. Stanford puts the gap for 22 to 25 year olds in AI-exposed roles at 19%. Revelio's data shows roles AI cannot touch fell almost as far. Here is what the evidence actually supports, and the four questions to ask before you freeze the graduate requisition.",
