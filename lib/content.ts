@@ -54,6 +54,66 @@ export const pillars = [
 // Blog Articles
 export const articles = [
   {
+    slug: "executives-change-leadership-gap-ddi-2026",
+    title: "Only 8% of Executives Lead Change Well. The Gap Is Wider at the Top Than the Middle.",
+    excerpt: "DDI's simulation data on more than 100,000 leaders found 30% of mid-level leaders are strong at leading change, against 15% of frontline leaders and 8% of executives. The weakest executive skill: rewarding the behavior a change needs (1%).",
+    category: "Leadership",
+    readTime: "7 min read",
+    publishedAt: "2026-10-01",
+    content: `
+# Only 8% of Executives Lead Change Well. The Gap Is Wider at the Top Than the Middle.
+
+Most change programs are designed at the top and carried out in the middle. So it matters who is actually good at it. DDI, the leadership consultancy, published data in January 2026 that answers the question with an unusual dataset: simulation assessments of more than 100,000 leaders, not a sentiment survey.
+
+The headline is 8%. That's the share of executives DDI rated strong at leading through change. The more useful finding is where the other levels land, and which specific behaviors fail.
+
+## What DDI Measured
+
+DDI's Center for Analytics and Behavioral Research analyzed assessment data from over 100,000 frontline, mid-level, and executive leaders. The assessments are simulations, meaning leaders are observed handling realistic scenarios rather than rating themselves. That matters, because a simulation shows what leaders do, not what they say they'd do. DDI released the findings on January 27, 2026.
+
+Here is how the three levels compare:
+
+- Executives: 8% strong at leading through change.
+- Mid-level leaders: 30% strong, with 25% needing significant development.
+- Frontline leaders: 15% strong, with 39% needing significant development.
+
+Read that again. The people closest to the strategy are the weakest at executing change, and mid-level leaders are the strongest. If your change plan assumes the executive layer will model the behavior and the middle will follow, the data points the other way.
+
+## Where Executives Fall Short
+
+DDI broke out the specific behaviors. Among executives, the share rated effective was 1% for rewarding the behaviors a change requires, 4% for stretching boundaries and challenging norms, and 11% for addressing resistance. Among mid-level leaders, asking questions was a weak spot, at 10% effective.
+
+The 1% figure deserves attention. Rewarding desired behavior is the unglamorous part of a change: who gets recognized, promoted, or paid for working the new way. Announcing a change and funding the project is the visible work. Adjusting what gets rewarded is the part DDI's simulations found almost no executives doing well. People notice that quickly. If the old behavior still earns the bonus, the new behavior stays optional.
+
+The resistance number is worth a second look too. At 11%, most executives in the dataset handle pushback poorly. DDI's summary doesn't say what the failures look like, so the next part is our reading: the usual suspects are overriding resistance or avoiding it until it hardens, and either leaves managers in the middle absorbing the friction. We've covered that cost in [why change fatigue taxes every new initiative](/resources/change-fatigue-leaders-reduce-2026).
+
+## Leaders Feel Less Ready Than They Did Five Years Ago
+
+DDI also reports that the share of leaders who feel prepared to manage change fell from 25% to 13% over the past five years. Per the release, that's a decline of nearly half. It's a different kind of number from the simulation results, because it measures confidence, not skill. Together they say something consistent: leaders are not only underperforming on change, they know it.
+
+The release also notes some groups with higher readiness. Gen Z leaders were 1.5 times more likely to feel prepared, small businesses (100 employees or fewer) were twice as likely to have well-prepared leaders, and women leaders reported 1.3 times higher confidence than men. DDI doesn't explain why in the summary we could verify, and we'd treat these as patterns to watch, not conclusions. A reasonable guess for the small-business result is proximity: fewer layers means leaders see the effect of their decisions faster. That is our inference, not DDI's finding.
+
+## What This Means If You Lead Change
+
+Start with where you sit. If you're an executive, assume your own change skills are weaker than your title implies, and ask the people two levels down how the last initiative really landed. If you're a mid-level leader, you're statistically the most capable person in the room on this skill. Say so, and push for a seat in the design stage, not only the rollout.
+
+Then audit the rewards. Before the next announcement, write down which behaviors the change needs and what, concretely, happens to someone who does them. If the answer is nothing, you're in the 99% DDI found lacking here.
+
+Finally, plan for resistance in the schedule. Put a recurring conversation with the people most affected on the calendar before launch. It costs an hour a week. The alternative is finding out in month four.
+
+If your team has also lost a layer of management along the way, the load on the remaining managers is the next issue. See [what teams lose first when managers are stretched thin](/resources/stretched-thin-managers-what-teams-lose-first-2026). For anyone on the receiving end of a badly run change and wondering whether to stay, our sister site How To Find A Job covers how to weigh that decision at [howtofindajob.org](https://howtofindajob.org).
+
+## What This Data Can't Tell You
+
+DDI sells assessments and leadership development programs. Its release says leaders with access to high-quality assessment and development programs are 5.6 times more likely to effectively anticipate and react to change. That is a correlation reported by a vendor of those programs. It doesn't show that training causes the difference, since organizations that invest in development may differ in other ways. The release summary also doesn't give the full scoring definition of "strong," so treat the percentages as DDI's own scale, useful for comparing levels more than as an absolute bar.
+
+## Sources
+
+- DDI, "DDI Data Reveals Only 8% of Executives Are Strong at Leading Through Change," press release, January 27, 2026 (simulation assessment data from more than 100,000 leaders; DDI Center for Analytics and Behavioral Research)
+- DDI, "Leading Through Change" research summary, ddi.com/about/media/leading-through-change-research
+`,
+  },
+  {
     slug: "stretched-thin-managers-what-teams-lose-first-2026",
     title: "Your Manager Is Doing Two Jobs Now. Survey Data Shows What Their Team Loses First.",
     excerpt: "McKinsey's data shows managers already spent less than a third of their time on people management before any team got bigger. Firstup's survey of 1,000 employees shows what they depend on most when that time shrinks: task guidance (82%), recognition (75%), and translation of company news (86%). Here's the triage order the data supports, and where it runs short.",
