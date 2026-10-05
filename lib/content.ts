@@ -54,6 +54,84 @@ export const pillars = [
 // Blog Articles
 export const articles = [
   {
+    slug: "manager-support-ai-use-gallup-2026",
+    title: "Only 36% of Employees Say Their Manager Actively Supports AI Use. Gallup Data Shows What That Gap Costs.",
+    excerpt: "Gallup's 2026 data finds 78% of employees with an actively supportive manager use AI frequently, against 44% of those without one. Employees with strong manager support were 9.3 times as likely to say AI has transformed how work gets done. Here's what the numbers show and where they stop.",
+    category: "Leadership",
+    readTime: "7 min read",
+    publishedAt: "2026-10-05",
+    content: `
+# Only 36% of Employees Say Their Manager Actively Supports AI Use. Gallup Data Shows What That Gap Costs.
+
+Most AI rollouts are planned as technology projects: pick the tool, buy the licenses, run a training session. Gallup's 2026 data points at a different lever. The strongest correlate of whether employees use AI often isn't the tool or the training. It's whether their manager actively backs it.
+
+## What Gallup Reported
+
+Gallup published its analysis of AI and workplace productivity on July 27, 2026 and updated it on September 30, 2026. It draws on May 2026 survey data, plus Q2 2026 figures on leaders. Four findings matter for managers.
+
+First, among employees working in organizations that have implemented AI, 65% said it had a positive effect on their productivity and efficiency.
+
+Second, breadth of use tracks with reported gains. The share reporting a positive effect rises with the number of work purposes someone uses AI for:
+
+- One to two purposes: 45%.
+- Three to four purposes: 66%.
+- Five to six purposes: 78%.
+- Seven or more purposes: 90%.
+
+Third, leaders are ahead of everyone else. Gallup reports 21% of leaders called the impact "extremely positive," against 13% of individual contributors, and leader AI use rose from 17% in 2023 to 51% in Q2 2026.
+
+Fourth, and most relevant to anyone who manages people: only 36% of employees strongly agreed that their manager actively supports AI use. That number is the gap.
+
+## The Manager Effect
+
+Among employees who strongly agreed their manager actively supports AI use, 78% use AI frequently. Among those who didn't feel that support, the figure was 44%. That is a 34-point difference.
+
+The downstream numbers are bigger still. Employees with strong manager support were 9.3 times as likely to strongly agree that AI has transformed how work gets done, and 7.8 times as likely to strongly agree that AI gives them more opportunities.
+
+Gallup lists four things effective support looks like: actively supporting AI use at the team level, modeling AI use, answering employees' questions, and showing how AI connects to employees' daily work. None of those requires a budget. All of them require a manager who has spent time with the tools.
+
+## Why the Numbers Fit What We've Seen Elsewhere
+
+This isn't an isolated result. We've covered [the manager engagement drop that AI adoption exposed](/resources/manager-ai-engagement-collapse-2026) and [why AI fluency is now a leadership skill](/resources/ai-fluency-leaders-2026). The Gallup data adds a specific piece: the manager's visible behavior is tied to whether the team's usage looks like a pilot or like a habit.
+
+It also connects to a quality problem. If a manager endorses AI use but sets no standard for the output, the result is the pattern described in [Your Team Is Sending Each Other AI Slop](/resources/workslop-ai-standards-leadership-2026). Support and standards need to travel together.
+
+## Which Tasks Show the Gains
+
+Gallup also broke out the share of users reporting productivity gains by application: coding assistance and automation at 77%, presentation creation at 76%, data science and analytics at 75%, writing and editing at 68%, and search and research at 65%.
+
+Those figures describe who reported gains, not how large the gains were. A manager choosing where to start can use them as a rough guide to where employees already feel a benefit, not as a measure of hours saved.
+
+## What a Manager Can Do This Month
+
+Use the tools for your own work first. If you can't describe how AI changed one specific task you do, you can't credibly coach someone else through theirs. Pick one recurring task, such as drafting a status update or summarizing a long thread, and do it with AI for two weeks.
+
+Then show your work in a team meeting. Gallup's list includes modeling use. Five minutes of "here's the prompt I used, here's what I changed, here's where it got it wrong" tells people that using AI is expected and that checking it is part of the job.
+
+Make a place for questions. Gallup's list includes answering employees' questions. A standing channel or a ten-minute slot in a team meeting works. The point is that asking doesn't carry a penalty.
+
+Connect each use to someone's actual week. Generic encouragement doesn't do this. Ask each person which recurring task eats the most time, and look together at whether AI could help with it. If your team wants practical walkthroughs to start from, our sister site [How Do I Use AI](https://howdoiuse.ai) publishes step-by-step tutorials.
+
+## Where This Data Runs Short
+
+The Gallup page we reviewed doesn't state the sample size, margin of error, or how an organization counts as having "implemented AI." Check Gallup's full report before quoting these figures as precise population estimates.
+
+The findings are associations. Gallup uses language like "associated with," and the page doesn't discuss causation. Employees who already like AI may rate their managers as more supportive, or managers of enthusiastic teams may seem more supportive because the team is already engaged. The direction of the effect can't be read from this data.
+
+The breadth-of-use figures have the same issue. Someone who finds AI useful will try it for more tasks, so the rising percentages could partly reflect that. And the gains are self-reported opinions about productivity, not measured output.
+
+Gallup also sells workplace consulting and manager development, which doesn't invalidate the data but is worth knowing when it recommends that managers get involved.
+
+## Bottom Line
+
+Gallup's 2026 data shows a 34-point gap in frequent AI use between employees with an actively supportive manager (78%) and those without (44%), and only 36% of employees say they have that support. The numbers are correlational and the methodology details are thin on the page we could review. They still make a practical point: the manager is part of the rollout, not a bystander to it.
+
+## Sources
+
+- Gallup, "AI and Workplace Productivity: What Leaders Need to Know," published July 27, 2026, updated September 30, 2026 (May 2026 survey data; Q2 2026 leader usage). Source of all percentages and multipliers above.
+`,
+  },
+  {
     slug: "executives-change-leadership-gap-ddi-2026",
     title: "Only 8% of Executives Lead Change Well. The Gap Is Wider at the Top Than the Middle.",
     excerpt: "DDI's simulation data on more than 100,000 leaders found 30% of mid-level leaders are strong at leading change, against 15% of frontline leaders and 8% of executives. The weakest executive skill: rewarding the behavior a change needs (1%).",
