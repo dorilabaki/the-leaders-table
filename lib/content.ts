@@ -54,6 +54,74 @@ export const pillars = [
 // Blog Articles
 export const articles = [
   {
+    slug: "managers-ai-sensitive-tasks-difficult-conversations-survey-2026",
+    title: "Half of AI-Using Managers Have Used It for Sensitive People Tasks. A New Survey Shows Where Employees Draw the Line.",
+    excerpt: "A survey of 1,008 Australians finds 53% of AI-using managers have used it for a sensitive management task, while 84% of the workforce would rather be managed by a person. Here's what the numbers say, where they fall short, and a simple rule for using AI before a hard conversation.",
+    category: "Leadership",
+    readTime: "6 min read",
+    publishedAt: "2026-10-08",
+    content: `
+# Half of AI-Using Managers Have Used It for Sensitive People Tasks. A New Survey Shows Where Employees Draw the Line.
+
+A manager who needs to tell someone their work isn't good enough has a hard job and an easy shortcut. Open a chat window, describe the situation, and get a polished script back in seconds. A new Australian survey suggests a lot of managers are already doing it, and that their teams aren't comfortable with where it's heading.
+
+## What the Survey Found
+
+Dynamic Leadership Programs Australia (DLPA) commissioned the research, and the market research firm Pureprofile ran it. It surveyed 1,008 Australian business leaders and workers, described as nationally representative by age, gender, and location, between August 11 and 14, 2026. The results were released on October 7, 2026.
+
+The headline figure: 53% of Australian managers who use AI have used it for at least one sensitive management task. Among AI-using managers, the reported uses were:
+
+- Performance reviews: 22%
+- Responding to complaints: 19%
+- Difficult conversations: 19%
+- Delivering difficult feedback: 18%
+- Managing conflict: 15%
+- Avoiding difficult conversations: 12%
+
+The employee side is less enthusiastic. According to the release, 84% of the Australian workforce would rather be managed by a person than by AI, and 35% of people with a manager would be uncomfortable learning that AI wrote their performance review. The release also reports that 75% of the workforce has had no formal workplace AI training.
+
+## The Line Between Support and Substitution
+
+The most useful idea in the release comes from DLPA's CEO, Karlie Cremin, who argues that organizations must "clearly distinguish between AI supporting leadership and AI substituting for leadership." In her words, "Difficult conversations are not an inconvenience of leadership, they define leadership."
+
+That distinction is practical, not philosophical. Using AI to organize your notes before a review, or to pressure-test whether your feedback is specific, is support. Having it write the feedback and then reading it out is substitution. The first makes you better prepared. The second means the other person is receiving words you didn't think through.
+
+Notice also that 12% of AI-using managers said they used it for avoiding difficult conversations. The release doesn't explain what that means, and we won't guess. But it's worth asking yourself honestly whether a tool that makes a hard conversation easier to draft also makes it easier to postpone.
+
+## How This Fits What We've Seen Elsewhere
+
+The comfort gap isn't a surprise. Our look at [Gallup's data on manager support for AI use](/resources/manager-support-ai-use-gallup-2026) found that only 36% of employees strongly agree their manager actively supports AI use, which means the conversation about how managers should use these tools is still early in most teams. And the quality risk shows up in [Your Team Is Sending Each Other AI Slop](/resources/workslop-ai-standards-leadership-2026): output that looks finished but hasn't been thought through costs the person on the receiving end.
+
+If you want the skills side, [Running Better One-on-Ones](/resources/running-better-one-on-ones-2026) and [Feedback That Changes Behavior](/resources/feedback-that-changes-behavior) cover the conversations themselves, which no tool can hold for you.
+
+## A Simple Rule for Using AI Before a Hard Conversation
+
+Use it before the conversation, not in place of it. Here's a workable split:
+
+- Fine to use AI for: organizing your own notes into a timeline, checking whether your feedback names specific behaviors, anticipating objections, and drafting questions you might ask.
+- Do yourself: deciding what the message actually is, choosing the words you'll say, and delivering it in person or on a live call.
+- Never paste in: personal details about the employee, health information, or anything your company's policy says shouldn't go into an external tool. Check your organization's rules first.
+
+For performance reviews specifically, write the substance yourself. If a tool helps you tighten the wording, tell the employee that, and be ready to explain every sentence as your own judgment. A review you can't defend line by line isn't yours.
+
+If you want practical walkthroughs on writing prompts that keep you in control of the output, our sister site [How Do I Use AI](https://howdoiuse.ai) publishes step-by-step tutorials.
+
+## What the Data Can't Tell You
+
+This is a vendor-commissioned survey, released as a press release by a leadership training company that sells the kind of programs it recommends. That doesn't make the numbers wrong, but treat it as one data point, not settled research.
+
+The release doesn't publish a margin of error or the exact question wording. The bases for the 84%, 35%, and 75% figures aren't stated, so we can't tell how many respondents they rest on. The full report is linked as a PDF that we couldn't open, so we haven't checked these figures against it. The data covers Australia only, and it measures what people say they do and feel, not outcomes. Nothing here shows that AI-assisted reviews lead to worse results.
+
+## Bottom Line
+
+According to a DLPA-commissioned survey of 1,008 Australians, 53% of managers who use AI have already used it for a sensitive people task, while 84% of the workforce would rather be managed by a person. The numbers come with real limits, but the working rule holds up on its own: let AI help you prepare, and keep the judgment and the delivery yours.
+
+## Sources
+
+- Dynamic Leadership Programs Australia / Pure Public Relations, "The death of the difficult conversation: managers increasingly turning to AI for sensitive leadership tasks, new data shows," Medianet News Hub, October 7, 2026. Survey by Pureprofile, 1,008 respondents, fieldwork August 11-14, 2026. Source of every percentage and quote above. Vendor press release; full PDF report not reviewed.
+`,
+  },
+  {
     slug: "manager-support-ai-use-gallup-2026",
     title: "Only 36% of Employees Say Their Manager Actively Supports AI Use. Gallup Data Shows What That Gap Costs.",
     excerpt: "Gallup's 2026 data finds 78% of employees with an actively supportive manager use AI frequently, against 44% of those without one. Employees with strong manager support were 9.3 times as likely to say AI has transformed how work gets done. Here's what the numbers show and where they stop.",
