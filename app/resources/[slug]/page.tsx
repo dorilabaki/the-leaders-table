@@ -114,6 +114,27 @@ export default async function ArticlePage({ params }: Props) {
         </div>
       </AnimatedSection>
 
+      {/* Free playbook CTA */}
+      <section className="py-10 bg-white">
+        <div className="container-narrow">
+          <div className="rounded-2xl bg-navy-900 p-6 md:p-8 flex flex-col md:flex-row md:items-center md:justify-between gap-6">
+            <div className="min-w-0">
+              <p className="text-xs font-semibold uppercase tracking-wide text-accent-500 mb-1">Free playbook</p>
+              <h2 className="font-heading text-xl font-bold text-white mb-1">The Leadership Playbook</h2>
+              <p className="text-navy-200 text-sm">
+                10 frameworks for new and mid-level leaders, including Situational Leadership, the RACI matrix and OKRs.
+              </p>
+            </div>
+            <Link
+              href="/playbook/"
+              className="inline-flex items-center justify-center flex-shrink-0 whitespace-nowrap px-6 py-3 bg-accent-500 text-white font-semibold rounded-lg hover:bg-accent-400 transition-colors"
+            >
+              Get the free playbook
+            </Link>
+          </div>
+        </div>
+      </section>
+
       {/* Share & Follow */}
       <AnimatedSection className="py-12 bg-navy-50 border-y border-navy-200">
         <div className="container-narrow">
