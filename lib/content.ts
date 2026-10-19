@@ -54,6 +54,76 @@ export const pillars = [
 // Blog Articles
 export const articles = [
   {
+    slug: "how-do-you-find-a-good-manager-nber-experiment-2026",
+    title: "Good Managers Have Twice the Impact of Good Workers. The Ones Who Promote Themselves Do Worse.",
+    excerpt: "An NBER experiment with 555 participants randomly assigned managers to teams four times. A typical manager effect was 0.23 standard deviations, about twice a good worker's, and self-promoted managers scored lower than managers picked by lottery. What the lab result does and doesn't tell you about promotions.",
+    category: "Leadership",
+    readTime: "7 min read",
+    publishedAt: "2026-10-19",
+    content: `
+# Good Managers Have Twice the Impact of Good Workers. The Ones Who Promote Themselves Do Worse.
+
+Most companies pick managers by asking who wants the job, who's confident, and who's been doing well as an individual. A team of economists decided to test how well that works, in a setting where they could actually measure what a manager adds. The answer should make anyone who hires or promotes managers a little uncomfortable.
+
+The paper is "How Do You Find a Good Manager?" by Ben Weidmann, Joseph Vecci, Farah Said, David Deming, and Sonia Bhalotra (NBER Working Paper 32699, July 2024). It's a working paper, not a peer-reviewed article. This is a lab experiment, not a study of a real company, and I'll be clear about that limit below.
+
+## How They Measured a Manager
+
+The hard part of studying managers is separating them from their teams. A manager who looks great may simply have been handed great people. The researchers solved it by randomising.
+
+The experiment ran at the Essex Economics Lab in the UK, with 555 participants. People were assigned to groups of three: one manager and two workers. Each manager led four different groups across four rounds, so the researchers could compare the same manager across different teammates. In the main analysis there were 186 managers and 369 workers, in 728 groups.
+
+Workers did short production tasks, and the manager decided how to allocate them and monitored the output. Because workers and managers were reshuffled, the team's results could be traced to the manager in a way real-world data rarely allows.
+
+The sample skewed young and student-like: mean age 25.0, 46% female.
+
+## What They Found
+
+**Managers matter, roughly twice as much as individual workers.** The typical manager effect was 0.23 standard deviations of team performance (p = 0.04). A one standard deviation increase in a worker's own production skill raised team performance by 0.26 standard deviations. The authors summarise this as good managers having roughly twice the impact of good workers.
+
+**Self-promoted managers did worse.** Half the sessions let people volunteer to be managers (20 of 39 sessions). The other half picked managers by lottery (19 sessions). Self-promoted managers performed about 0.1 standard deviations lower, a difference that reached only p = 0.09, so treat it as suggestive, not settled. The authors link part of this to overconfidence, especially about social skills.
+
+**Two traits predicted who'd be good.** Fluid intelligence and economic decision-making skill both correlated with manager performance, at 0.24 each in the lottery group. Gender, age, and ethnicity did not predict it.
+
+**Picking on skill beat picking on ambition.** Selecting managers by economic decision-making skill came out about 0.6 standard deviations better than letting people promote themselves (the paper's introduction says 0.7; the body text says 0.6).
+
+**Better managers made fewer mistakes.** Managers made errors in monitoring in 16% of groups. A manager one standard deviation above average cut that to 8%. Groups that began with the best allocation of tasks scored 0.52 standard deviations higher.
+
+Among the self-promoted, extraversion and political skill were negatively correlated with performance (-0.24 and -0.26). In other words, among people who volunteered, the more socially polished ones were not the better managers.
+
+## What This Doesn't Show
+
+This is the part to read before you quote any number.
+
+**It's a lab, not a company.** The tasks lasted about eight minutes, the teams had three people, and the managers earned a bonus of £4 to £12. Real management involves months of relationships, politics, and context. The authors argue the findings generalise, but they don't demonstrate it.
+
+**The sample is mostly students.** The mean age is 25. We can't assume the same patterns hold for experienced managers.
+
+**Individual manager estimates are noisy.** Each manager led only four groups, and some of the paper's checks sit right at p = 0.05.
+
+**Some of the evidence is exploratory.** The trait correlations were not corrected for multiple comparisons, and the overconfidence measures come from self-reports, so they are indirect.
+
+**"Skill" here means specific tests.** Fluid intelligence and an economic decision-making game predicted performance in this setting. That is not a recommendation to give your candidates an IQ test.
+
+## What Leaders Can Take From It
+
+The result that holds up best is the simplest one: who you put in charge changes team output, and wanting the job is not a good proxy for being good at it.
+
+- **Don't treat volunteering as evidence.** Confident people put themselves forward. In this experiment, that confidence was partly overconfidence.
+- **Look at how a person decides, not just how they present.** The traits that predicted performance were about reasoning and decision quality, not charisma.
+- **Check the pipeline you already have.** Our earlier piece on [promoting your best performer](/resources/peter-principle-promotion-best-performer-2026) looks at a related problem in real sales data: strong individual output didn't predict how much someone improved their future team.
+- **Give new managers coaching early.** Gallup data on [managers as coaches](/resources/manager-as-coach-2026-gallup-data) and our [first-time manager handbook](/guides/first-time-manager-handbook) cover what support looks like in practice.
+
+## Bottom Line
+
+In a randomised lab experiment with 555 people, managers contributed about twice as much to team performance as a good worker did, and managers who chose the role for themselves performed somewhat worse than those chosen by lottery. It's one lab study with a young sample, so use it to question your promotion habits, not to replace them.
+
+## Sources
+
+- Weidmann, B., Vecci, J., Said, F., Deming, D. J., and Bhalotra, S. R., "How Do You Find a Good Manager?" NBER Working Paper 32699, July 2024. https://www.nber.org/papers/w32699
+`,
+  },
+  {
     slug: "managers-ai-sensitive-tasks-difficult-conversations-survey-2026",
     title: "Half of AI-Using Managers Have Used It for Sensitive People Tasks. A New Survey Shows Where Employees Draw the Line.",
     excerpt: "A survey of 1,008 Australians finds 53% of AI-using managers have used it for a sensitive management task, while 84% of the workforce would rather be managed by a person. Here's what the numbers say, where they fall short, and a simple rule for using AI before a hard conversation.",
