@@ -54,6 +54,71 @@ export const pillars = [
 // Blog Articles
 export const articles = [
   {
+    slug: "trust-in-leadership-20-percent-gallup-2026",
+    title: "Only 20% of Employees Strongly Trust Their Leaders. What That Costs, and What Moves It",
+    excerpt: "Gallup's May 2026 U.S. data shows 20% of employees strongly agree they trust their organization's leadership, and those who do are 3.7 times as likely to be engaged. Here's what the numbers say and where a leader can act.",
+    category: "Leadership",
+    readTime: "6 min read",
+    publishedAt: "2026-10-22",
+    content: `
+# Only 20% of Employees Strongly Trust Their Leaders. What That Costs, and What Moves It
+
+Ask most leaders whether their people trust them and you'll hear a confident yes. Gallup's tracking suggests the confidence runs ahead of the data.
+
+In Gallup's leadership and management indicator, 20% of U.S. employees strongly agreed in May 2026 that they trust the leadership of their organization. That's one in five. Gallup also reports that employees who do strongly agree are 3.7 times as likely to be engaged as those who don't.
+
+## What the Gallup Indicator Actually Measures
+
+Gallup runs this as a recurring survey. According to its methodology note, U.S. results come from self-administered web surveys of a random sample of adults aged 18 and older who work full or part time, drawn from the Gallup Panel and weighted to national demographics. The page doesn't publish sample sizes for each item, so treat single readings as directional. The trend across waves tells you more than any one number.
+
+The key measure here is "strongly agree." That's a high bar on purpose. It separates people who mostly go along from people who actively believe in the people running the place.
+
+## The Related Numbers Tell the Same Story
+
+Trust doesn't move alone. Gallup's indicator page tracks several linked items, and they're low across the board:
+
+- **Clear priorities:** 20% strongly agreed in August 2025 that senior leaders set clear priorities.
+- **Communication:** 16% said leadership communicates effectively (August 2025). Gallup reports that employees who strongly agree are 61% less likely to feel burned out.
+- **Enthusiasm about the future:** 16% said leadership makes them enthusiastic about the future (August 2025). Of the employees who strongly agree, 69% are engaged. Of those who disagree, 1% are.
+
+That last gap is the one to sit with. Engagement isn't a little higher where leaders inspire. It's close to a different workforce.
+
+## The Manager Layer Is Under Strain Too
+
+Leaders rely on managers to carry trust down the organization, and Gallup's data suggests that layer is stretched. In May 2026, 56% of managers said they were watching for or actively seeking a new job, and 30% were engaged. Gallup also reports that managers account for 70% of the variance in team engagement.
+
+One caution on the figures: Gallup's page text and charts don't always agree. The text cites 56% for May 2026 while the chart shows 55%. A small gap like that doesn't change the picture, but it's a reminder to quote a figure with its date and not as a fixed truth.
+
+If you want the longer view on why this layer matters, we covered it in [Good Managers Have Twice the Impact of Good Workers](/articles/how-do-you-find-a-good-manager-nber-experiment-2026).
+
+## What Gallup's Data Does and Doesn't Prove
+
+This is survey data. It shows association, not cause. High-trust workplaces are more engaged, but Gallup's numbers alone can't tell you that trust produced the engagement, or the reverse, or that a third factor drove both. Anyone who tells you "raise trust and engagement rises 3.7 times" is overstating it.
+
+What the data does support is narrower and still useful. Trust, clarity, communication and enthusiasm sit together, and all of them are weak in the average U.S. workplace. That points to where a leader can look first.
+
+## Three Moves That Follow From the Data
+
+These are our suggestions, drawn from the pattern in the items above. They aren't Gallup findings.
+
+**1. Fix clarity before inspiration.** Only about one in five employees strongly agree leaders set clear priorities. Before you work on a vision speech, tell your team the two or three things that matter this quarter, and what they can stop doing.
+
+**2. Communicate on a schedule people can count on.** With 16% saying leadership communicates effectively, the gap is rarely volume. It's predictability. A short weekly note that says what changed, what didn't, and what you don't know yet does more than an occasional big announcement.
+
+**3. Protect your managers' capacity.** If more than half of managers are looking at the exits, trust is leaking at the layer that delivers it. Ask your managers what they'd drop if they could. Then drop it.
+
+## A Quick Self-Check
+
+Ask five people on your team to answer one question, anonymously if you can: "What are our top priorities right now?" If you get five different answers, you've found your first trust problem, and it's cheaper to fix than it looks.
+
+When trust erodes, strong people start looking elsewhere. Our sister site How To Find A Job explains how [the hidden job market and networking](https://howtofindajob.org/resources/hidden-job-market-networking-2026) work from the candidate's side, which is useful context for any leader asking why good people leave quietly.
+
+## Sources
+
+- Gallup, "Leadership and Management" indicator page (trust in leadership, May 2026; clear priorities, communication and enthusiasm, August 2025; manager job-seeking and engagement, May 2026). https://www.gallup.com/404252/indicator-leadership-management.aspx
+`,
+  },
+  {
     slug: "how-do-you-find-a-good-manager-nber-experiment-2026",
     title: "Good Managers Have Twice the Impact of Good Workers. The Ones Who Promote Themselves Do Worse.",
     excerpt: "An NBER experiment with 555 participants randomly assigned managers to teams four times. A typical manager effect was 0.23 standard deviations, about twice a good worker's, and self-promoted managers scored lower than managers picked by lottery. What the lab result does and doesn't tell you about promotions.",
