@@ -3181,6 +3181,8 @@ That requires enough understanding to ask good questions, enough wisdom to know 
 
 That's AI fluency. And it's not optional in 2026.
 
+If you want hands-on practice with the tools your team is already using, our sister site How Do I Use AI walks through [how to use AI agents for everyday tasks](https://howdoiuse.ai/resources/how-to-use-ai-agents).
+
 ## Learn More
 
 For deeper understanding, explore these resources:
