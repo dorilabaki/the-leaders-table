@@ -6,7 +6,7 @@ import PlaybookForm from '@/components/PlaybookForm';
 
 export const metadata: Metadata = {
   title: 'Free Leadership Playbook: 10 Frameworks Every New Leader Needs | The Leader\'s Table',
-  description: 'Get the free Leadership Playbook featuring 10 proven frameworks — Situational Leadership, RACI Matrix, OKRs, and more — that new and mid-level leaders can apply immediately.',
+  description: 'Get the free Leadership Playbook featuring 10 proven frameworks, Situational Leadership, RACI Matrix, OKRs, and more, that new and mid-level leaders can apply immediately.',
   openGraph: {
     title: 'The Leadership Playbook: 10 Frameworks Every New Leader Needs',
     description: 'Trusted by 161K+ leaders. Get practical frameworks you can apply from day one.',
@@ -32,7 +32,7 @@ const previewFrameworks = [
     name: 'Situational Leadership Model',
     origin: 'Hersey & Blanchard, 1969',
     description:
-      'Match your leadership style to each team member\'s development level. Four styles — Directing, Coaching, Supporting, and Delegating — applied based on competence and commitment.',
+      'Match your leadership style to each team member\'s development level. Four styles, Directing, Coaching, Supporting, and Delegating, applied based on competence and commitment.',
     tag: 'People Development',
   },
   {
@@ -53,7 +53,7 @@ const previewFrameworks = [
   },
   {
     number: '04',
-    name: 'OKRs — Objectives & Key Results',
+    name: 'OKRs, Objectives & Key Results',
     origin: 'Andy Grove / Intel, popularized by John Doerr',
     description:
       'Set ambitious Objectives paired with 2–5 measurable Key Results. Used by Google, LinkedIn, and thousands of high-growth teams to align effort with impact.',
@@ -74,7 +74,7 @@ const allFrameworks = [
   'Servant Leadership (Robert Greenleaf)',
   'RACI Matrix',
   "Tuckman's Stages of Team Development",
-  'OKRs — Objectives & Key Results',
+  'OKRs, Objectives & Key Results',
   'The Eisenhower Matrix',
   '70-20-10 Learning Model',
   "McKinsey's 7-S Framework",
@@ -91,7 +91,7 @@ export default function PlaybookPage() {
           <div className="max-w-3xl mx-auto text-center">
             <AnimatedDiv>
               <span className="inline-block px-4 py-1.5 bg-accent-500/20 text-accent-300 text-sm font-medium rounded-full mb-6 border border-accent-500/30">
-                Free Resource — No Credit Card Required
+                Free Resource, No Credit Card Required
               </span>
               <h1 className="font-heading text-4xl md:text-5xl lg:text-6xl font-bold mb-6 leading-tight">
                 <span className="text-white">The Leadership Playbook:</span>
@@ -101,8 +101,8 @@ export default function PlaybookPage() {
                 <span className="text-white">New Leader Needs</span>
               </h1>
               <p className="text-xl text-navy-200 mb-10 leading-relaxed max-w-2xl mx-auto">
-                Stop guessing how to lead. These 10 proven frameworks — used by
-                executives at Google, Intel, and beyond — give you a clear playbook
+                Stop guessing how to lead. These 10 proven frameworks, used by
+                executives at Google, Intel, and beyond, give you a clear playbook
                 for your first year and every year after.
               </p>
               <PlaybookForm />
@@ -141,7 +141,7 @@ export default function PlaybookPage() {
               What&apos;s Inside the Playbook
             </h2>
             <p className="text-navy-600 text-lg max-w-2xl mx-auto">
-              Not theory — tools. Each framework comes with a plain-English
+              Not theory, tools. Each framework comes with a plain-English
               explanation and a real-world application you can use this week.
             </p>
           </div>
@@ -230,7 +230,7 @@ export default function PlaybookPage() {
                   I wish I had this playbook when I first became a manager.&rdquo;
                 </blockquote>
                 <p className="text-navy-400 text-sm">
-                  — Member of The Leader&apos;s Table community
+                 , Member of The Leader&apos;s Table community
                 </p>
                 <div className="mt-8 pt-6 border-t border-navy-700">
                   <p className="text-navy-300 text-sm">

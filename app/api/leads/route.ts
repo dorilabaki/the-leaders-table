@@ -49,7 +49,7 @@ export async function POST(request: NextRequest) {
 
     if (exists) {
       return NextResponse.json(
-        { message: "You're already on the list — check your inbox!" },
+        { message: "You're already on the list, check your inbox!" },
         { status: 200 }
       );
     }

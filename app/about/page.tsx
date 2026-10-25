@@ -200,7 +200,7 @@ export default function AboutPage() {
             </StaggerItem>
             <StaggerItem>
               <div className="p-6 bg-navy-50 rounded-xl border border-navy-100 h-full">
-                <p className="text-navy-600 text-sm mb-4 italic">&quot;The people who truly want you to win don&apos;t just cheer—they quietly clear the path beside you.&quot;</p>
+                <p className="text-navy-600 text-sm mb-4 italic">&quot;The people who truly want you to win don&apos;t just cheer, they quietly clear the path beside you.&quot;</p>
                 <div className="flex items-center gap-3">
                   <div className="w-10 h-10 bg-navy-200 rounded-full flex items-center justify-center text-navy-700 font-bold text-sm">KA</div>
                   <div>

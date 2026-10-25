@@ -97,7 +97,7 @@ So why did you leave without an answer?
 
 Because a great presentation isn't about slides. It's about moving people to a decision.
 
-Next time, end with clarity — not applause.`,
+Next time, end with clarity, not applause.`,
     likes: 219,
     comments: 7,
     date: "2026-03-24",

@@ -35,7 +35,7 @@ export default function ResourcesPage() {
             </h1>
             <p className="text-xl text-navy-200 leading-relaxed">
               Practical tips and strategies from our collection of leadership content.
-              Each article is designed to help you lead better, starting today.
+              Each article gives you something to apply to your leadership starting today.
             </p>
           </AnimatedDiv>
         </div>

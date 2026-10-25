@@ -4,7 +4,7 @@ import { siteConfig } from '@/lib/content';
 import AnimatedSection, { AnimatedDiv, StaggerContainer, StaggerItem } from '@/components/AnimatedSection';
 
 export const metadata: Metadata = {
-  title: "You're In — The Leadership Playbook | The Leader's Table",
+  title: "You're In, The Leadership Playbook | The Leader's Table",
   description: 'Thank you for downloading The Leadership Playbook. Here\'s a preview of three essential leadership frameworks from the guide.',
   robots: { index: false, follow: false },
 };
@@ -15,27 +15,27 @@ const frameworks = [
     origin: 'Paul Hersey & Ken Blanchard, 1969',
     tag: 'People Development',
     summary:
-      'There is no single best leadership style — the right style depends on the development level of the person you\'re leading. Hersey and Blanchard identified four leadership styles mapped to four follower development levels.',
+      'There is no single best leadership style, the right style depends on the development level of the person you\'re leading. Hersey and Blanchard identified four leadership styles mapped to four follower development levels.',
     quadrants: [
       {
-        style: 'S1 — Directing',
+        style: 'S1, Directing',
         follower: 'D1 (Low competence, high commitment)',
         action: 'Give clear instructions and close supervision. The follower is new and motivated but needs guidance.',
       },
       {
-        style: 'S2 — Coaching',
+        style: 'S2, Coaching',
         follower: 'D2 (Some competence, low commitment)',
-        action: 'Explain decisions, solicit suggestions, and continue to direct. Motivation has dipped — coach through it.',
+        action: 'Explain decisions, solicit suggestions, and continue to direct. Motivation has dipped, coach through it.',
       },
       {
-        style: 'S3 — Supporting',
+        style: 'S3, Supporting',
         follower: 'D3 (High competence, variable commitment)',
         action: 'Share decision-making, encourage, and listen. The follower has the skill but may lack confidence.',
       },
       {
-        style: 'S4 — Delegating',
+        style: 'S4, Delegating',
         follower: 'D4 (High competence, high commitment)',
-        action: 'Turn over responsibility. The follower is capable and motivated — trust them.',
+        action: 'Turn over responsibility. The follower is capable and motivated, trust them.',
       },
     ],
     applyIt:
@@ -49,24 +49,24 @@ const frameworks = [
       'The RACI Matrix eliminates the most common source of team friction: ambiguity about who owns what. Every task or decision gets exactly four types of stakeholders.',
     quadrants: [
       {
-        style: 'R — Responsible',
+        style: 'R, Responsible',
         follower: 'Who does the work?',
         action: 'The person (or people) who execute the task. There can be multiple Rs, but at least one.',
       },
       {
-        style: 'A — Accountable',
+        style: 'A, Accountable',
         follower: 'Who owns the outcome?',
         action: 'The single person who is ultimately answerable. There must be exactly one A per task.',
       },
       {
-        style: 'C — Consulted',
+        style: 'C, Consulted',
         follower: 'Who provides input?',
         action: 'Subject matter experts whose feedback is sought before decisions. Two-way communication.',
       },
       {
-        style: 'I — Informed',
+        style: 'I, Informed',
         follower: 'Who needs to know?',
-        action: 'Stakeholders updated on progress and outcomes. One-way communication — they don\'t need to act.',
+        action: 'Stakeholders updated on progress and outcomes. One-way communication, they don\'t need to act.',
       },
     ],
     applyIt:
@@ -92,7 +92,7 @@ const frameworks = [
       {
         style: 'Remove Obstacles',
         follower: 'Leader as enabler',
-        action: 'Your primary job is to clear the path. Bureaucracy, unclear direction, resource gaps — that\'s your problem to solve.',
+        action: 'Your primary job is to clear the path. Bureaucracy, unclear direction, resource gaps, that\'s your problem to solve.',
       },
       {
         style: 'Share Power',
@@ -123,7 +123,7 @@ export default function ThankYouPage() {
             </h1>
             <p className="text-navy-200 text-lg max-w-xl mx-auto">
               Check your inbox for The Leadership Playbook. While you wait, here&apos;s
-              a preview of three frameworks from the guide — start applying them today.
+              a preview of three frameworks from the guide, start applying them today.
             </p>
           </AnimatedDiv>
         </div>

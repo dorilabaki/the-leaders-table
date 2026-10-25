@@ -22,7 +22,7 @@ export default function LeadMagnetBanner() {
             </h2>
             <p className="text-accent-100 leading-relaxed">
               Situational Leadership, RACI Matrix, OKRs, and 7 more proven
-              frameworks — free for every member of The Leader&apos;s Table community.
+              frameworks, free for every member of The Leader&apos;s Table community.
             </p>
           </div>
           <div className="shrink-0">
