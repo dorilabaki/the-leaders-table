@@ -54,6 +54,81 @@ export const pillars = [
 // Blog Articles
 export const articles = [
   {
+    slug: "workers-rate-managers-monthly-turnover-experiment-nber-2026",
+    title: "What Happened When Factory Workers Rated Their Managers Every Month",
+    excerpt: "A randomized trial at a Chinese car plant gave 76 teams either normal evaluations or monthly worker ratings of their managers. Worker turnover fell 6.2 percentage points and team KPI scores rose 2.3 points, mostly through lower turnover. What a single-firm experiment does and doesn't prove about upward feedback.",
+    category: "Leadership",
+    readTime: "7 min read",
+    publishedAt: "2026-10-26",
+    content: `
+# What Happened When Factory Workers Rated Their Managers Every Month
+
+Most managers are judged from above: output, targets, budgets. The people who see their daily behaviour rarely get a formal vote. A randomized field experiment at a Chinese car manufacturer changed that for half of its production teams, and the results are some of the cleaner evidence we have on whether upward feedback actually changes anything.
+
+The paper is "Improving Management through Worker Evaluations: Evidence from Auto Manufacturing" by Jing Cai and Shing-Yi Wang (NBER Working Paper 27680, August 2020). It's a working paper, not a peer-reviewed article, and it covers one firm in one country. I'll come back to those limits.
+
+## What They Ran
+
+The study took place at one plant of a large automobile manufacturer, across three of its four factories (the welding factory sat out). It covered 76 production teams and about 1,250 workers, with roughly 70 to 73 managers in the regressions. Half the teams were randomly assigned to treatment, with the draw stratified by team size and the team's 2015 average performance score.
+
+In treated teams, workers rated their team manager every month on a 1 to 5 scale across five areas: organization, adaptability, fairness, openness to suggestions, and empathy. The ratings were anonymous and the results were posted publicly. They ran for eight months, from September 2016 to April 2017.
+
+The ratings had teeth. They made up 20% of the manager's monthly performance score, with hard metrics dropping from 100% to 80% of the weight. That linkage to pay applied for the first six months. For the last two months the ratings continued but no longer affected pay. Control teams were evaluated as before.
+
+## What They Found
+
+**Fewer workers quit.** Turnover in treated teams was 6.2 percentage points lower than in control teams (standard error 0.0178, p < 0.01). The control group's baseline turnover was 10.7%.
+
+**Team scores rose.** The team-level KPI total rose by 2.26 points (p < 0.05). Production scores rose 3.71 points (p < 0.01) and management scores 1.90 points (p < 0.05). Other KPI categories didn't move significantly.
+
+**Individual productivity did not change.** The effect on individual workers' productivity was small and statistically indistinguishable from zero. The authors attribute the team-level gain to lower turnover, since new workers start out less productive than experienced ones.
+
+**Workers reported better lives.** Life rating rose by 0.32 points (p < 0.01) and positive mood by 0.63 (p < 0.10, so only suggestive). Work satisfaction, negative mood, and health did not change significantly.
+
+**Managers behaved differently, according to workers.** Workers in treated teams reported managers who encouraged them more (+0.13, p < 0.05), criticized them less (-0.16, p < 0.05), and lacked empathy less often (-0.16, p < 0.05). Unfairness and socializing outside work showed no significant change.
+
+**Managers weren't hurt.** Treated managers' bonuses rose about 22.8% (p < 0.05), while total earnings and manager turnover showed no significant change. The authors found no significant well-being changes for managers.
+
+## Why It Probably Worked
+
+The authors point to changed manager behaviour as the main channel, and they find the evidence for it "suggestive," not conclusive. Two details support that reading. Managers' awareness of the feedback predicted the team's KPI gain, while workers' awareness did not, which cuts against the idea that simply giving workers a voice drove the result. And 69 new workers who joined after the program ended still reported more encouragement and empathy from managers in treated teams.
+
+## What This Doesn't Show
+
+**It's one firm in one country.** A manufacturing plant with 20% annual turnover isn't an office, a hospital, or a software team.
+
+**The productivity gain came through turnover.** If your retention is already healthy, you shouldn't expect a 2-point team gain.
+
+**Turnover is probably underestimated.** Workers who joined and left between survey waves weren't counted, according to the authors.
+
+**The ratings were tied to pay for six months.** The study can't tell you what anonymous ratings with no consequence would do. The authors stopped the pay link for the final two months, but that's a thin test.
+
+**Mechanism evidence is self-reported.** Much of the behaviour change comes from worker surveys, and the authors flag baseline imbalance on some measures, including life rating (p = 0.036).
+
+**It's a working paper.** Expect revisions after review.
+
+## What Leaders Can Take From It
+
+The cleanest conclusion is narrow: in this setting, formal, visible, repeated worker feedback made managers treat people better, and people stayed. That's worth a modest experiment in your own team, not a company-wide mandate.
+
+- **Ask for ratings often and on specific behaviours.** The five areas here (organization, fairness, openness to suggestions, adaptability, empathy) are concrete enough to act on. A once-a-year vague survey is not the same thing.
+- **Make the results visible.** Posting scores publicly was part of the design. Feedback that disappears into HR rarely changes behaviour.
+- **Decide what it will count for before you start.** Weighting the ratings at 20% was a deliberate choice. If people think feedback is ceremonial, they won't take it seriously.
+- **Pair it with coaching.** Our pieces on [feedback that changes behaviour](/resources/feedback-that-changes-behavior), [managers as coaches](/resources/manager-as-coach-2026-gallup-data), and [one-on-ones that matter](/resources/one-on-ones-that-actually-matter) cover what to do once a low score arrives.
+- **Protect the safety to be honest.** Anonymous ratings only work if people trust the anonymity. Our piece on [psychological safety leader behaviours](/resources/psychological-safety-leader-behaviours-2026) covers the habits that build that trust.
+
+For anyone on the other side of this, deciding whether to join a team led by a particular manager, our sister site How To Find A Job covers the questions worth asking in an interview at [howtofindajob.org](https://howtofindajob.org/resources/interview-prep-checklist-24-hours).
+
+## Bottom Line
+
+In a randomized trial of 76 teams at a Chinese car plant, monthly worker ratings of managers cut worker turnover by 6.2 percentage points and lifted team KPI scores by about 2.3 points, with the gain coming mostly through people staying. It's a single-firm working paper, so treat it as a reason to test upward feedback on a small scale, not as proof it works everywhere.
+
+## Sources
+
+- Cai, J., and Wang, S.-Y., "Improving Management through Worker Evaluations: Evidence from Auto Manufacturing," NBER Working Paper 27680, August 2020. https://www.nber.org/papers/w27680
+`,
+  },
+  {
     slug: "trust-in-leadership-20-percent-gallup-2026",
     title: "Only 20% of Employees Strongly Trust Their Leaders. What That Costs, and What Moves It",
     excerpt: "Gallup's May 2026 U.S. data shows 20% of employees strongly agree they trust their organization's leadership, and those who do are 3.7 times as likely to be engaged. Here's what the numbers say and where a leader can act.",
