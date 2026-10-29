@@ -54,6 +54,96 @@ export const pillars = [
 // Blog Articles
 export const articles = [
   {
+    slug: "gallup-manager-selection-wrong-pick-estimate-2026",
+    title: "Gallup Estimates Companies Pick the Wrong Manager 82% of the Time. Here's What to Do About It.",
+    excerpt: "Gallup says managers drive 70% of the variance in team engagement, yet most are chosen for past performance or tenure. What the research shows about picking managers, where the numbers need caution, and a practical way to choose better.",
+    category: "Leadership",
+    readTime: "9 min read",
+    publishedAt: "2026-10-29",
+    content: `
+# Gallup Estimates Companies Pick the Wrong Manager 82% of the Time. Here's What to Do About It.
+
+Most managers get the job the same way. They were good at the previous job, or they stuck around long enough that the next rung was theirs. Nobody checked whether they had the talent to lead other people, because nobody thought that was a separate thing.
+
+Gallup thinks it's a separate thing, and it has put a number on the cost. In a research summary on how managers affect team productivity (published July 27, 2026 and updated September 30, 2026), Gallup estimates that organizations choose the wrong person for a manager role 82% of the time. This article walks through what sits behind that number, which parts are solid, which parts need caution, and what you can change in how you select and prepare managers.
+
+## What Gallup Says, in Plain Terms
+
+The page pulls together several strands of Gallup's earlier research. These are the claims that matter for anyone deciding who gets promoted:
+
+- Managers account for 70% of the variance in team engagement scores. That's a Gallup finding it has repeated for years.
+- Global manager engagement stood at 22% in 2025. It has fallen 9 percentage points since 2022, the steepest drop of any worker category Gallup tracks. The biggest single-year fall was 5 points between 2024 and 2025.
+- Managers are now about as engaged as the people they lead. Gallup calls the old gap the vanished "engagement premium."
+- Only 44% of managers worldwide have ever received management training (Gallup's 2025 State of the Global Workplace).
+- In a 2025 study of U.S. frontline supervisors, 65% got the role because of performance or years of experience. Only 30% got it because of supervisory skills.
+
+That last pair is the one to sit with. When Gallup compared the two groups, supervisors chosen for their skills were more engaged: 42% versus 31%.
+
+## Where the 82% Comes From, and How Far to Trust It
+
+Here's the part most summaries skip. The 82% is an estimate from Gallup's utility analysis, which starts from an assumed 50% baseline chance that any given manager pick works out. Gallup then models what happens if you select from the top slice of candidates ranked on its manager talent profile:
+
+| Selection approach | Expected success rate |
+|---|---|
+| Baseline (assumed) | 50% |
+| Pick from the top 30% of candidates | 67% |
+| Pick from the top 10% of candidates | 76% |
+
+Gallup also links top-10% selection to 32% higher revenue or sales per manager and 48% higher profit per manager. Those come from Gallup's 2020 meta-analysis of managerial hiring and development profiles, which covered 136 studies and 14,597 managers.
+
+Three cautions before you quote any of this in a board paper.
+
+**It's a model, not a headcount.** Nobody counted 82% of promoted managers failing. The figure comes from an assumption-driven calculation, and the summary page doesn't spell out how "wrong pick" is defined.
+
+**Gallup sells the fix.** The company offers talent assessments for manager selection, so it has a commercial interest in the finding. That doesn't make the research wrong. It does mean you should read the underlying studies before treating the headline as settled.
+
+**The page is a summary.** It doesn't give full methods or sample sizes for several of its figures, including the 2025 supervisor study. Treat precise numbers as directional until you've seen the originals.
+
+Even with those caveats, the direction is hard to argue with. A role that shapes most of a team's engagement shouldn't be filled by default.
+
+## Why "Best Performer" Is a Weak Test
+
+Strong individual contributors succeed by doing the work themselves. Managers succeed by getting work done through other people. Those are different skills, and being good at the first tells you little about the second.
+
+Gallup names five manager traits it associates with better engagement and performance: motivation, workstyle, initiation, collaboration, and thought process. It also says these can be developed, not only selected for. Notice what's missing from the list: technical excellence, tenure, and sales numbers.
+
+There's also a human cost on the other side of the table. Promote someone who doesn't want the job or hasn't been prepared for it and you've set them up to join the 22%. If you want the longer story on how stretched managers lose engagement, our piece on [the manager engagement collapse of 2026](/resources/manager-ai-engagement-collapse-2026) covers it.
+
+## A Practical Way to Choose Better
+
+You don't need a vendor assessment to improve on "whoever's been here longest." These steps use ordinary hiring discipline and fit most teams.
+
+1. **Write down what the manager role is for.** Not the title, the outcomes. For example: keeps a team of eight engaged, gives useful feedback every week, develops two people toward their next role.
+2. **Separate the two questions.** "Is this person excellent at their current work?" and "Would they be good at managing others doing it?" need different evidence.
+3. **Use the same questions for every candidate.** Structured interviews beat gut feel in the hiring research. The same logic works for internal promotions: agree the questions first, then score every candidate against them.
+4. **Ask for behaviour, not opinions.** "Tell me about a time you got a disengaged colleague back on track" tells you more than "What's your leadership philosophy?"
+5. **Offer a trial before a title.** Let candidates lead a project, run a team meeting, or coach a newer colleague for a few weeks. Watch how the team responds.
+6. **Let people say no.** A strong contributor who prefers staying a specialist is a good outcome, as long as your pay and career structure lets them grow without managing.
+
+## Prepare the People You Pick
+
+Selection is half of it. Gallup reports that only 44% of managers globally have had management training, so even a good pick often starts with no tools.
+
+On development, Gallup reports that managers who completed a strengths-based development program had up to 22% higher engagement, up to 18% higher team engagement, and 21% to 28% lower employee turnover compared with peers. These are Gallup's own program results, so apply the same caution as above. Still, the pattern fits a simple point: new managers improve when someone teaches the job.
+
+Start with the basics. Our [first-time manager handbook](/guides/first-time-manager-handbook) covers the first months, and [building high-performance teams](/guides/building-high-performance-teams) helps once the basics are in place. Check team size as well. Gallup notes that manager engagement tends to fall as teams grow, and the effect varies with manager talent. We look at the numbers in [span of control and how many direct reports a manager can handle](/resources/span-of-control-2026-how-many-direct-reports).
+
+## The Takeaway
+
+Promoting your best performer feels fair and it feels safe. The research suggests it's neither, at least not on its own. Gallup's 82% figure is a modelled estimate from a company that sells selection tools, so don't treat it as a measured failure rate. But the consistent signal across its work is clear: managers shape engagement, most aren't picked for management talent, and fewer than half are trained.
+
+You can act on that without buying anything. Define the job, test for the job, try people in it before you commit, and teach them once they're there.
+
+---
+
+*Sources: Gallup, "How Managers Impact Team Productivity" (gallup.com/workplace/713033/managers-and-team-productivity.aspx), published July 27, 2026 and updated September 30, 2026, which summarizes Gallup's 2020 meta-analysis of managerial hiring and development profiles (136 studies, 14,597 managers), a 2025 study of U.S. frontline supervisors, and the 2025 and 2026 State of the Global Workplace reports. Figures were taken from the summary page; full methods and sample sizes for several were not available there. Gallup sells talent assessments for manager selection.*
+
+---
+
+*Lead through every market. Join 161,812+ professionals at The Leader's Table for research-backed leadership guidance.*
+    `,
+  },
+  {
     slug: "workers-rate-managers-monthly-turnover-experiment-nber-2026",
     title: "What Happened When Factory Workers Rated Their Managers Every Month",
     excerpt: "A randomized trial at a Chinese car plant gave 76 teams either normal evaluations or monthly worker ratings of their managers. Worker turnover fell 6.2 percentage points and team KPI scores rose 2.3 points, mostly through lower turnover. What a single-firm experiment does and doesn't prove about upward feedback.",
