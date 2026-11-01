@@ -50,7 +50,7 @@ export default function AboutPage() {
               Your Partner in Leadership Excellence
             </h1>
             <p className="text-xl text-navy-200 leading-relaxed">
-              {siteConfig.tagline} We believe great leadership can be learned,
+              {siteConfig.tagline} Great leadership can be learned,
               practiced, and refined. That&apos;s why we&apos;re here.
             </p>
           </AnimatedDiv>
