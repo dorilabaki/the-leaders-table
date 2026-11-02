@@ -54,6 +54,81 @@ export const pillars = [
 // Blog Articles
 export const articles = [
   {
+    slug: "managerial-training-who-to-train-garment-factory-nber-2023",
+    title: "Who Should You Send to Manager Training? A 55,000-Worker Experiment Says Not Who You'd Pick",
+    excerpt: "At an Indian garment maker, supervisors were randomly assigned to a 25-week leadership program. Efficiency rose 4.1 points on average, but the gains went to the supervisors their bosses ranked lowest. Why managers pick the wrong people to train, and what a single-firm working paper can and can't tell you.",
+    category: "Leadership",
+    readTime: "7 min read",
+    publishedAt: "2026-11-02",
+    content: `
+# Who Should You Send to Manager Training? A 55,000-Worker Experiment Says Not Who You'd Pick
+
+Most training budgets go to the people their managers rate highest. It feels logical: invest in your best. A randomized experiment at one of India's largest garment manufacturers tested that instinct, and the answer was uncomfortable. The productivity gains came mostly from the supervisors middle managers had ranked as least likely to benefit.
+
+The paper is "On the Allocation and Impacts of Managerial Training" by Achyuta Adhvaryu, Emir Murathanoglu, and Anant Nyshadham (NBER Working Paper 31335, June 2023). It's a working paper about one firm in one country. I'll cover the limits below.
+
+## What They Ran
+
+The setting was Shahi Exports, India's largest ready-made garment contract manufacturer, which owns roughly 70 factories. The program was called STITCH, a soft-skills and leadership course for line supervisors. It ran 25 weekly one-hour sessions across four modules: communication, planning and organization, problem-solving, and motivation.
+
+At baseline there were 1,849 eligible supervisors, split almost evenly between treatment (928) and control (921). Before randomization, middle managers ranked supervisors from 1 to 5 on how much they expected each to gain from training. Assignment was then random, stratified by that ranking, so the researchers could compare similar supervisors with and without the course. Productivity was measured at the production-line level, covering 561 lines, and roughly 55,000 workers were matched to the study lines for attendance and retention data.
+
+## What They Found
+
+**Supervisors learned the material.** Test scores on the later modules rose by about 22 to 39 percentage points.
+
+**Efficiency rose.** Line efficiency went up 4.1 percentage points during training (7.3% of the control mean) and 3.3 points in the six months after (5.8%).
+
+**The gains weren't evenly spread.** During training, lines run by supervisors ranked "low" by their middle managers gained 6.2 points, about 11%. Lines run by supervisors ranked "high" gained 1.5 points, about 3%, which wasn't statistically significant. After training, the low-ranked group gained 6.6 points while the high-ranked group showed effectively no gain.
+
+**Retention told a different story.** Treated supervisors were about 15% less likely to quit in the full sample (relative hazard 0.845). Among the supervisors with manager rankings, the effect was about 10% and not statistically significant. Within that group, treated high-ranked supervisors were 22% less likely to quit versus 3% for low-ranked ones, but the authors say they are underpowered to confirm that difference.
+
+**Pay moved a little.** Treated supervisors' salary growth was 0.8 percentage points higher than control, about 6% of the control mean. Lines were more likely to earn a bonus: 3 percentage points more during training and 4 points after, both significant only at the 10% level.
+
+## Why Managers Picked the Wrong People
+
+The authors' explanation is about incentives, not bad judgment. When a supervisor quits, a middle manager has to find a replacement, onboard them, and cover the gap. Middle managers therefore tended to recommend supervisors who were likely to stay after training, even though those supervisors gained less productivity. The authors call this a misallocation of training: what's good for the middle manager's workload isn't what's best for the firm's output.
+
+The paper backs this with a small survey of 50 middle and upper managers in five factories. The authors say that sample isn't representative, so treat the mechanism as a plausible account, not a proven one.
+
+## The Return the Authors Calculate
+
+The paper estimates net profit to the firm of about $4.46 million through six months after training, or about $4,807 per treated supervisor, and describes a net rate of return of 54 times cost. Those are the authors' own calculations, and the paper lists the cost components (direct training, higher salary growth, higher incentive payments) without giving a total training cost I could verify, so I'd read the 54x figure as an order-of-magnitude signal. The authors also argue that if the firm had trained only the highly ranked supervisors, gains and return would have been negligible.
+
+## What This Doesn't Show
+
+**One firm, one country, one industry.** Garment line supervisors in India are not software team leads or hospital charge nurses. The mechanism may transfer. The size of the effect may not.
+
+**It's a working paper.** It hasn't been through the same review as a journal article, and the authors say the work predates their pre-registration policy.
+
+**Some results are imprecise.** The heterogeneity estimates by manager ranking are noisy, and the retention-by-ranking split is explicitly underpowered.
+
+**Supervisors, not senior leaders.** The program targeted front-line supervisors. It says little about executive development.
+
+**Efficiency isn't everything.** The study measures line efficiency, attendance, retention, and pay. It doesn't measure worker wellbeing or fairness.
+
+## What Leaders Can Take From It
+
+The cleanest takeaway is narrow: don't assume the people you'd nominate for training are the people who benefit most.
+
+- **Ask what the nominator gains.** If the person choosing who gets training also carries the cost of that person leaving, expect a bias toward people who won't leave. Name it before you decide.
+- **Test selection on a small scale.** Randomly assigning a slice of eligible managers to a program is the only way to know who benefits. If that's not feasible, compare outcomes across your own cohorts.
+- **Look at the lower-ranked, not just the stars.** In this study the group nobody expected to benefit gained the most productivity. That deserves a second look before the next training list is signed off.
+- **Separate retention goals from skill goals.** Training can serve both, but the people who stay and the people who improve may not be the same.
+- **Follow up after the course ends.** The gains here lasted at least six months, which is a reason to measure at that point, not only at the end of the program.
+
+For the coaching habits that make training stick, see our pieces on [managers as coaches](/resources/manager-as-coach-2026-gallup-data) and [the first-time manager's handbook](/guides/first-time-manager-handbook). If you're asking why strong individual performers don't always become strong managers, our piece on [the Peter Principle](/resources/peter-principle-promotion-best-performer-2026) covers that. And on whether managerial skill is trainable at all, our sister site Growth Mindset covers the evidence on [deliberate practice](https://growthmindset.academy/resources/deliberate-practice-mindset-beyond-growth).
+
+## Bottom Line
+
+In a randomized experiment covering 1,849 supervisors at an Indian garment maker, a 25-week leadership program raised line efficiency about 4 points on average. The gains were concentrated among supervisors their middle managers had ranked lowest, because managers tended to nominate people likely to stay. It's a single-firm working paper, so treat it as a reason to question your own training nominations, not as a rule.
+
+## Sources
+
+- Adhvaryu, A., Murathanoglu, E., and Nyshadham, A., "On the Allocation and Impacts of Managerial Training," NBER Working Paper 31335, June 2023. https://www.nber.org/papers/w31335
+`,
+  },
+  {
     slug: "gallup-manager-selection-wrong-pick-estimate-2026",
     title: "Gallup Estimates Companies Pick the Wrong Manager 82% of the Time. Here's What to Do About It.",
     excerpt: "Gallup says managers drive 70% of the variance in team engagement, yet most are chosen for past performance or tenure. What the research shows about picking managers, where the numbers need caution, and a practical way to choose better.",
