@@ -54,6 +54,87 @@ export const pillars = [
 // Blog Articles
 export const articles = [
   {
+    slug: "hybrid-work-trial-quit-rates-managers-trip-com-nber-2022",
+    title: "Hybrid Work Cut Quits by a Third in a Randomized Trial. Managers Were the Exception.",
+    excerpt: "In a six-month experiment at Trip.com, 1,612 employees were randomly assigned to work from home two days a week. Quits fell 33% and performance held steady, but manager quit rates rose. What the NBER working paper shows, and what one firm can't tell you.",
+    category: "Teams",
+    readTime: "7 min read",
+    publishedAt: "2026-11-05",
+    content: `
+# Hybrid Work Cut Quits by a Third in a Randomized Trial. Managers Were the Exception.
+
+Most arguments about hybrid work run on anecdote and instinct. This one runs on a coin flip. At Trip.com, a Shanghai-based travel company, researchers randomly assigned employees to work from home two days a week and tracked what happened for six months. The headline result: fewer people quit and measured performance didn't drop. The detail leaders tend to skip: managers quit more, not less.
+
+The paper is "How Hybrid Working From Home Works Out" by Nicholas Bloom, Ruobing Han, and James Liang (NBER Working Paper 30292, July 2022, revised January 2023). It's a working paper about one company, so I'll be explicit about the limits.
+
+## How the Experiment Worked
+
+Trip.com is NASDAQ-listed with about 35,000 employees. The sample was 1,612 employees in its Airfare and IT divisions, covering engineering, marketing, and finance: 1,219 non-managers and 393 managers. Interns and probationary new hires were excluded.
+
+Employees received an optional offer by email, and 518 volunteered. Among volunteers, those with odd birthdays were assigned to hybrid and those with even birthdays stayed in the office full time. Because volunteering was lower than hoped, the company later brought in the remaining non-volunteers and randomized odd-birthday employees among them too. Volunteers started the week of 9 August 2021, non-volunteers the week of 13 September 2021.
+
+Hybrid meant working from home on Wednesday and Friday, at the employee's option. The trial was planned for six months and effectively ended early on 21 January 2022, when the company let all employees work from home after a COVID case in the Shanghai building.
+
+## What They Found
+
+**Quits fell by a third.** Over the six months, attrition was 4.7% in the hybrid group versus 7.2% in the control group, a 33% reduction.
+
+**The effect was bigger for non-managers.** Their quit rate was 5.3% under hybrid versus 8.6% in the office, a 38% reduction. The paper also reports significantly lower quit rates for women, for employees with long commutes, and for newer hires with 36 months of tenure or less. The text doesn't give exact percentages for the first two groups, so I won't either.
+
+**Managers went the other way.** Manager quit rates were 3.1% under hybrid versus 2.0% in the office, a 55% increase in relative terms. The absolute numbers are small, so a handful of departures moves the percentage a lot, but the paper highlights the result.
+
+**Satisfaction rose.** Survey measures of work satisfaction, life satisfaction, work-life balance, and willingness to recommend the job all increased significantly.
+
+**Performance didn't fall.** Performance review grades over the following two review periods showed no significant effect, and promotion rates showed no significant effect either. Among 653 software engineers, lines of code written were up 4.4% for the hybrid group, which was not statistically significant. The authors say this rules out large positive or negative productivity effects at this sample size, not small ones.
+
+**Some behaviors shifted.** Hybrid employees sent 12.7% more messages overall, worked about two fewer hours on days at home, and logged more VPN time on office days and weekends. Time lost to sick days, holidays, and absences fell by 1.174%, which the authors translate to roughly three more working days a year.
+
+**Take-up was partial.** About 55% of volunteers and 40% of non-volunteers actually used a work-from-home day. Non-managers and people with longer commutes were more likely to volunteer and to use it.
+
+## The Manager Gap
+
+The most useful finding for leaders is the mismatch between belief and data. The paper reports that managers expected hybrid to hurt productivity on average, while non-managers expected it to help. The objective measures showed no significant productivity loss. Yet the group most skeptical of the policy was also the group whose quit rate rose.
+
+The paper doesn't prove why managers left at higher rates, and I'd be guessing if I told you. What it does support is a narrower point: a hybrid policy that works for most of a team can still land differently on the people responsible for running it. If you roll out hybrid work, ask your managers directly what has become harder for them.
+
+## What Trip.com Did Next
+
+After the experiment ended, the company reviewed the data and, at an executive meeting, decided to roll out work from home company-wide. The paper says this was announced on 14 February 2022, and that several other Chinese tech firms later adopted similar policies.
+
+## What This Doesn't Show
+
+**One company, six months.** A Chinese travel-tech firm with young, mostly college-educated staff isn't every workplace. Effects could differ in other industries, countries, and career stages.
+
+**Productivity measures are imperfect.** Lines of code and performance ratings miss a lot. The authors note that lines of code is an imperfect measure.
+
+**Null results are not zero effects.** No significant change in performance and promotions rules out large effects, but small ones could be hiding.
+
+**Self-selection matters.** Volunteers chose to join the trial, and the paper flags possible selective attrition and reliance on self-reported beliefs as limitations.
+
+**It's a working paper.** It hasn't been through the same review as a journal article, and one author, James Liang, is a co-founder and chairman of Trip.com. The paper states that no funding came from the company.
+
+**Two days, not five.** This tested a structured two-day arrangement. It says nothing about fully remote teams.
+
+## What Leaders Can Take From It
+
+- **Design the policy around fixed days.** The experiment used set days, Wednesday and Friday. Predictability is easier to manage than case-by-case approvals.
+- **Judge on outputs you already measure.** Trip.com leaders looked at performance reviews, promotions, and code output. Decide your measures before the pilot, not after.
+- **Check your own assumptions.** If managers expect a productivity drop, test it with data before you tighten the rules.
+- **Watch manager retention separately.** Don't average it into the team number. This is the one group where the result went the wrong way.
+- **Pilot before you mandate.** Randomizing a slice of a team is the only way to know the effect of a policy rather than the effect of who chose it.
+
+For the manager side of hybrid, see our [Leading-a-Hybrid-Team Handbook](/guides/leading-hybrid-team-handbook). For what return-to-office mandates cost in talent, see [what Gartner's data says about the RTO wave](/resources/rto-mandate-leadership-2026-gartner-data). And for how employees weigh their options when a workplace policy changes, our sister site How To Find A Job has a guide at [howtofindajob.org](https://howtofindajob.org/resources/job-search-after-rto-mandate-2026).
+
+## Bottom Line
+
+In a randomized trial of 1,612 employees, working from home two days a week cut quits by 33% and showed no significant change in performance reviews or promotions. Manager quit rates rose, from 2.0% to 3.1%. It's one company's six-month experiment, so use it to ask better questions, not to settle the debate.
+
+## Sources
+
+- Bloom, N., Han, R., and Liang, J., "How Hybrid Working From Home Works Out," NBER Working Paper 30292, July 2022 (revised January 2023). https://www.nber.org/papers/w30292
+`,
+  },
+  {
     slug: "managerial-training-who-to-train-garment-factory-nber-2023",
     title: "Who Should You Send to Manager Training? A 55,000-Worker Experiment Says Not Who You'd Pick",
     excerpt: "At an Indian garment maker, supervisors were randomly assigned to a 25-week leadership program. Efficiency rose 4.1 points on average, but the gains went to the supervisors their bosses ranked lowest. Why managers pick the wrong people to train, and what a single-firm working paper can and can't tell you.",
