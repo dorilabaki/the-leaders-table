@@ -54,6 +54,83 @@ export const pillars = [
 // Blog Articles
 export const articles = [
   {
+    slug: "toxic-workers-cost-of-misconduct-hbs-working-paper-2015",
+    title: "Avoiding One Toxic Hire Was Worth More Than Hiring a Superstar, a 58,542-Worker Study Estimates",
+    excerpt: "A Harvard Business School working paper tracked 58,542 workers across 11 firms and put a price on misconduct: $12,489 per toxic worker versus $5,303 for a top-1% performer. What it shows, what it can't, and what leaders can do with it.",
+    category: "Teams",
+    readTime: "7 min read",
+    publishedAt: "2026-11-09",
+    content: `
+# Avoiding One Toxic Hire Was Worth More Than Hiring a Superstar, a 58,542-Worker Study Estimates
+
+Hiring conversations tend to chase upside: the star, the high performer, the next top salesperson. Michael Housman and Dylan Minor asked the opposite question. What does it cost to employ someone who commits serious misconduct, and how does that compare with the benefit of a standout? Their answer, in a Harvard Business School working paper, is that avoiding the first is worth more than landing the second. The paper is older (October 2015) and still widely cited, so it's worth reading carefully rather than repeating the headline.
+
+The paper is "Toxic Workers," Harvard Business School Working Paper No. 16-057. It's a working paper circulated for comment, and I found no evidence it was later published in a journal. I read the paper and the HBS Working Knowledge write-up of it.
+
+## What the Study Measured
+
+The data covers 11 firms, 184 sub-firms (end clients of business-process outsourcers), 2,882 workgroups and 58,542 workers. These are hourly frontline service workers, mostly at outsourcers, in industries including retail, financial services and health care. About 70 percent of the firms were US-based, according to HBS.
+
+The authors define toxic behavior narrowly: involuntary termination due to an egregious violation of company policy. Their examples are sexual harassment, workplace violence, falsifying documents, fraud and general workplace misconduct. That definition matters. It means the study counts misconduct serious enough to get someone fired, not rudeness or a difficult personality.
+
+The data came from a job-testing vendor's assessment scores, termination records from the client firms, and daily performance data for a subset of workers.
+
+## What They Found
+
+**The cost of one toxic worker: $12,489.** HBS reports this as the cost of replacing one toxic worker, including the effects of turnover that toxic behavior triggers. The authors say it doesn't include other potential costs, and HBS notes it excludes lawsuits and liability, so it's likely on the low end.
+
+**The value of a superstar: $5,303.** That's the estimated gain from replacing an average worker with one in the top 1% of performance. The paper's own framing is that avoiding a toxic worker generates returns of nearly two-to-one compared with hiring a superstar. The raw numbers give a ratio a bit above two, but I'm quoting the authors' wording. They also call the superstar figure an upper bound on cost savings, because higher output often comes with higher pay.
+
+**Toxicity spreads.** A one-standard-deviation increase in exposure to toxic coworkers was associated with a 46% higher hazard of a worker becoming toxic too. HBS's write-up draws the practical lesson: if a toxic worker stays, managers should be on red alert.
+
+**Toxic workers were productive in one way.** The authors report they work at a faster rate, but at lower quality.
+
+## Who Turned Out Toxic
+
+The paper links several measurable traits to a higher hazard of toxic behavior:
+
+| Trait | Reported association |
+|---|---|
+| Poor service orientation | More than a 22% increased hazard |
+| Overconfidence about one's own skills | About 15% higher hazard per standard deviation |
+| Strong belief that rules must always be followed | About 25% greater hazard |
+
+The rules finding surprises people, so it's worth being precise: the HBS write-up says workers who strongly agree that rules should never be broken were much more likely to be toxic. The authors also report that cognitive test scores weren't a significant predictor.
+
+On person versus situation, the paper attributes about 70% of explanatory power to the individual and about 30% to the situation, and says the individual explains almost 88% in a worker's first placement.
+
+## What This Doesn't Show
+
+**It's hourly frontline work.** These are service and call-center style roles at outsourcers. Executives, professionals and small teams may behave differently, and the dollar figures won't transfer to your payroll.
+
+**It only counts misconduct that gets caught.** The authors say they can only measure toxicity that's discovered and eliminated through termination, so they may be partially measuring the outcome.
+
+**The cost is a model estimate.** $12,489 is the authors' calculation, and it deliberately leaves out several costs.
+
+**The traits are tendencies, not a screening test.** A 15% to 25% higher hazard on a base of rare events doesn't make any individual a risk. I wouldn't build a hiring filter on the rules-belief finding alone, and these results shouldn't be read as permission to profile people.
+
+**It's a working paper from 2015.** It hasn't been through formal peer review as far as I can tell, and workplaces have changed.
+
+## What Leaders Can Take From It
+
+- **Count the downside in hiring.** Ask what a bad hire costs you, in turnover, repair and lost trust, before you weigh the upside of a star.
+- **Act on the contagion finding.** The 46% figure is about exposure over time. Address serious misconduct promptly rather than waiting out a high performer.
+- **Don't confuse output with fit.** The paper reports toxic workers can be faster. Speed isn't a defense when quality drops.
+- **Make reporting easy.** You can only remove problems you know about. Our piece on [psychological safety as a business metric](/resources/psychological-safety-team-performance) covers why people stay quiet and how to change that.
+- **Check your promotion logic.** If you reward the loudest top performer, you may be rewarding the wrong signal. See [the measurable cost of promoting your best performer](/resources/peter-principle-promotion-best-performer-2026).
+- **Own the manager's role.** [A separate experiment on finding good managers](/resources/how-do-you-find-a-good-manager-nber-experiment-2026) shows how much the person in charge changes team outcomes.
+
+## Bottom Line
+
+In a sample of 58,542 hourly workers across 11 firms, the authors estimated that one toxic worker cost $12,489 and a top-1% performer was worth $5,303, with toxic behavior spreading to coworkers. It's a single working paper on frontline service jobs, so treat it as a strong prompt to weigh misconduct risk in hiring and retention, not a precise price tag for your team.
+
+## Sources
+
+- Housman, M., and Minor, D., "Toxic Workers," Harvard Business School Working Paper No. 16-057, October 2015. https://dash.harvard.edu/server/api/core/bitstreams/7312037d-aaac-6bd4-e053-0100007fdf3b/content
+- Holland, R., "Hazard Warning: The Unacceptable Cost of Toxic Workers," HBS Working Knowledge, 18 January 2016. https://www.library.hbs.edu/working-knowledge/hazard-warning-the-unacceptable-cost-of-toxic-workers
+`,
+  },
+  {
     slug: "hybrid-work-trial-quit-rates-managers-trip-com-nber-2022",
     title: "Hybrid Work Cut Quits by a Third in a Randomized Trial. Managers Were the Exception.",
     excerpt: "In a six-month experiment at Trip.com, 1,612 employees were randomly assigned to work from home two days a week. Quits fell 33% and performance held steady, but manager quit rates rose. What the NBER working paper shows, and what one firm can't tell you.",
