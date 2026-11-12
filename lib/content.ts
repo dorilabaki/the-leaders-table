@@ -54,6 +54,74 @@ export const pillars = [
 // Blog Articles
 export const articles = [
   {
+    slug: "ai-use-supervisor-trust-penalty-leadership-quarterly-2026",
+    title: "Employees Who Used AI Were Trusted Far Less by Their Bosses. One Policy Change Closed Most of the Gap.",
+    excerpt: "In a Leadership Quarterly paper, supervisors trusted an employee's report 68% of the time when the work was done alone and 24% when AI helped. When the organization explicitly encouraged AI use, the penalty was no longer statistically significant. What leaders should take from it.",
+    category: "Leadership",
+    readTime: "6 min read",
+    publishedAt: "2026-11-12",
+    content: `
+# Employees Who Used AI Were Trusted Far Less by Their Bosses. One Policy Change Closed Most of the Gap.
+
+Most AI rollouts focus on the tool: licences, training, prompts. A new paper looks at something leaders rarely measure. When a manager knows an employee used AI to do a piece of work, does the manager trust that employee less?
+
+The answer, across six studies, was yes. And the size of the gap was large enough to matter for reviews and promotions. The good news for leaders is that one factor cut the penalty down sharply, and it's a factor you control.
+
+## The Study
+
+The paper is "Psychological reactions to subordinates' LLM use at work," published in The Leadership Quarterly (DOI 10.1016/j.leaqua.2026.102004). The authors are Samuel Meyers and Dr. Yochanan Bigman of the Hebrew University of Jerusalem and Dr. Roman Briker of WHU Otto Beisheim School of Management in Germany. Hebrew University announced the findings in a news release on 4 November 2026.
+
+A note on what we read: the details below come from the university's release. We couldn't access the full paper, so we don't report sample sizes or statistical tests, and we'd encourage anyone making policy decisions to read the paper itself.
+
+## What the Researchers Found
+
+**The core experiment.** Supervisors had to decide whether to trust an employee's report of how long a task took, or check it themselves. They knew whether the employee had done the work alone or with AI. According to the release, employees who worked on their own had a 68% chance of being trusted. Employees who used AI had a 24% chance.
+
+**It wasn't about quality.** The release says supervisors were reacting to how the work was produced, not how good it was.
+
+**AI sat between honest work and copying.** AI-assisted work was trusted less than independent work, but more than plagiarized work.
+
+**The penalty spread to career outcomes.** In further experiments, lower trust was linked to weaker performance evaluations, a lower sense of the employee's contribution to the organization, and lower perceived suitability for promotion.
+
+**It showed up with real work, too.** In a study of academic supervisors rating actual graduate-student work, the more extensively students had used AI, the less their supervisors trusted them.
+
+## The Finding Leaders Should Act On
+
+The trust penalty depended on organizational policy. When the organization explicitly encouraged AI use, the release says the penalty dropped substantially and was no longer statistically significant. When AI was prohibited, or when there was no policy at all, supervisors were significantly less likely to trust employees who used it.
+
+Two things that you might expect to help didn't reliably do so. Neither the importance of the task nor the supervisor's own experience with AI consistently removed the penalty.
+
+"AI is changing not only how we work, but also how we judge the people we work with," Bigman said in the release.
+
+The researchers also warn about "shadow AI," the undisclosed use of AI at work. That follows from the findings. If people expect to be judged for using AI, the rational move is to use it quietly. That leaves the organization with less visibility into how work actually gets done.
+
+## What This Means for Your Team
+
+This is our reading of the findings, not advice from the paper's authors.
+
+- **Silence is a policy, and it's the costly one.** The penalty was strongest where AI was banned or where no policy existed. If your organization hasn't said anything, your managers may be filling the gap with suspicion.
+- **Say it out loud, and put it in writing.** Explicit encouragement is what shrank the gap. A sentence in a team charter or a manager's kickoff note is cheap. Spell out where AI is welcome and where it isn't.
+- **Separate "how" from "how good."** Supervisors in the study were judging the process, not the output. Build review criteria around accuracy, judgment and outcomes, and ask people to own and check AI-assisted work rather than hide it.
+- **Check yourself before reviews.** If you know someone uses AI heavily, ask whether that's lowering your rating of their contribution. The study suggests it could be, even when the work is the same.
+- **Make disclosure safe.** Shadow AI grows when disclosure feels risky. Our piece on [psychological safety as a business metric](/resources/psychological-safety-team-performance) covers the leader behaviors that make people comfortable being open.
+
+For context on where managers already stand, see our coverage of [Gallup data on manager support for AI use](/resources/manager-support-ai-use-gallup-2026) and [what employees think about managers using AI for sensitive tasks](/resources/managers-ai-sensitive-tasks-difficult-conversations-survey-2026). If your team is still learning the tools, [How Do I Use AI](https://howdoiuse.ai) has practical guides, and job seekers wondering how AI skills read to employers can find advice at [How To Find A Job](https://howtofindajob.org).
+
+## Limits Worth Knowing
+
+The headline figures come from experiments where supervisors were told how the work was done. Real workplaces are messier. People often don't know whether a colleague used AI, and attitudes may shift as AI use becomes routine. The release also doesn't say how representative the samples were. Treat the 68% versus 24% gap as evidence that a trust penalty exists and can be large, not as a precise forecast for your team.
+
+## Bottom Line
+
+In this research, knowing an employee used AI cut supervisors' trust from 68% to 24%, and the lower trust carried into evaluations and promotion judgments. Explicit organizational encouragement of AI use was the condition under which the penalty stopped being statistically significant. If you want your team to use AI openly, you have to say so clearly and then judge the work on its results.
+
+## Sources
+
+- Meyers, S., Bigman, Y., and Briker, R., "Psychological reactions to subordinates' LLM use at work," The Leadership Quarterly, 2026. https://doi.org/10.1016/j.leaqua.2026.102004
+- The Hebrew University of Jerusalem, "Using ChatGPT at work? Your boss may trust you less, new study finds," news release via EurekAlert, 4 November 2026. https://www.eurekalert.org/news-releases/1150468
+`,
+  },
+  {
     slug: "toxic-workers-cost-of-misconduct-hbs-working-paper-2015",
     title: "Avoiding One Toxic Hire Was Worth More Than Hiring a Superstar, a 58,542-Worker Study Estimates",
     excerpt: "A Harvard Business School working paper tracked 58,542 workers across 11 firms and put a price on misconduct: $12,489 per toxic worker versus $5,303 for a top-1% performer. What it shows, what it can't, and what leaders can do with it.",
